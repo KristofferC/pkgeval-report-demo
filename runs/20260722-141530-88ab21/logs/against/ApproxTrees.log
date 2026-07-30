@@ -1,0 +1,16 @@
+PkgEval job log — ApproxTrees v0.2.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxTrees...
+   Resolving package versions...
+   Installed ApproxTrees ─ v0.2.3
+Precompiling packages...
+  190 dependencies successfully precompiled in 26 seconds
+Testing ApproxTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxTrees          | 15501  53516  305.1s
+     Testing ApproxTrees tests passed

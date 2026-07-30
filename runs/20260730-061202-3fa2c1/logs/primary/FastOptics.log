@@ -1,0 +1,16 @@
+PkgEval job log — FastOptics v1.10.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastOptics...
+   Resolving package versions...
+   Installed FastOptics ─ v1.10.2
+Precompiling packages...
+  106 dependencies successfully precompiled in 38 seconds
+Testing FastOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastOptics          | 22573  26345  1404.1s
+     Testing FastOptics tests passed

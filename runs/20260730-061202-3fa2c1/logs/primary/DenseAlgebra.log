@@ -1,0 +1,16 @@
+PkgEval job log — DenseAlgebra v1.6.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseAlgebra...
+   Resolving package versions...
+   Installed DenseAlgebra ─ v1.6.5
+Precompiling packages...
+  123 dependencies successfully precompiled in 67 seconds
+Testing DenseAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseAlgebra          | 81931  30427  231.1s
+     Testing DenseAlgebra tests passed

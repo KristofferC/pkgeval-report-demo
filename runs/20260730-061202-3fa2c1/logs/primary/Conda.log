@@ -1,0 +1,16 @@
+PkgEval job log — Conda v0.12.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Conda...
+   Resolving package versions...
+   Installed Conda ─ v0.12.5
+Precompiling packages...
+  151 dependencies successfully precompiled in 21 seconds
+Testing Conda
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Conda          | 40982  52776  882.1s
+     Testing Conda tests passed

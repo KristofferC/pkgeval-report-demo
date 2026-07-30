@@ -1,0 +1,16 @@
+PkgEval job log — MicroFields v1.9.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroFields...
+   Resolving package versions...
+   Installed MicroFields ─ v1.9.5
+Precompiling packages...
+  17 dependencies successfully precompiled in 51 seconds
+Testing MicroFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroFields          | 86354  84995  296.1s
+     Testing MicroFields tests passed

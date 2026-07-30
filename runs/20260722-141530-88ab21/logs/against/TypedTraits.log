@@ -1,0 +1,16 @@
+PkgEval job log — TypedTraits v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedTraits...
+   Resolving package versions...
+   Installed TypedTraits ─ v0.11.1
+Precompiling packages...
+  143 dependencies successfully precompiled in 79 seconds
+Testing TypedTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedTraits          | 27297  13730  1447.1s
+     Testing TypedTraits tests passed

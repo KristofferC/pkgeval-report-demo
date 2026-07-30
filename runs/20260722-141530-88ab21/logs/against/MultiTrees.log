@@ -1,0 +1,16 @@
+PkgEval job log — MultiTrees v0.1.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiTrees...
+   Resolving package versions...
+   Installed MultiTrees ─ v0.1.3
+Precompiling packages...
+  9 dependencies successfully precompiled in 206 seconds
+Testing MultiTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiTrees          | 11063  79093  2235.1s
+     Testing MultiTrees tests passed

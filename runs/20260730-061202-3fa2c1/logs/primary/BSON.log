@@ -1,0 +1,16 @@
+PkgEval job log — BSON v2.6.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BSON...
+   Resolving package versions...
+   Installed BSON ─ v2.6.0
+Precompiling packages...
+  162 dependencies successfully precompiled in 23 seconds
+Testing BSON
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BSON          | 30750  70547  1642.1s
+     Testing BSON tests passed

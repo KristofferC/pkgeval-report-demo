@@ -1,0 +1,16 @@
+PkgEval job log — FillArrays v0.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FillArrays...
+   Resolving package versions...
+   Installed FillArrays ─ v0.7.6
+Precompiling packages...
+  92 dependencies successfully precompiled in 56 seconds
+Testing FillArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FillArrays          | 61752  7727  889.1s
+     Testing FillArrays tests passed

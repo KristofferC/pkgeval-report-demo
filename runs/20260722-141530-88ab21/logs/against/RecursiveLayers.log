@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveLayers v0.3.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveLayers...
+   Resolving package versions...
+   Installed RecursiveLayers ─ v0.3.0
+Precompiling packages...
+  26 dependencies successfully precompiled in 80 seconds
+Testing RecursiveLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveLayers          | 71558  50337  1022.1s
+     Testing RecursiveLayers tests passed

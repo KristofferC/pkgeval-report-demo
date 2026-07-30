@@ -1,0 +1,16 @@
+PkgEval job log — GenericMetrics v1.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericMetrics...
+   Resolving package versions...
+   Installed GenericMetrics ─ v1.3.8
+Precompiling packages...
+  126 dependencies successfully precompiled in 215 seconds
+Testing GenericMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericMetrics          | 21825  42840  934.1s
+     Testing GenericMetrics tests passed

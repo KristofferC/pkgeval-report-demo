@@ -1,0 +1,16 @@
+PkgEval job log — ExactKernels v1.14.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactKernels...
+   Resolving package versions...
+   Installed ExactKernels ─ v1.14.6
+Precompiling packages...
+  83 dependencies successfully precompiled in 185 seconds
+Testing ExactKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactKernels          | 5576  44736  883.1s
+     Testing ExactKernels tests passed

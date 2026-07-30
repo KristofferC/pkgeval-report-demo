@@ -1,0 +1,16 @@
+PkgEval job log — TiledFilters v0.8.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledFilters...
+   Resolving package versions...
+   Installed TiledFilters ─ v0.8.7
+Precompiling packages...
+  192 dependencies successfully precompiled in 146 seconds
+Testing TiledFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledFilters          | 25922  39176  1248.1s
+     Testing TiledFilters tests passed

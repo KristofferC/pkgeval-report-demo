@@ -1,0 +1,16 @@
+PkgEval job log — SparseLearning v1.9.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseLearning...
+   Resolving package versions...
+   Installed SparseLearning ─ v1.9.2
+Precompiling packages...
+  21 dependencies successfully precompiled in 122 seconds
+Testing SparseLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseLearning          | 39234  15778  710.1s
+     Testing SparseLearning tests passed

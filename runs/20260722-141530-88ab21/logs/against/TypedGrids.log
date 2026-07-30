@@ -1,0 +1,16 @@
+PkgEval job log — TypedGrids v2.10.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedGrids...
+   Resolving package versions...
+   Installed TypedGrids ─ v2.10.5
+Precompiling packages...
+  41 dependencies successfully precompiled in 158 seconds
+Testing TypedGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedGrids          | 16084  80203  2325.1s
+     Testing TypedGrids tests passed

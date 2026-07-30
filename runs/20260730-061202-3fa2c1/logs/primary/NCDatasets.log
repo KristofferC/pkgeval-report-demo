@@ -1,0 +1,16 @@
+PkgEval job log — NCDatasets v0.7.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NCDatasets...
+   Resolving package versions...
+   Installed NCDatasets ─ v0.7.2
+Precompiling packages...
+  14 dependencies successfully precompiled in 234 seconds
+Testing NCDatasets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NCDatasets          | 46832  40239  1684.1s
+     Testing NCDatasets tests passed

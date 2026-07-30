@@ -1,0 +1,16 @@
+PkgEval job log — TensorCalculus v0.11.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorCalculus...
+   Resolving package versions...
+   Installed TensorCalculus ─ v0.11.4
+Precompiling packages...
+  98 dependencies successfully precompiled in 24 seconds
+Testing TensorCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorCalculus          | 54259  6931  366.1s
+     Testing TensorCalculus tests passed

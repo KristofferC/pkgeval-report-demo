@@ -1,0 +1,16 @@
+PkgEval job log — FastGaussQuadrature v0.3.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastGaussQuadrature...
+   Resolving package versions...
+   Installed FastGaussQuadrature ─ v0.3.6
+Precompiling packages...
+  185 dependencies successfully precompiled in 92 seconds
+Testing FastGaussQuadrature
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastGaussQuadrature          | 716  60619  265.1s
+     Testing FastGaussQuadrature tests passed

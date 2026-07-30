@@ -1,0 +1,16 @@
+PkgEval job log — ExactControl v0.11.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactControl...
+   Resolving package versions...
+   Installed ExactControl ─ v0.11.6
+Precompiling packages...
+  103 dependencies successfully precompiled in 237 seconds
+Testing ExactControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactControl          | 61624  74196  137.1s
+     Testing ExactControl tests passed

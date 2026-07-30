@@ -1,0 +1,16 @@
+PkgEval job log — BayesianControl v2.7.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianControl...
+   Resolving package versions...
+   Installed BayesianControl ─ v2.7.9
+Precompiling packages...
+  42 dependencies successfully precompiled in 92 seconds
+Testing BayesianControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianControl          | 42910  62357  1098.1s
+     Testing BayesianControl tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MatrixGeometry v0.1.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixGeometry...
+   Resolving package versions...
+   Installed MatrixGeometry ─ v0.1.2
+Precompiling packages...
+  104 dependencies successfully precompiled in 39 seconds
+Testing MatrixGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixGeometry          | 56606  64230  290.1s
+     Testing MatrixGeometry tests passed

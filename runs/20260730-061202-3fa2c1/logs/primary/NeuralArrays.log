@@ -1,0 +1,16 @@
+PkgEval job log — NeuralArrays v0.14.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralArrays...
+   Resolving package versions...
+   Installed NeuralArrays ─ v0.14.6
+Precompiling packages...
+  13 dependencies successfully precompiled in 226 seconds
+Testing NeuralArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralArrays          | 89281  22894  601.1s
+     Testing NeuralArrays tests passed

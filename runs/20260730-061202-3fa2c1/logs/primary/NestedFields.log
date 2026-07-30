@@ -1,0 +1,16 @@
+PkgEval job log — NestedFields v2.14.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedFields...
+   Resolving package versions...
+   Installed NestedFields ─ v2.14.1
+Precompiling packages...
+  94 dependencies successfully precompiled in 149 seconds
+Testing NestedFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedFields          | 80106  64759  1207.1s
+     Testing NestedFields tests passed

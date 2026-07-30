@@ -1,0 +1,16 @@
+PkgEval job log — StreamCalculus v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamCalculus...
+   Resolving package versions...
+   Installed StreamCalculus ─ v0.3.8
+Precompiling packages...
+  140 dependencies successfully precompiled in 65 seconds
+Testing StreamCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamCalculus          | 62374  78138  762.1s
+     Testing StreamCalculus tests passed

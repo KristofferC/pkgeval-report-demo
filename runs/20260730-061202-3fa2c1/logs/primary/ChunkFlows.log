@@ -1,0 +1,16 @@
+PkgEval job log — ChunkFlows v2.4.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkFlows...
+   Resolving package versions...
+   Installed ChunkFlows ─ v2.4.7
+Precompiling packages...
+  100 dependencies successfully precompiled in 136 seconds
+Testing ChunkFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkFlows          | 23225  31877  422.1s
+     Testing ChunkFlows tests passed

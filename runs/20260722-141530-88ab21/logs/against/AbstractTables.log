@@ -1,0 +1,16 @@
+PkgEval job log — AbstractTables v1.7.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractTables...
+   Resolving package versions...
+   Installed AbstractTables ─ v1.7.8
+Precompiling packages...
+  47 dependencies successfully precompiled in 176 seconds
+Testing AbstractTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractTables          | 56435  46149  882.1s
+     Testing AbstractTables tests passed

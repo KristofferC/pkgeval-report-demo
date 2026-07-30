@@ -1,0 +1,16 @@
+PkgEval job log — EzXML v0.14.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing EzXML...
+   Resolving package versions...
+   Installed EzXML ─ v0.14.4
+Precompiling packages...
+  168 dependencies successfully precompiled in 11 seconds
+Testing EzXML
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+EzXML          | 76246  30758  1238.1s
+     Testing EzXML tests passed

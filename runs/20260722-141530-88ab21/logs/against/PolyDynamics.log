@@ -1,0 +1,16 @@
+PkgEval job log — PolyDynamics v1.13.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyDynamics...
+   Resolving package versions...
+   Installed PolyDynamics ─ v1.13.9
+Precompiling packages...
+  53 dependencies successfully precompiled in 149 seconds
+Testing PolyDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyDynamics          | 37387  55849  731.1s
+     Testing PolyDynamics tests passed

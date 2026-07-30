@@ -1,0 +1,16 @@
+PkgEval job log — TensorArrays v0.4.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorArrays...
+   Resolving package versions...
+   Installed TensorArrays ─ v0.4.4
+Precompiling packages...
+  60 dependencies successfully precompiled in 52 seconds
+Testing TensorArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorArrays          | 89601  43920  157.1s
+     Testing TensorArrays tests passed

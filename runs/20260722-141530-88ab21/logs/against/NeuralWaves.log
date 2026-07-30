@@ -1,0 +1,16 @@
+PkgEval job log — NeuralWaves v0.5.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralWaves...
+   Resolving package versions...
+   Installed NeuralWaves ─ v0.5.7
+Precompiling packages...
+  160 dependencies successfully precompiled in 211 seconds
+Testing NeuralWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralWaves          | 42420  64807  681.1s
+     Testing NeuralWaves tests passed

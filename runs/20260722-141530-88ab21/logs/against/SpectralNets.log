@@ -1,0 +1,16 @@
+PkgEval job log — SpectralNets v0.6.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralNets...
+   Resolving package versions...
+   Installed SpectralNets ─ v0.6.3
+Precompiling packages...
+  153 dependencies successfully precompiled in 199 seconds
+Testing SpectralNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralNets          | 58893  53259  1022.1s
+     Testing SpectralNets tests passed

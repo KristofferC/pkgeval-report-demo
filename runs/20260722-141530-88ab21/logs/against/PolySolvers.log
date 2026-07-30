@@ -1,0 +1,23 @@
+PkgEval job log — PolySolvers v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolySolvers...
+   Resolving package versions...
+   Installed PolySolvers ─ v0.1.0
+Precompiling packages...
+  134 dependencies successfully precompiled in 123 seconds
+Testing PolySolvers
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/PolySolvers/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `PolySolversHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+PolySolvers          |  192     2      1    26
+ERROR: LoadError: Some tests did not pass
+     Testing PolySolvers tests failed

@@ -1,0 +1,16 @@
+PkgEval job log — MicroTools v1.7.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroTools...
+   Resolving package versions...
+   Installed MicroTools ─ v1.7.6
+Precompiling packages...
+  187 dependencies successfully precompiled in 232 seconds
+Testing MicroTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroTools          | 27439  77321  657.1s
+     Testing MicroTools tests passed

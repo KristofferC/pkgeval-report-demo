@@ -1,0 +1,16 @@
+PkgEval job log — GraphSets v0.9.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphSets...
+   Resolving package versions...
+   Installed GraphSets ─ v0.9.2
+Precompiling packages...
+  146 dependencies successfully precompiled in 231 seconds
+Testing GraphSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphSets          | 51439  35420  456.1s
+     Testing GraphSets tests passed

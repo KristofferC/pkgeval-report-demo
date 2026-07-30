@@ -1,0 +1,16 @@
+PkgEval job log — VectorTools v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorTools...
+   Resolving package versions...
+   Installed VectorTools ─ v0.11.1
+Precompiling packages...
+  193 dependencies successfully precompiled in 29 seconds
+Testing VectorTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorTools          | 5536  10359  1464.1s
+     Testing VectorTools tests passed

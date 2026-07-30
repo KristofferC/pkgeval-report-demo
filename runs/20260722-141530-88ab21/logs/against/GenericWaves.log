@@ -1,0 +1,16 @@
+PkgEval job log — GenericWaves v1.10.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericWaves...
+   Resolving package versions...
+   Installed GenericWaves ─ v1.10.2
+Precompiling packages...
+  90 dependencies successfully precompiled in 202 seconds
+Testing GenericWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericWaves          | 86777  75766  548.1s
+     Testing GenericWaves tests passed

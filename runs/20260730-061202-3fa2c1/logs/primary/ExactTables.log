@@ -1,0 +1,16 @@
+PkgEval job log — ExactTables v2.13.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactTables...
+   Resolving package versions...
+   Installed ExactTables ─ v2.13.1
+Precompiling packages...
+  117 dependencies successfully precompiled in 147 seconds
+Testing ExactTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactTables          | 51216  48273  1321.1s
+     Testing ExactTables tests passed

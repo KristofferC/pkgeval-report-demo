@@ -1,0 +1,16 @@
+PkgEval job log — MatrixLayers v1.8.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixLayers...
+   Resolving package versions...
+   Installed MatrixLayers ─ v1.8.0
+Precompiling packages...
+  32 dependencies successfully precompiled in 69 seconds
+Testing MatrixLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixLayers          | 69274  1714  1211.1s
+     Testing MatrixLayers tests passed

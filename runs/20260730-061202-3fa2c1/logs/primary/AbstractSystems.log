@@ -1,0 +1,16 @@
+PkgEval job log — AbstractSystems v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractSystems...
+   Resolving package versions...
+   Installed AbstractSystems ─ v0.14.2
+Precompiling packages...
+  145 dependencies successfully precompiled in 220 seconds
+Testing AbstractSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractSystems          | 75216  38124  602.1s
+     Testing AbstractSystems tests passed

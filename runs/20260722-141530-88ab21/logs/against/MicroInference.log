@@ -1,0 +1,16 @@
+PkgEval job log — MicroInference v0.2.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroInference...
+   Resolving package versions...
+   Installed MicroInference ─ v0.2.9
+Precompiling packages...
+  41 dependencies successfully precompiled in 67 seconds
+Testing MicroInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroInference          | 37184  19135  1206.1s
+     Testing MicroInference tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MetaInference v0.8.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaInference...
+   Resolving package versions...
+   Installed MetaInference ─ v0.8.0
+Precompiling packages...
+  21 dependencies successfully precompiled in 78 seconds
+Testing MetaInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaInference          | 53211  81204  576.1s
+     Testing MetaInference tests passed

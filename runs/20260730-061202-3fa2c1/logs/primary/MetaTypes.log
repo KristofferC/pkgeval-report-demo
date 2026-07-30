@@ -1,0 +1,16 @@
+PkgEval job log — MetaTypes v1.7.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaTypes...
+   Resolving package versions...
+   Installed MetaTypes ─ v1.7.6
+Precompiling packages...
+  62 dependencies successfully precompiled in 168 seconds
+Testing MetaTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaTypes          | 56189  86214  747.1s
+     Testing MetaTypes tests passed

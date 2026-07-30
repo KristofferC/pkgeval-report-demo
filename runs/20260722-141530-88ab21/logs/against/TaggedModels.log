@@ -1,0 +1,16 @@
+PkgEval job log — TaggedModels v2.2.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedModels...
+   Resolving package versions...
+   Installed TaggedModels ─ v2.2.9
+Precompiling packages...
+  94 dependencies successfully precompiled in 232 seconds
+Testing TaggedModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedModels          | 35663  69207  1549.1s
+     Testing TaggedModels tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ChunkModels v1.11.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkModels...
+   Resolving package versions...
+   Installed ChunkModels ─ v1.11.7
+Precompiling packages...
+  188 dependencies successfully precompiled in 132 seconds
+Testing ChunkModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkModels          | 13803  62341  439.1s
+     Testing ChunkModels tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TaggedTrees v1.11.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedTrees...
+   Resolving package versions...
+   Installed TaggedTrees ─ v1.11.5
+Precompiling packages...
+  104 dependencies successfully precompiled in 190 seconds
+Testing TaggedTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedTrees          | 35303  22485  1558.1s
+     Testing TaggedTrees tests passed

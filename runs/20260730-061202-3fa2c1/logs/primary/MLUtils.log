@@ -1,0 +1,16 @@
+PkgEval job log — MLUtils v1.13.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MLUtils...
+   Resolving package versions...
+   Installed MLUtils ─ v1.13.7
+Precompiling packages...
+  33 dependencies successfully precompiled in 120 seconds
+Testing MLUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MLUtils          | 80234  39310  882.1s
+     Testing MLUtils tests passed

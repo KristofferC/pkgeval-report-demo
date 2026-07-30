@@ -1,0 +1,16 @@
+PkgEval job log — Flux v1.12.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Flux...
+   Resolving package versions...
+   Installed Flux ─ v1.12.5
+Precompiling packages...
+  101 dependencies successfully precompiled in 12 seconds
+Testing Flux
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Flux          | 42941  10404  974.1s
+     Testing Flux tests passed

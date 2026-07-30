@@ -1,0 +1,16 @@
+PkgEval job log — TreeSystems v0.14.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeSystems...
+   Resolving package versions...
+   Installed TreeSystems ─ v0.14.1
+Precompiling packages...
+  78 dependencies successfully precompiled in 129 seconds
+Testing TreeSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeSystems          | 40168  42053  775.1s
+     Testing TreeSystems tests passed

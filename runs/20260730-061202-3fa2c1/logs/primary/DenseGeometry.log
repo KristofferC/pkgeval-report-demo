@@ -1,0 +1,23 @@
+PkgEval job log — DenseGeometry v0.6.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseGeometry...
+   Resolving package versions...
+   Installed DenseGeometry ─ v0.6.4
+Precompiling packages...
+  146 dependencies successfully precompiled in 55 seconds
+Testing DenseGeometry
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/DenseGeometry/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `DenseGeometryHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+DenseGeometry          |  387     2      1    188
+ERROR: LoadError: Some tests did not pass
+     Testing DenseGeometry tests failed

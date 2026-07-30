@@ -1,0 +1,17 @@
+PkgEval job log — FusedMetrics v0.14.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedMetrics...
+   Resolving package versions...
+   Installed FusedMetrics ─ v0.14.9
+Precompiling packages...
+  202 dependencies successfully precompiled in 187 seconds
+Testing FusedMetrics
+     Testing Running tests...
+Internal error: during type inference of
+  FusedMetrics.solve!(::FusedMetrics.Workspace, ::Vector{Float64})
+Encountered unexpected error in runtime:
+AssertionError("isa(typ, DataType)")

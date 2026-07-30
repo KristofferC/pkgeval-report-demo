@@ -1,0 +1,16 @@
+PkgEval job log — TreeGeometry v1.10.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeGeometry...
+   Resolving package versions...
+   Installed TreeGeometry ─ v1.10.3
+Precompiling packages...
+  76 dependencies successfully precompiled in 178 seconds
+Testing TreeGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeGeometry          | 16671  2545  565.1s
+     Testing TreeGeometry tests passed

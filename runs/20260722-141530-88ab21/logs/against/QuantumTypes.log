@@ -1,0 +1,16 @@
+PkgEval job log — QuantumTypes v2.9.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumTypes...
+   Resolving package versions...
+   Installed QuantumTypes ─ v2.9.2
+Precompiling packages...
+  143 dependencies successfully precompiled in 136 seconds
+Testing QuantumTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumTypes          | 928  80235  965.1s
+     Testing QuantumTypes tests passed

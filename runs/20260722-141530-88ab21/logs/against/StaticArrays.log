@@ -1,0 +1,16 @@
+PkgEval job log — StaticArrays v1.8.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticArrays...
+   Resolving package versions...
+   Installed StaticArrays ─ v1.8.5
+Precompiling packages...
+  149 dependencies successfully precompiled in 208 seconds
+Testing StaticArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticArrays          | 41900  70839  1085.1s
+     Testing StaticArrays tests passed

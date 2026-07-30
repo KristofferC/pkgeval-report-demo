@@ -1,0 +1,16 @@
+PkgEval job log — GenericFlows v1.2.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericFlows...
+   Resolving package versions...
+   Installed GenericFlows ─ v1.2.1
+Precompiling packages...
+  80 dependencies successfully precompiled in 65 seconds
+Testing GenericFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericFlows          | 15303  47658  884.1s
+     Testing GenericFlows tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MultiArrays v1.2.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiArrays...
+   Resolving package versions...
+   Installed MultiArrays ─ v1.2.2
+Precompiling packages...
+  160 dependencies successfully precompiled in 39 seconds
+Testing MultiArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiArrays          | 19793  47058  1329.1s
+     Testing MultiArrays tests passed

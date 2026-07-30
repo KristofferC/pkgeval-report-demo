@@ -1,0 +1,16 @@
+PkgEval job log — DistributedUtils v1.2.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedUtils...
+   Resolving package versions...
+   Installed DistributedUtils ─ v1.2.2
+Precompiling packages...
+  78 dependencies successfully precompiled in 16 seconds
+Testing DistributedUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedUtils          | 54220  68982  472.1s
+     Testing DistributedUtils tests passed

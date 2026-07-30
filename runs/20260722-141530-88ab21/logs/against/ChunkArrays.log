@@ -1,0 +1,16 @@
+PkgEval job log — ChunkArrays v2.14.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkArrays...
+   Resolving package versions...
+   Installed ChunkArrays ─ v2.14.7
+Precompiling packages...
+  41 dependencies successfully precompiled in 88 seconds
+Testing ChunkArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkArrays          | 7556  78446  209.1s
+     Testing ChunkArrays tests passed

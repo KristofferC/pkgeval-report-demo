@@ -1,0 +1,16 @@
+PkgEval job log — AbstractLayers v1.2.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractLayers...
+   Resolving package versions...
+   Installed AbstractLayers ─ v1.2.3
+Precompiling packages...
+  180 dependencies successfully precompiled in 63 seconds
+Testing AbstractLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractLayers          | 78793  33096  1127.1s
+     Testing AbstractLayers tests passed

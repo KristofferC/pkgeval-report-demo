@@ -1,0 +1,16 @@
+PkgEval job log — CachedSystems v2.5.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedSystems...
+   Resolving package versions...
+   Installed CachedSystems ─ v2.5.5
+Precompiling packages...
+  15 dependencies successfully precompiled in 206 seconds
+Testing CachedSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedSystems          | 45605  42748  1220.1s
+     Testing CachedSystems tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — CachedTools v1.8.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedTools...
+   Resolving package versions...
+   Installed CachedTools ─ v1.8.8
+Precompiling packages...
+  92 dependencies successfully precompiled in 201 seconds
+Testing CachedTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedTools          | 56672  65018  505.1s
+     Testing CachedTools tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SparsePhysics v2.5.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparsePhysics...
+   Resolving package versions...
+   Installed SparsePhysics ─ v2.5.8
+Precompiling packages...
+  16 dependencies successfully precompiled in 40 seconds
+Testing SparsePhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparsePhysics          | 38977  71733  972.1s
+     Testing SparsePhysics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — JuMP v2.8.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing JuMP...
+   Resolving package versions...
+   Installed JuMP ─ v2.8.6
+Precompiling packages...
+  191 dependencies successfully precompiled in 124 seconds
+Testing JuMP
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+JuMP          | 1528  7503  681.1s
+     Testing JuMP tests passed

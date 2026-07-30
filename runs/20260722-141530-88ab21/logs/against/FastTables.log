@@ -1,0 +1,16 @@
+PkgEval job log — FastTables v0.8.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastTables...
+   Resolving package versions...
+   Installed FastTables ─ v0.8.5
+Precompiling packages...
+  29 dependencies successfully precompiled in 133 seconds
+Testing FastTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastTables          | 83944  69417  1012.1s
+     Testing FastTables tests passed

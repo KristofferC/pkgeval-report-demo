@@ -1,0 +1,16 @@
+PkgEval job log — ProgressMeter v1.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ProgressMeter...
+   Resolving package versions...
+   Installed ProgressMeter ─ v1.14.2
+Precompiling packages...
+  182 dependencies successfully precompiled in 158 seconds
+Testing ProgressMeter
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ProgressMeter          | 600  59447  1623.1s
+     Testing ProgressMeter tests passed

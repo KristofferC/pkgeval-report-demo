@@ -1,0 +1,16 @@
+PkgEval job log — ExactSets v1.12.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactSets...
+   Resolving package versions...
+   Installed ExactSets ─ v1.12.6
+Precompiling packages...
+  176 dependencies successfully precompiled in 215 seconds
+Testing ExactSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactSets          | 4087  76650  1082.1s
+     Testing ExactSets tests passed

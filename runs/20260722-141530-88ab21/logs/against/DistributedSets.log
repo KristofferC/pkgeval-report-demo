@@ -1,0 +1,16 @@
+PkgEval job log — DistributedSets v1.1.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedSets...
+   Resolving package versions...
+   Installed DistributedSets ─ v1.1.8
+Precompiling packages...
+  69 dependencies successfully precompiled in 238 seconds
+Testing DistributedSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedSets          | 63918  50616  1226.1s
+     Testing DistributedSets tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — IsoPhysics v1.12.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoPhysics...
+   Resolving package versions...
+   Installed IsoPhysics ─ v1.12.0
+Precompiling packages...
+  150 dependencies successfully precompiled in 25 seconds
+Testing IsoPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoPhysics          | 28784  7080  1388.1s
+     Testing IsoPhysics tests passed

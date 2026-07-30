@@ -1,0 +1,16 @@
+PkgEval job log — MatrixLearning v1.5.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixLearning...
+   Resolving package versions...
+   Installed MatrixLearning ─ v1.5.8
+Precompiling packages...
+  81 dependencies successfully precompiled in 236 seconds
+Testing MatrixLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixLearning          | 41356  60463  962.1s
+     Testing MatrixLearning tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — VectorTrees v2.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorTrees...
+   Resolving package versions...
+   Installed VectorTrees ─ v2.1.9
+Precompiling packages...
+  78 dependencies successfully precompiled in 186 seconds
+Testing VectorTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorTrees          | 29719  28303  519.1s
+     Testing VectorTrees tests passed

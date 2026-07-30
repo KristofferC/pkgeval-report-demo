@@ -1,0 +1,16 @@
+PkgEval job log — AbstractSolvers v0.9.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractSolvers...
+   Resolving package versions...
+   Installed AbstractSolvers ─ v0.9.2
+Precompiling packages...
+  89 dependencies successfully precompiled in 16 seconds
+Testing AbstractSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractSolvers          | 11529  85914  405.1s
+     Testing AbstractSolvers tests passed

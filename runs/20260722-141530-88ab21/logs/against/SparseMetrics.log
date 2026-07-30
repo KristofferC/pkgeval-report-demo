@@ -1,0 +1,16 @@
+PkgEval job log — SparseMetrics v0.9.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseMetrics...
+   Resolving package versions...
+   Installed SparseMetrics ─ v0.9.9
+Precompiling packages...
+  18 dependencies successfully precompiled in 175 seconds
+Testing SparseMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseMetrics          | 85406  47860  841.1s
+     Testing SparseMetrics tests passed

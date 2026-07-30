@@ -1,0 +1,16 @@
+PkgEval job log — AbstractTransforms v0.13.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractTransforms...
+   Resolving package versions...
+   Installed AbstractTransforms ─ v0.13.2
+Precompiling packages...
+  200 dependencies successfully precompiled in 144 seconds
+Testing AbstractTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractTransforms          | 11836  32310  1230.1s
+     Testing AbstractTransforms tests passed

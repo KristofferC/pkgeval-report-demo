@@ -1,0 +1,16 @@
+PkgEval job log — IsoSystems v0.11.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoSystems...
+   Resolving package versions...
+   Installed IsoSystems ─ v0.11.7
+Precompiling packages...
+  126 dependencies successfully precompiled in 126 seconds
+Testing IsoSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoSystems          | 23275  75698  548.1s
+     Testing IsoSystems tests passed

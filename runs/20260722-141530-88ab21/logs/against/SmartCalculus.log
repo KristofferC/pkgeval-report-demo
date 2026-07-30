@@ -1,0 +1,16 @@
+PkgEval job log — SmartCalculus v1.10.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartCalculus...
+   Resolving package versions...
+   Installed SmartCalculus ─ v1.10.5
+Precompiling packages...
+  179 dependencies successfully precompiled in 35 seconds
+Testing SmartCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartCalculus          | 71791  25520  779.1s
+     Testing SmartCalculus tests passed

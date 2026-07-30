@@ -1,0 +1,16 @@
+PkgEval job log — MultiSystems v1.5.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiSystems...
+   Resolving package versions...
+   Installed MultiSystems ─ v1.5.0
+Precompiling packages...
+  20 dependencies successfully precompiled in 99 seconds
+Testing MultiSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiSystems          | 51609  39059  1366.1s
+     Testing MultiSystems tests passed

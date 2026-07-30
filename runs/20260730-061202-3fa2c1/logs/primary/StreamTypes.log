@@ -1,0 +1,16 @@
+PkgEval job log — StreamTypes v1.0.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamTypes...
+   Resolving package versions...
+   Installed StreamTypes ─ v1.0.2
+Precompiling packages...
+  63 dependencies successfully precompiled in 109 seconds
+Testing StreamTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamTypes          | 83238  30091  1036.1s
+     Testing StreamTypes tests passed

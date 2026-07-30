@@ -1,0 +1,16 @@
+PkgEval job log — StochasticWaves v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticWaves...
+   Resolving package versions...
+   Installed StochasticWaves ─ v0.11.1
+Precompiling packages...
+  14 dependencies successfully precompiled in 76 seconds
+Testing StochasticWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticWaves          | 58051  30925  661.1s
+     Testing StochasticWaves tests passed

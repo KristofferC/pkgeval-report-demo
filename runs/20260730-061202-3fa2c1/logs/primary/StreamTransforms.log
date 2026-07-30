@@ -1,0 +1,16 @@
+PkgEval job log — StreamTransforms v2.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamTransforms...
+   Resolving package versions...
+   Installed StreamTransforms ─ v2.10.7
+Precompiling packages...
+  62 dependencies successfully precompiled in 66 seconds
+Testing StreamTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamTransforms          | 39252  23530  1123.1s
+     Testing StreamTransforms tests passed

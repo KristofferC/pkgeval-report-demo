@@ -1,0 +1,16 @@
+PkgEval job log — TiledTypes v0.13.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledTypes...
+   Resolving package versions...
+   Installed TiledTypes ─ v0.13.0
+Precompiling packages...
+  108 dependencies successfully precompiled in 177 seconds
+Testing TiledTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledTypes          | 73954  82827  697.1s
+     Testing TiledTypes tests passed

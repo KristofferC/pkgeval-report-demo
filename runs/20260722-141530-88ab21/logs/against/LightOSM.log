@@ -1,0 +1,16 @@
+PkgEval job log — LightOSM v0.11.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LightOSM...
+   Resolving package versions...
+   Installed LightOSM ─ v0.11.8
+Precompiling packages...
+  178 dependencies successfully precompiled in 22 seconds
+Testing LightOSM
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LightOSM          | 30584  61483  426.1s
+     Testing LightOSM tests passed

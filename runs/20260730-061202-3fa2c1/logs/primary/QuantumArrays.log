@@ -1,0 +1,16 @@
+PkgEval job log — QuantumArrays v1.5.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumArrays...
+   Resolving package versions...
+   Installed QuantumArrays ─ v1.5.6
+Precompiling packages...
+  132 dependencies successfully precompiled in 156 seconds
+Testing QuantumArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumArrays          | 70236  44025  54.1s
+     Testing QuantumArrays tests passed

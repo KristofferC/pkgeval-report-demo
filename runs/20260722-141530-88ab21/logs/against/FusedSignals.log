@@ -1,0 +1,16 @@
+PkgEval job log — FusedSignals v0.8.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedSignals...
+   Resolving package versions...
+   Installed FusedSignals ─ v0.8.4
+Precompiling packages...
+  115 dependencies successfully precompiled in 53 seconds
+Testing FusedSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedSignals          | 45151  16229  462.1s
+     Testing FusedSignals tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MultiSignals v0.12.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiSignals...
+   Resolving package versions...
+   Installed MultiSignals ─ v0.12.1
+Precompiling packages...
+  164 dependencies successfully precompiled in 85 seconds
+Testing MultiSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiSignals          | 25764  33043  944.1s
+     Testing MultiSignals tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — LazySets v1.4.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazySets...
+   Resolving package versions...
+   Installed LazySets ─ v1.4.0
+Precompiling packages...
+  180 dependencies successfully precompiled in 138 seconds
+Testing LazySets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazySets          | 44247  6724  1224.1s
+     Testing LazySets tests passed

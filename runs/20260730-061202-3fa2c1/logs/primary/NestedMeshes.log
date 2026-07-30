@@ -1,0 +1,16 @@
+PkgEval job log — NestedMeshes v1.11.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedMeshes...
+   Resolving package versions...
+   Installed NestedMeshes ─ v1.11.5
+Precompiling packages...
+  130 dependencies successfully precompiled in 107 seconds
+Testing NestedMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedMeshes          | 29557  74589  1195.1s
+     Testing NestedMeshes tests passed

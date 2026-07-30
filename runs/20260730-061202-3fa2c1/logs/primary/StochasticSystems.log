@@ -1,0 +1,16 @@
+PkgEval job log — StochasticSystems v1.10.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticSystems...
+   Resolving package versions...
+   Installed StochasticSystems ─ v1.10.9
+Precompiling packages...
+  81 dependencies successfully precompiled in 43 seconds
+Testing StochasticSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticSystems          | 12876  24968  78.1s
+     Testing StochasticSystems tests passed

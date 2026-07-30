@@ -1,0 +1,16 @@
+PkgEval job log — NanoOptics v0.6.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoOptics...
+   Resolving package versions...
+   Installed NanoOptics ─ v0.6.9
+Precompiling packages...
+  20 dependencies successfully precompiled in 128 seconds
+Testing NanoOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoOptics          | 13541  77613  461.1s
+     Testing NanoOptics tests passed

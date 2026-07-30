@@ -1,0 +1,16 @@
+PkgEval job log — TypedSolvers v1.13.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedSolvers...
+   Resolving package versions...
+   Installed TypedSolvers ─ v1.13.8
+Precompiling packages...
+  172 dependencies successfully precompiled in 230 seconds
+Testing TypedSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedSolvers          | 38776  30248  881.1s
+     Testing TypedSolvers tests passed

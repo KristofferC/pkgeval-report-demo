@@ -1,0 +1,16 @@
+PkgEval job log — NestedArrays v1.14.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedArrays...
+   Resolving package versions...
+   Installed NestedArrays ─ v1.14.6
+Precompiling packages...
+  120 dependencies successfully precompiled in 57 seconds
+Testing NestedArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedArrays          | 8740  75098  208.1s
+     Testing NestedArrays tests passed

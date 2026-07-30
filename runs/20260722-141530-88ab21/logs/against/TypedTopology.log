@@ -1,0 +1,16 @@
+PkgEval job log — TypedTopology v1.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedTopology...
+   Resolving package versions...
+   Installed TypedTopology ─ v1.3.8
+Precompiling packages...
+  176 dependencies successfully precompiled in 204 seconds
+Testing TypedTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedTopology          | 51715  60219  466.1s
+     Testing TypedTopology tests passed

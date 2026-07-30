@@ -1,0 +1,16 @@
+PkgEval job log — HyperTraits v1.11.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperTraits...
+   Resolving package versions...
+   Installed HyperTraits ─ v1.11.4
+Precompiling packages...
+  28 dependencies successfully precompiled in 240 seconds
+Testing HyperTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperTraits          | 56608  75047  528.1s
+     Testing HyperTraits tests passed

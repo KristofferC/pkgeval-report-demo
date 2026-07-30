@@ -1,0 +1,16 @@
+PkgEval job log — FusedSampling v0.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedSampling...
+   Resolving package versions...
+   Installed FusedSampling ─ v0.13.2
+Precompiling packages...
+  45 dependencies successfully precompiled in 184 seconds
+Testing FusedSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedSampling          | 16195  3164  1341.1s
+     Testing FusedSampling tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StreamSolvers v1.2.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamSolvers...
+   Resolving package versions...
+   Installed StreamSolvers ─ v1.2.4
+Precompiling packages...
+  191 dependencies successfully precompiled in 169 seconds
+Testing StreamSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamSolvers          | 40232  76136  1414.1s
+     Testing StreamSolvers tests passed

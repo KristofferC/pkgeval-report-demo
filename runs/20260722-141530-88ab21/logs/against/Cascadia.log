@@ -1,0 +1,16 @@
+PkgEval job log — Cascadia v0.9.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Cascadia...
+   Resolving package versions...
+   Installed Cascadia ─ v0.9.6
+Precompiling packages...
+  40 dependencies successfully precompiled in 207 seconds
+Testing Cascadia
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Cascadia          | 57673  49085  1430.1s
+     Testing Cascadia tests passed

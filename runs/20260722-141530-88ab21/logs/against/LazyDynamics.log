@@ -1,0 +1,16 @@
+PkgEval job log — LazyDynamics v0.7.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyDynamics...
+   Resolving package versions...
+   Installed LazyDynamics ─ v0.7.9
+Precompiling packages...
+  45 dependencies successfully precompiled in 170 seconds
+Testing LazyDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyDynamics          | 48836  79977  154.1s
+     Testing LazyDynamics tests passed

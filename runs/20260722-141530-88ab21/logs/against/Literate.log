@@ -1,0 +1,16 @@
+PkgEval job log — Literate v0.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Literate...
+   Resolving package versions...
+   Installed Literate ─ v0.1.9
+Precompiling packages...
+  190 dependencies successfully precompiled in 34 seconds
+Testing Literate
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Literate          | 84468  41871  1166.1s
+     Testing Literate tests passed

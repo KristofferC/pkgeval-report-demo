@@ -1,0 +1,16 @@
+PkgEval job log — MultiMaps v0.4.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiMaps...
+   Resolving package versions...
+   Installed MultiMaps ─ v0.4.4
+Precompiling packages...
+  205 dependencies successfully precompiled in 63 seconds
+Testing MultiMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiMaps          | 58747  21803  142.1s
+     Testing MultiMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DynamicLearning v1.6.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicLearning...
+   Resolving package versions...
+   Installed DynamicLearning ─ v1.6.7
+Precompiling packages...
+  15 dependencies successfully precompiled in 172 seconds
+Testing DynamicLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicLearning          | 69063  82268  1017.1s
+     Testing DynamicLearning tests passed

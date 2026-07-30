@@ -1,0 +1,16 @@
+PkgEval job log — NestedTypes v1.5.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedTypes...
+   Resolving package versions...
+   Installed NestedTypes ─ v1.5.3
+Precompiling packages...
+  113 dependencies successfully precompiled in 139 seconds
+Testing NestedTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedTypes          | 73543  66602  1524.1s
+     Testing NestedTypes tests passed

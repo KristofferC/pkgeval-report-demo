@@ -1,0 +1,16 @@
+PkgEval job log — BlockMaps v0.3.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockMaps...
+   Resolving package versions...
+   Installed BlockMaps ─ v0.3.0
+Precompiling packages...
+  145 dependencies successfully precompiled in 39 seconds
+Testing BlockMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockMaps          | 46311  56237  1387.1s
+     Testing BlockMaps tests passed

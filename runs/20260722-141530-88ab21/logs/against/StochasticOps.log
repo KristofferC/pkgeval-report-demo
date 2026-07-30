@@ -1,0 +1,16 @@
+PkgEval job log — StochasticOps v1.8.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticOps...
+   Resolving package versions...
+   Installed StochasticOps ─ v1.8.6
+Precompiling packages...
+  190 dependencies successfully precompiled in 192 seconds
+Testing StochasticOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticOps          | 2882  39954  537.1s
+     Testing StochasticOps tests passed

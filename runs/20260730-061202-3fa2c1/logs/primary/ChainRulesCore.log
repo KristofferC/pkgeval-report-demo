@@ -1,0 +1,16 @@
+PkgEval job log — ChainRulesCore v1.8.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChainRulesCore...
+   Resolving package versions...
+   Installed ChainRulesCore ─ v1.8.4
+Precompiling packages...
+  10 dependencies successfully precompiled in 36 seconds
+Testing ChainRulesCore
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChainRulesCore          | 60418  69285  178.1s
+     Testing ChainRulesCore tests passed

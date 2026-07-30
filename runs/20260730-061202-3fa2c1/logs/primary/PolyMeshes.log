@@ -1,0 +1,16 @@
+PkgEval job log — PolyMeshes v2.7.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyMeshes...
+   Resolving package versions...
+   Installed PolyMeshes ─ v2.7.2
+Precompiling packages...
+  171 dependencies successfully precompiled in 83 seconds
+Testing PolyMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyMeshes          | 2304  78948  500.1s
+     Testing PolyMeshes tests passed

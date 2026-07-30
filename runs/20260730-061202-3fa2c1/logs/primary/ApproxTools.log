@@ -1,0 +1,16 @@
+PkgEval job log — ApproxTools v0.13.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxTools...
+   Resolving package versions...
+   Installed ApproxTools ─ v0.13.3
+Precompiling packages...
+  31 dependencies successfully precompiled in 195 seconds
+Testing ApproxTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxTools          | 3912  51487  804.1s
+     Testing ApproxTools tests passed

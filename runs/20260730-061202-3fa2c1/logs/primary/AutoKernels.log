@@ -1,0 +1,16 @@
+PkgEval job log — AutoKernels v0.4.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoKernels...
+   Resolving package versions...
+   Installed AutoKernels ─ v0.4.5
+Precompiling packages...
+  180 dependencies successfully precompiled in 145 seconds
+Testing AutoKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoKernels          | 59450  49991  1839.1s
+     Testing AutoKernels tests passed

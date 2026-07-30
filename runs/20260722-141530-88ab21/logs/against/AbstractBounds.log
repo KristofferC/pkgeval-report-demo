@@ -1,0 +1,16 @@
+PkgEval job log — AbstractBounds v1.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractBounds...
+   Resolving package versions...
+   Installed AbstractBounds ─ v1.3.8
+Precompiling packages...
+  65 dependencies successfully precompiled in 158 seconds
+Testing AbstractBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractBounds          | 48386  56237  235.1s
+     Testing AbstractBounds tests passed

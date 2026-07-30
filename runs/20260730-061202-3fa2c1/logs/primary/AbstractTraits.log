@@ -1,0 +1,16 @@
+PkgEval job log — AbstractTraits v1.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractTraits...
+   Resolving package versions...
+   Installed AbstractTraits ─ v1.10.7
+Precompiling packages...
+  60 dependencies successfully precompiled in 87 seconds
+Testing AbstractTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractTraits          | 13216  2052  616.1s
+     Testing AbstractTraits tests passed

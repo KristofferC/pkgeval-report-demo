@@ -1,0 +1,16 @@
+PkgEval job log — NanoGeometry v0.11.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoGeometry...
+   Resolving package versions...
+   Installed NanoGeometry ─ v0.11.2
+Precompiling packages...
+  21 dependencies successfully precompiled in 11 seconds
+Testing NanoGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoGeometry          | 8967  76448  378.1s
+     Testing NanoGeometry tests passed

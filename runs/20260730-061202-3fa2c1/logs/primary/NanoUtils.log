@@ -1,0 +1,23 @@
+PkgEval job log — NanoUtils v0.5.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoUtils...
+   Resolving package versions...
+   Installed NanoUtils ─ v0.5.4
+Precompiling packages...
+  102 dependencies successfully precompiled in 10 seconds
+Testing NanoUtils
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/NanoUtils/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `NanoUtilsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+NanoUtils          |  177     2      1    233
+ERROR: LoadError: Some tests did not pass
+     Testing NanoUtils tests failed

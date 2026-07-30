@@ -1,0 +1,16 @@
+PkgEval job log — AbstractDynamics v0.14.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractDynamics...
+   Resolving package versions...
+   Installed AbstractDynamics ─ v0.14.5
+Precompiling packages...
+  89 dependencies successfully precompiled in 179 seconds
+Testing AbstractDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractDynamics          | 70049  23036  1048.1s
+     Testing AbstractDynamics tests passed

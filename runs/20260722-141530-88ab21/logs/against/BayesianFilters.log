@@ -1,0 +1,16 @@
+PkgEval job log — BayesianFilters v0.5.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianFilters...
+   Resolving package versions...
+   Installed BayesianFilters ─ v0.5.1
+Precompiling packages...
+  69 dependencies successfully precompiled in 126 seconds
+Testing BayesianFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianFilters          | 609  60369  884.1s
+     Testing BayesianFilters tests passed

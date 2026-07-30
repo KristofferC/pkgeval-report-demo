@@ -1,0 +1,16 @@
+PkgEval job log — CachedLearning v1.10.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedLearning...
+   Resolving package versions...
+   Installed CachedLearning ─ v1.10.4
+Precompiling packages...
+  139 dependencies successfully precompiled in 106 seconds
+Testing CachedLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedLearning          | 60561  70571  96.1s
+     Testing CachedLearning tests passed

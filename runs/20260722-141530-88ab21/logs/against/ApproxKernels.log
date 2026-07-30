@@ -1,0 +1,16 @@
+PkgEval job log — ApproxKernels v2.9.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxKernels...
+   Resolving package versions...
+   Installed ApproxKernels ─ v2.9.5
+Precompiling packages...
+  13 dependencies successfully precompiled in 40 seconds
+Testing ApproxKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxKernels          | 75470  54360  351.1s
+     Testing ApproxKernels tests passed

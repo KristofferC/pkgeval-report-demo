@@ -1,0 +1,16 @@
+PkgEval job log — AMDGPU v1.4.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AMDGPU...
+   Resolving package versions...
+   Installed AMDGPU ─ v1.4.3
+Precompiling packages...
+  152 dependencies successfully precompiled in 129 seconds
+Testing AMDGPU
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AMDGPU          | 84562  48193  577.1s
+     Testing AMDGPU tests passed

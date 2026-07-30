@@ -1,0 +1,16 @@
+PkgEval job log — FastTopology v0.0.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastTopology...
+   Resolving package versions...
+   Installed FastTopology ─ v0.0.2
+Precompiling packages...
+  207 dependencies successfully precompiled in 110 seconds
+Testing FastTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastTopology          | 37606  9927  675.1s
+     Testing FastTopology tests passed

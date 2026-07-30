@@ -1,0 +1,16 @@
+PkgEval job log — StreamInference v0.8.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamInference...
+   Resolving package versions...
+   Installed StreamInference ─ v0.8.2
+Precompiling packages...
+  134 dependencies successfully precompiled in 38 seconds
+Testing StreamInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamInference          | 2504  66523  1238.1s
+     Testing StreamInference tests passed

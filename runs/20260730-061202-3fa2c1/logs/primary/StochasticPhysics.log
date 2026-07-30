@@ -1,0 +1,16 @@
+PkgEval job log — StochasticPhysics v0.9.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticPhysics...
+   Resolving package versions...
+   Installed StochasticPhysics ─ v0.9.9
+Precompiling packages...
+  49 dependencies successfully precompiled in 111 seconds
+Testing StochasticPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticPhysics          | 63743  414  1002.1s
+     Testing StochasticPhysics tests passed

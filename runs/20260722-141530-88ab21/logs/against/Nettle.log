@@ -1,0 +1,16 @@
+PkgEval job log — Nettle v0.1.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Nettle...
+   Resolving package versions...
+   Installed Nettle ─ v0.1.8
+Precompiling packages...
+  53 dependencies successfully precompiled in 215 seconds
+Testing Nettle
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Nettle          | 32551  64764  1263.1s
+     Testing Nettle tests passed

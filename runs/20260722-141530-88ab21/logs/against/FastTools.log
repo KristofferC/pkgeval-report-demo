@@ -1,0 +1,16 @@
+PkgEval job log — FastTools v1.13.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastTools...
+   Resolving package versions...
+   Installed FastTools ─ v1.13.0
+Precompiling packages...
+  47 dependencies successfully precompiled in 19 seconds
+Testing FastTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastTools          | 5431  71096  1280.1s
+     Testing FastTools tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StaticSolvers v1.3.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticSolvers...
+   Resolving package versions...
+   Installed StaticSolvers ─ v1.3.8
+Precompiling packages...
+  91 dependencies successfully precompiled in 60 seconds
+Testing StaticSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticSolvers          | 62976  21721  808.1s
+     Testing StaticSolvers tests passed

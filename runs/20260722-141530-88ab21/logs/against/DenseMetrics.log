@@ -1,0 +1,16 @@
+PkgEval job log — DenseMetrics v2.5.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseMetrics...
+   Resolving package versions...
+   Installed DenseMetrics ─ v2.5.3
+Precompiling packages...
+  36 dependencies successfully precompiled in 23 seconds
+Testing DenseMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseMetrics          | 70376  42813  586.1s
+     Testing DenseMetrics tests passed

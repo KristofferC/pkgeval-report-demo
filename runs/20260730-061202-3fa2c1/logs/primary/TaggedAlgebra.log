@@ -1,0 +1,16 @@
+PkgEval job log — TaggedAlgebra v1.12.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedAlgebra...
+   Resolving package versions...
+   Installed TaggedAlgebra ─ v1.12.7
+Precompiling packages...
+  90 dependencies successfully precompiled in 187 seconds
+Testing TaggedAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedAlgebra          | 53246  41823  926.1s
+     Testing TaggedAlgebra tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — NeuralSolvers v0.10.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralSolvers...
+   Resolving package versions...
+   Installed NeuralSolvers ─ v0.10.2
+Precompiling packages...
+  193 dependencies successfully precompiled in 205 seconds
+Testing NeuralSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralSolvers          | 69702  89055  74.1s
+     Testing NeuralSolvers tests passed

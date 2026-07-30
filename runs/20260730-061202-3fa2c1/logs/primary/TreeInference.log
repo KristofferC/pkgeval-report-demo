@@ -1,0 +1,16 @@
+PkgEval job log — TreeInference v1.3.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeInference...
+   Resolving package versions...
+   Installed TreeInference ─ v1.3.1
+Precompiling packages...
+  80 dependencies successfully precompiled in 228 seconds
+Testing TreeInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeInference          | 77878  74355  1508.1s
+     Testing TreeInference tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — FusedLearning v1.12.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedLearning...
+   Resolving package versions...
+   Installed FusedLearning ─ v1.12.4
+Precompiling packages...
+  64 dependencies successfully precompiled in 25 seconds
+Testing FusedLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedLearning          | 49531  3107  663.1s
+     Testing FusedLearning tests passed

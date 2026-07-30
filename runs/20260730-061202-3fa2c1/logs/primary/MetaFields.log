@@ -1,0 +1,15 @@
+PkgEval job log — MetaFields v0.8.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaFields...
+   Resolving package versions...
+   Installed MetaFields ─ v0.8.6
+Precompiling packages...
+  12 dependencies successfully precompiled in 141 seconds
+Testing MetaFields
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile MetaFields [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/MetaFields/xK3Lp/src/MetaFields.jl:1

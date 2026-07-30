@@ -1,0 +1,16 @@
+PkgEval job log — TreePhysics v0.13.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreePhysics...
+   Resolving package versions...
+   Installed TreePhysics ─ v0.13.8
+Precompiling packages...
+  129 dependencies successfully precompiled in 148 seconds
+Testing TreePhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreePhysics          | 57645  89981  1321.1s
+     Testing TreePhysics tests passed

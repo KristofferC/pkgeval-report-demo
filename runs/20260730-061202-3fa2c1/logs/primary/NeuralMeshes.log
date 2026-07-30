@@ -1,0 +1,16 @@
+PkgEval job log — NeuralMeshes v0.5.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralMeshes...
+   Resolving package versions...
+   Installed NeuralMeshes ─ v0.5.1
+Precompiling packages...
+  122 dependencies successfully precompiled in 81 seconds
+Testing NeuralMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralMeshes          | 58994  25855  350.1s
+     Testing NeuralMeshes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — QuantumTrees v0.9.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumTrees...
+   Resolving package versions...
+   Installed QuantumTrees ─ v0.9.7
+Precompiling packages...
+  51 dependencies successfully precompiled in 145 seconds
+Testing QuantumTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumTrees          | 3088  40022  1084.1s
+     Testing QuantumTrees tests passed

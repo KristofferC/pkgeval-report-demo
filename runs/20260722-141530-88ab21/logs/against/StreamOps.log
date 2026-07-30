@@ -1,0 +1,16 @@
+PkgEval job log — StreamOps v1.12.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamOps...
+   Resolving package versions...
+   Installed StreamOps ─ v1.12.0
+Precompiling packages...
+  174 dependencies successfully precompiled in 227 seconds
+Testing StreamOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamOps          | 55409  87753  272.1s
+     Testing StreamOps tests passed

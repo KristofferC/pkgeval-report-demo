@@ -1,0 +1,23 @@
+PkgEval job log — Measurements v2.1.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Measurements...
+   Resolving package versions...
+   Installed Measurements ─ v2.1.7
+Precompiling packages...
+  40 dependencies successfully precompiled in 115 seconds
+Testing Measurements
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/Measurements/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `MeasurementsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+Measurements          |  285     2      1    312
+ERROR: LoadError: Some tests did not pass
+     Testing Measurements tests failed

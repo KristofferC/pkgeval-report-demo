@@ -1,0 +1,16 @@
+PkgEval job log — ChunkFrames v1.5.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkFrames...
+   Resolving package versions...
+   Installed ChunkFrames ─ v1.5.3
+Precompiling packages...
+  122 dependencies successfully precompiled in 240 seconds
+Testing ChunkFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkFrames          | 34247  88090  342.1s
+     Testing ChunkFrames tests passed

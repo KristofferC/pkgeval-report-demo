@@ -1,0 +1,15 @@
+PkgEval job log — VectorFilters v2.2.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorFilters...
+   Resolving package versions...
+   Installed VectorFilters ─ v2.2.2
+Precompiling packages...
+  103 dependencies successfully precompiled in 214 seconds
+Testing VectorFilters
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile VectorFilters [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/VectorFilters/xK3Lp/src/VectorFilters.jl:1

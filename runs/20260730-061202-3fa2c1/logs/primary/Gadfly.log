@@ -1,0 +1,16 @@
+PkgEval job log — Gadfly v0.0.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Gadfly...
+   Resolving package versions...
+   Installed Gadfly ─ v0.0.7
+Precompiling packages...
+  97 dependencies successfully precompiled in 122 seconds
+Testing Gadfly
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Gadfly          | 83688  78682  981.1s
+     Testing Gadfly tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DynamicSolvers v0.5.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicSolvers...
+   Resolving package versions...
+   Installed DynamicSolvers ─ v0.5.5
+Precompiling packages...
+  177 dependencies successfully precompiled in 196 seconds
+Testing DynamicSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicSolvers          | 9484  23654  312.1s
+     Testing DynamicSolvers tests passed

@@ -1,0 +1,15 @@
+PkgEval job log — SimpleWeightedGraphs v1.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SimpleWeightedGraphs...
+   Resolving package versions...
+   Installed SimpleWeightedGraphs ─ v1.13.2
+Precompiling packages...
+  173 dependencies successfully precompiled in 217 seconds
+Testing SimpleWeightedGraphs
+     Testing Running tests...
+ERROR: LoadError: could not load library "libsimpleweightedgraphs"
+libsimpleweightedgraphs.so: cannot open shared object file: No such file or directory

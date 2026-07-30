@@ -1,0 +1,16 @@
+PkgEval job log — SpectralChains v1.14.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralChains...
+   Resolving package versions...
+   Installed SpectralChains ─ v1.14.8
+Precompiling packages...
+  126 dependencies successfully precompiled in 26 seconds
+Testing SpectralChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralChains          | 75311  44525  1310.1s
+     Testing SpectralChains tests passed

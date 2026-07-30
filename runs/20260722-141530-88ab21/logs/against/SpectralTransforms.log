@@ -1,0 +1,16 @@
+PkgEval job log — SpectralTransforms v0.9.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralTransforms...
+   Resolving package versions...
+   Installed SpectralTransforms ─ v0.9.0
+Precompiling packages...
+  51 dependencies successfully precompiled in 76 seconds
+Testing SpectralTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralTransforms          | 58070  6675  1215.1s
+     Testing SpectralTransforms tests passed

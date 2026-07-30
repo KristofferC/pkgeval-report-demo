@@ -1,0 +1,16 @@
+PkgEval job log — GenericGeometry v0.2.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericGeometry...
+   Resolving package versions...
+   Installed GenericGeometry ─ v0.2.5
+Precompiling packages...
+  178 dependencies successfully precompiled in 64 seconds
+Testing GenericGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericGeometry          | 63305  70383  507.1s
+     Testing GenericGeometry tests passed

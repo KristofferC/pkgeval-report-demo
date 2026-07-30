@@ -1,0 +1,16 @@
+PkgEval job log — ExactGrids v1.3.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactGrids...
+   Resolving package versions...
+   Installed ExactGrids ─ v1.3.1
+Precompiling packages...
+  208 dependencies successfully precompiled in 16 seconds
+Testing ExactGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactGrids          | 24023  35690  559.1s
+     Testing ExactGrids tests passed

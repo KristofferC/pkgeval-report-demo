@@ -1,0 +1,23 @@
+PkgEval job log — LazyTransforms v0.12.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyTransforms...
+   Resolving package versions...
+   Installed LazyTransforms ─ v0.12.4
+Precompiling packages...
+  31 dependencies successfully precompiled in 155 seconds
+Testing LazyTransforms
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/LazyTransforms/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `LazyTransformsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+LazyTransforms          |  400     2      1    308
+ERROR: LoadError: Some tests did not pass
+     Testing LazyTransforms tests failed

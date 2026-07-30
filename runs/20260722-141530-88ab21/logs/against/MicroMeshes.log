@@ -1,0 +1,16 @@
+PkgEval job log — MicroMeshes v0.9.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroMeshes...
+   Resolving package versions...
+   Installed MicroMeshes ─ v0.9.2
+Precompiling packages...
+  122 dependencies successfully precompiled in 15 seconds
+Testing MicroMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroMeshes          | 21509  77093  1056.1s
+     Testing MicroMeshes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StaticOptics v0.11.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticOptics...
+   Resolving package versions...
+   Installed StaticOptics ─ v0.11.6
+Precompiling packages...
+  123 dependencies successfully precompiled in 129 seconds
+Testing StaticOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticOptics          | 76360  62367  540.1s
+     Testing StaticOptics tests passed

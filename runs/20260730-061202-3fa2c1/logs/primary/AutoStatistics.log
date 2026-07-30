@@ -1,0 +1,16 @@
+PkgEval job log — AutoStatistics v0.7.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoStatistics...
+   Resolving package versions...
+   Installed AutoStatistics ─ v0.7.0
+Precompiling packages...
+  140 dependencies successfully precompiled in 64 seconds
+Testing AutoStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoStatistics          | 23426  10830  677.1s
+     Testing AutoStatistics tests passed

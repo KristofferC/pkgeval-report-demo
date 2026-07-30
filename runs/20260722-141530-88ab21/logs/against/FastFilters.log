@@ -1,0 +1,16 @@
+PkgEval job log — FastFilters v0.9.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastFilters...
+   Resolving package versions...
+   Installed FastFilters ─ v0.9.7
+Precompiling packages...
+  93 dependencies successfully precompiled in 133 seconds
+Testing FastFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastFilters          | 18992  1088  481.1s
+     Testing FastFilters tests passed

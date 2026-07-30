@@ -1,0 +1,16 @@
+PkgEval job log — TreeNets v0.7.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeNets...
+   Resolving package versions...
+   Installed TreeNets ─ v0.7.2
+Precompiling packages...
+  30 dependencies successfully precompiled in 58 seconds
+Testing TreeNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeNets          | 44354  60364  701.1s
+     Testing TreeNets tests passed

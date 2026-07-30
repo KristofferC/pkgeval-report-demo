@@ -1,0 +1,16 @@
+PkgEval job log — BayesianTrees v2.10.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianTrees...
+   Resolving package versions...
+   Installed BayesianTrees ─ v2.10.9
+Precompiling packages...
+  111 dependencies successfully precompiled in 53 seconds
+Testing BayesianTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianTrees          | 24190  45503  465.1s
+     Testing BayesianTrees tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — GenericKernels v0.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericKernels...
+   Resolving package versions...
+   Installed GenericKernels ─ v0.7.6
+Precompiling packages...
+  147 dependencies successfully precompiled in 178 seconds
+Testing GenericKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericKernels          | 26159  71191  967.1s
+     Testing GenericKernels tests passed

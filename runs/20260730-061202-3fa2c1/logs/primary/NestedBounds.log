@@ -1,0 +1,16 @@
+PkgEval job log — NestedBounds v1.8.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedBounds...
+   Resolving package versions...
+   Installed NestedBounds ─ v1.8.3
+Precompiling packages...
+  70 dependencies successfully precompiled in 160 seconds
+Testing NestedBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedBounds          | 33675  62469  99.1s
+     Testing NestedBounds tests passed

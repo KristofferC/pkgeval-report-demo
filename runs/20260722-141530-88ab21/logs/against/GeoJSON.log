@@ -1,0 +1,16 @@
+PkgEval job log — GeoJSON v2.14.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GeoJSON...
+   Resolving package versions...
+   Installed GeoJSON ─ v2.14.0
+Precompiling packages...
+  153 dependencies successfully precompiled in 42 seconds
+Testing GeoJSON
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GeoJSON          | 26089  46895  476.1s
+     Testing GeoJSON tests passed

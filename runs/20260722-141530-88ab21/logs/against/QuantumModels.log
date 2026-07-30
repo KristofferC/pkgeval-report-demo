@@ -1,0 +1,23 @@
+PkgEval job log — QuantumModels v1.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumModels...
+   Resolving package versions...
+   Installed QuantumModels ─ v1.1.9
+Precompiling packages...
+  58 dependencies successfully precompiled in 220 seconds
+Testing QuantumModels
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/QuantumModels/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `QuantumModelsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+QuantumModels          |  256     2      1    377
+ERROR: LoadError: Some tests did not pass
+     Testing QuantumModels tests failed

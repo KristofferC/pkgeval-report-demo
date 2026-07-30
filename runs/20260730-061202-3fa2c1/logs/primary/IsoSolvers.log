@@ -1,0 +1,16 @@
+PkgEval job log — IsoSolvers v0.14.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoSolvers...
+   Resolving package versions...
+   Installed IsoSolvers ─ v0.14.8
+Precompiling packages...
+  87 dependencies successfully precompiled in 156 seconds
+Testing IsoSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoSolvers          | 15422  62182  1518.1s
+     Testing IsoSolvers tests passed

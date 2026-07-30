@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveInference v0.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveInference...
+   Resolving package versions...
+   Installed AdaptiveInference ─ v0.10.7
+Precompiling packages...
+  81 dependencies successfully precompiled in 118 seconds
+Testing AdaptiveInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveInference          | 24640  58462  356.1s
+     Testing AdaptiveInference tests passed

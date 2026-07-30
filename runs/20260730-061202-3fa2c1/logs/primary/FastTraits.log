@@ -1,0 +1,16 @@
+PkgEval job log — FastTraits v0.11.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastTraits...
+   Resolving package versions...
+   Installed FastTraits ─ v0.11.7
+Precompiling packages...
+  32 dependencies successfully precompiled in 48 seconds
+Testing FastTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastTraits          | 39919  86321  935.1s
+     Testing FastTraits tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ApproxLearning v2.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxLearning...
+   Resolving package versions...
+   Installed ApproxLearning ─ v2.1.9
+Precompiling packages...
+  209 dependencies successfully precompiled in 28 seconds
+Testing ApproxLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxLearning          | 89650  72539  458.1s
+     Testing ApproxLearning tests passed

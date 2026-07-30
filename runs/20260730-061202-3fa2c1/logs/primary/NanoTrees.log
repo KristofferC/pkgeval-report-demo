@@ -1,0 +1,16 @@
+PkgEval job log — NanoTrees v1.1.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoTrees...
+   Resolving package versions...
+   Installed NanoTrees ─ v1.1.5
+Precompiling packages...
+  44 dependencies successfully precompiled in 71 seconds
+Testing NanoTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoTrees          | 64144  42228  860.1s
+     Testing NanoTrees tests passed

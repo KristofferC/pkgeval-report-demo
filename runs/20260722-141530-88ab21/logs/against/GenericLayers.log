@@ -1,0 +1,16 @@
+PkgEval job log — GenericLayers v2.14.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericLayers...
+   Resolving package versions...
+   Installed GenericLayers ─ v2.14.9
+Precompiling packages...
+  194 dependencies successfully precompiled in 36 seconds
+Testing GenericLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericLayers          | 63413  54634  200.1s
+     Testing GenericLayers tests passed

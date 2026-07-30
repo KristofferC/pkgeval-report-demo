@@ -1,0 +1,16 @@
+PkgEval job log — DynamicOptics v0.0.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicOptics...
+   Resolving package versions...
+   Installed DynamicOptics ─ v0.0.3
+Precompiling packages...
+  113 dependencies successfully precompiled in 165 seconds
+Testing DynamicOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicOptics          | 70423  9555  273.1s
+     Testing DynamicOptics tests passed

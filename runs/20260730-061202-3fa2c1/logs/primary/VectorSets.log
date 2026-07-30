@@ -1,0 +1,16 @@
+PkgEval job log — VectorSets v0.3.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorSets...
+   Resolving package versions...
+   Installed VectorSets ─ v0.3.0
+Precompiling packages...
+  140 dependencies successfully precompiled in 73 seconds
+Testing VectorSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorSets          | 12139  9029  351.1s
+     Testing VectorSets tests passed

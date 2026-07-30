@@ -1,0 +1,16 @@
+PkgEval job log — PhysicalConstants v0.1.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PhysicalConstants...
+   Resolving package versions...
+   Installed PhysicalConstants ─ v0.1.4
+Precompiling packages...
+  189 dependencies successfully precompiled in 46 seconds
+Testing PhysicalConstants
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PhysicalConstants          | 25373  76103  712.1s
+     Testing PhysicalConstants tests passed

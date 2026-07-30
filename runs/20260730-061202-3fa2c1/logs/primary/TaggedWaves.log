@@ -1,0 +1,16 @@
+PkgEval job log — TaggedWaves v0.7.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedWaves...
+   Resolving package versions...
+   Installed TaggedWaves ─ v0.7.2
+Precompiling packages...
+  118 dependencies successfully precompiled in 230 seconds
+Testing TaggedWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedWaves          | 43107  36159  330.1s
+     Testing TaggedWaves tests passed

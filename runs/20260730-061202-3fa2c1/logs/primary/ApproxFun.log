@@ -1,0 +1,16 @@
+PkgEval job log — ApproxFun v0.1.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxFun...
+   Resolving package versions...
+   Installed ApproxFun ─ v0.1.6
+Precompiling packages...
+  114 dependencies successfully precompiled in 148 seconds
+Testing ApproxFun
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxFun          | 74467  223  600.1s
+     Testing ApproxFun tests passed

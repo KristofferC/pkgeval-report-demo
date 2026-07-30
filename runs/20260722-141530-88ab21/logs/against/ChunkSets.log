@@ -1,0 +1,16 @@
+PkgEval job log — ChunkSets v1.3.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkSets...
+   Resolving package versions...
+   Installed ChunkSets ─ v1.3.7
+Precompiling packages...
+  89 dependencies successfully precompiled in 222 seconds
+Testing ChunkSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkSets          | 84558  32161  1076.1s
+     Testing ChunkSets tests passed

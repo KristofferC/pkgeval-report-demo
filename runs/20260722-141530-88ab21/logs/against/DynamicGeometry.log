@@ -1,0 +1,16 @@
+PkgEval job log — DynamicGeometry v0.8.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicGeometry...
+   Resolving package versions...
+   Installed DynamicGeometry ─ v0.8.5
+Precompiling packages...
+  156 dependencies successfully precompiled in 119 seconds
+Testing DynamicGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicGeometry          | 26624  86978  364.1s
+     Testing DynamicGeometry tests passed

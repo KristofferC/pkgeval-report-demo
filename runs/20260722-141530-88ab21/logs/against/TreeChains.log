@@ -1,0 +1,16 @@
+PkgEval job log — TreeChains v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeChains...
+   Resolving package versions...
+   Installed TreeChains ─ v0.11.1
+Precompiling packages...
+  100 dependencies successfully precompiled in 155 seconds
+Testing TreeChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeChains          | 53755  79541  747.1s
+     Testing TreeChains tests passed

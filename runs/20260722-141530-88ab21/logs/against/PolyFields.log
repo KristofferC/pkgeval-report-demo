@@ -1,0 +1,16 @@
+PkgEval job log — PolyFields v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyFields...
+   Resolving package versions...
+   Installed PolyFields ─ v0.14.2
+Precompiling packages...
+  157 dependencies successfully precompiled in 75 seconds
+Testing PolyFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyFields          | 68445  19426  692.1s
+     Testing PolyFields tests passed

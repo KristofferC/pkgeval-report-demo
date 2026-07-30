@@ -1,0 +1,16 @@
+PkgEval job log — NestedSets v0.6.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedSets...
+   Resolving package versions...
+   Installed NestedSets ─ v0.6.1
+Precompiling packages...
+  191 dependencies successfully precompiled in 85 seconds
+Testing NestedSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedSets          | 63808  31515  530.1s
+     Testing NestedSets tests passed

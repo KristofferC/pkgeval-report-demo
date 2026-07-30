@@ -1,0 +1,16 @@
+PkgEval job log — BlockFlows v0.2.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockFlows...
+   Resolving package versions...
+   Installed BlockFlows ─ v0.2.1
+Precompiling packages...
+  16 dependencies successfully precompiled in 124 seconds
+Testing BlockFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockFlows          | 61506  28834  769.1s
+     Testing BlockFlows tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ClimaCore v0.4.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ClimaCore...
+   Resolving package versions...
+   Installed ClimaCore ─ v0.4.9
+Precompiling packages...
+  60 dependencies successfully precompiled in 77 seconds
+Testing ClimaCore
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ClimaCore          | 21237  24662  295.1s
+     Testing ClimaCore tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — GraphPhysics v0.13.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphPhysics...
+   Resolving package versions...
+   Installed GraphPhysics ─ v0.13.9
+Precompiling packages...
+  90 dependencies successfully precompiled in 28 seconds
+Testing GraphPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphPhysics          | 51659  29742  164.1s
+     Testing GraphPhysics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DistributedTypes v2.10.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedTypes...
+   Resolving package versions...
+   Installed DistributedTypes ─ v2.10.0
+Precompiling packages...
+  74 dependencies successfully precompiled in 202 seconds
+Testing DistributedTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedTypes          | 34406  76740  1360.1s
+     Testing DistributedTypes tests passed

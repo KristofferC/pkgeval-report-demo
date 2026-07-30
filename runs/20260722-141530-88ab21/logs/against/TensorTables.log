@@ -1,0 +1,16 @@
+PkgEval job log — TensorTables v1.6.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorTables...
+   Resolving package versions...
+   Installed TensorTables ─ v1.6.9
+Precompiling packages...
+  155 dependencies successfully precompiled in 63 seconds
+Testing TensorTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorTables          | 87337  5735  680.1s
+     Testing TensorTables tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MetaChains v2.12.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaChains...
+   Resolving package versions...
+   Installed MetaChains ─ v2.12.3
+Precompiling packages...
+  134 dependencies successfully precompiled in 11 seconds
+Testing MetaChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaChains          | 26559  9274  1702.1s
+     Testing MetaChains tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveSets v0.10.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveSets...
+   Resolving package versions...
+   Installed RecursiveSets ─ v0.10.0
+Precompiling packages...
+  187 dependencies successfully precompiled in 90 seconds
+Testing RecursiveSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveSets          | 44498  89872  186.1s
+     Testing RecursiveSets tests passed

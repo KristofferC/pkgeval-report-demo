@@ -1,0 +1,16 @@
+PkgEval job log — MultiBounds v1.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiBounds...
+   Resolving package versions...
+   Installed MultiBounds ─ v1.7.6
+Precompiling packages...
+  120 dependencies successfully precompiled in 229 seconds
+Testing MultiBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiBounds          | 75316  71744  1016.1s
+     Testing MultiBounds tests passed

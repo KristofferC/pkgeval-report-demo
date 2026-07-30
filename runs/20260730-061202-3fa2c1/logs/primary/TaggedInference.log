@@ -1,0 +1,16 @@
+PkgEval job log — TaggedInference v2.10.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedInference...
+   Resolving package versions...
+   Installed TaggedInference ─ v2.10.2
+Precompiling packages...
+  147 dependencies successfully precompiled in 170 seconds
+Testing TaggedInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedInference          | 46407  73903  710.1s
+     Testing TaggedInference tests passed

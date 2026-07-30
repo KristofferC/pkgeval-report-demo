@@ -1,0 +1,16 @@
+PkgEval job log — LazyStatistics v0.3.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyStatistics...
+   Resolving package versions...
+   Installed LazyStatistics ─ v0.3.7
+Precompiling packages...
+  13 dependencies successfully precompiled in 232 seconds
+Testing LazyStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyStatistics          | 35375  20043  1502.1s
+     Testing LazyStatistics tests passed

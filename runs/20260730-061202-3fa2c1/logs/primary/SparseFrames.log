@@ -1,0 +1,16 @@
+PkgEval job log — SparseFrames v1.7.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseFrames...
+   Resolving package versions...
+   Installed SparseFrames ─ v1.7.4
+Precompiling packages...
+  136 dependencies successfully precompiled in 160 seconds
+Testing SparseFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseFrames          | 66598  1689  1132.1s
+     Testing SparseFrames tests passed

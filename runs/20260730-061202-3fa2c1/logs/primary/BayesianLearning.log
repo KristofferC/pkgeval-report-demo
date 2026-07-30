@@ -1,0 +1,16 @@
+PkgEval job log — BayesianLearning v0.0.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianLearning...
+   Resolving package versions...
+   Installed BayesianLearning ─ v0.0.3
+Precompiling packages...
+  91 dependencies successfully precompiled in 132 seconds
+Testing BayesianLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianLearning          | 66918  39481  1075.1s
+     Testing BayesianLearning tests passed

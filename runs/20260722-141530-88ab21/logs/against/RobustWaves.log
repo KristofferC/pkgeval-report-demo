@@ -1,0 +1,16 @@
+PkgEval job log — RobustWaves v1.6.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustWaves...
+   Resolving package versions...
+   Installed RobustWaves ─ v1.6.2
+Precompiling packages...
+  38 dependencies successfully precompiled in 215 seconds
+Testing RobustWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustWaves          | 31617  26717  1228.1s
+     Testing RobustWaves tests passed

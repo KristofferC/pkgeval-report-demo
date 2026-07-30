@@ -1,0 +1,16 @@
+PkgEval job log — BlockSolvers v1.7.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockSolvers...
+   Resolving package versions...
+   Installed BlockSolvers ─ v1.7.5
+Precompiling packages...
+  64 dependencies successfully precompiled in 107 seconds
+Testing BlockSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockSolvers          | 64804  74020  1423.1s
+     Testing BlockSolvers tests passed

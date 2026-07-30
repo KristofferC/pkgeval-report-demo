@@ -1,0 +1,16 @@
+PkgEval job log — Ferrite v0.10.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Ferrite...
+   Resolving package versions...
+   Installed Ferrite ─ v0.10.5
+Precompiling packages...
+  108 dependencies successfully precompiled in 65 seconds
+Testing Ferrite
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Ferrite          | 43272  7724  252.1s
+     Testing Ferrite tests passed

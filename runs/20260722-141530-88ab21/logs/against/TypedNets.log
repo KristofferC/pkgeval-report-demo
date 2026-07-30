@@ -1,0 +1,16 @@
+PkgEval job log — TypedNets v1.4.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedNets...
+   Resolving package versions...
+   Installed TypedNets ─ v1.4.1
+Precompiling packages...
+  12 dependencies successfully precompiled in 10 seconds
+Testing TypedNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedNets          | 20328  19706  120.1s
+     Testing TypedNets tests passed

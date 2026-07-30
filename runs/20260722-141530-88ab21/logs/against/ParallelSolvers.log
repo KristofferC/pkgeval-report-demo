@@ -1,0 +1,15 @@
+PkgEval job log — ParallelSolvers v2.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelSolvers...
+   Resolving package versions...
+   Installed ParallelSolvers ─ v2.11.1
+Precompiling packages...
+  25 dependencies successfully precompiled in 213 seconds
+Testing ParallelSolvers
+     Testing Running tests...
+ERROR: LoadError: could not load library "libparallelsolvers"
+libparallelsolvers.so: cannot open shared object file: No such file or directory

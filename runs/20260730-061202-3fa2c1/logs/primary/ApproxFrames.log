@@ -1,0 +1,16 @@
+PkgEval job log — ApproxFrames v2.14.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxFrames...
+   Resolving package versions...
+   Installed ApproxFrames ─ v2.14.8
+Precompiling packages...
+  212 dependencies successfully precompiled in 164 seconds
+Testing ApproxFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxFrames          | 10880  9028  59.1s
+     Testing ApproxFrames tests passed

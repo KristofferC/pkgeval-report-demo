@@ -1,0 +1,16 @@
+PkgEval job log — MultiSolvers v0.0.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiSolvers...
+   Resolving package versions...
+   Installed MultiSolvers ─ v0.0.6
+Precompiling packages...
+  35 dependencies successfully precompiled in 231 seconds
+Testing MultiSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiSolvers          | 44586  43313  1324.1s
+     Testing MultiSolvers tests passed

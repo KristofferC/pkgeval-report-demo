@@ -1,0 +1,16 @@
+PkgEval job log — NestedSystems v2.4.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedSystems...
+   Resolving package versions...
+   Installed NestedSystems ─ v2.4.2
+Precompiling packages...
+  138 dependencies successfully precompiled in 146 seconds
+Testing NestedSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedSystems          | 24482  28677  76.1s
+     Testing NestedSystems tests passed

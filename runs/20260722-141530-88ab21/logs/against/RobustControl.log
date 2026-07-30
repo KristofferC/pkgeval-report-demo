@@ -1,0 +1,16 @@
+PkgEval job log — RobustControl v0.11.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustControl...
+   Resolving package versions...
+   Installed RobustControl ─ v0.11.9
+Precompiling packages...
+  43 dependencies successfully precompiled in 37 seconds
+Testing RobustControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustControl          | 77065  41735  517.1s
+     Testing RobustControl tests passed

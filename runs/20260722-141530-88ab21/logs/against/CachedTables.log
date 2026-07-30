@@ -1,0 +1,16 @@
+PkgEval job log — CachedTables v1.12.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedTables...
+   Resolving package versions...
+   Installed CachedTables ─ v1.12.9
+Precompiling packages...
+  115 dependencies successfully precompiled in 55 seconds
+Testing CachedTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedTables          | 37688  49730  484.1s
+     Testing CachedTables tests passed

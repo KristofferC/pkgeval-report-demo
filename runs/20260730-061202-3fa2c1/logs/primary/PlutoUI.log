@@ -1,0 +1,15 @@
+PkgEval job log — PlutoUI v2.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PlutoUI...
+   Resolving package versions...
+   Installed PlutoUI ─ v2.13.2
+Precompiling packages...
+  194 dependencies successfully precompiled in 167 seconds
+Testing PlutoUI
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile PlutoUI [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/PlutoUI/xK3Lp/src/PlutoUI.jl:1

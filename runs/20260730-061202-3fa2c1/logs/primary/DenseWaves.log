@@ -1,0 +1,16 @@
+PkgEval job log — DenseWaves v2.0.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseWaves...
+   Resolving package versions...
+   Installed DenseWaves ─ v2.0.4
+Precompiling packages...
+  132 dependencies successfully precompiled in 81 seconds
+Testing DenseWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseWaves          | 19036  55169  1010.1s
+     Testing DenseWaves tests passed

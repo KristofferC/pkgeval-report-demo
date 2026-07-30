@@ -1,0 +1,16 @@
+PkgEval job log — StaticKernels v1.3.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticKernels...
+   Resolving package versions...
+   Installed StaticKernels ─ v1.3.0
+Precompiling packages...
+  67 dependencies successfully precompiled in 155 seconds
+Testing StaticKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticKernels          | 40942  84134  1090.1s
+     Testing StaticKernels tests passed

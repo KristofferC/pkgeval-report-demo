@@ -1,0 +1,16 @@
+PkgEval job log — Proj v1.11.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Proj...
+   Resolving package versions...
+   Installed Proj ─ v1.11.4
+Precompiling packages...
+  214 dependencies successfully precompiled in 187 seconds
+Testing Proj
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Proj          | 82218  50872  972.1s
+     Testing Proj tests passed

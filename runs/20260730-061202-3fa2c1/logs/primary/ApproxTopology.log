@@ -1,0 +1,16 @@
+PkgEval job log — ApproxTopology v1.3.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxTopology...
+   Resolving package versions...
+   Installed ApproxTopology ─ v1.3.3
+Precompiling packages...
+  84 dependencies successfully precompiled in 45 seconds
+Testing ApproxTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxTopology          | 18072  86412  516.1s
+     Testing ApproxTopology tests passed

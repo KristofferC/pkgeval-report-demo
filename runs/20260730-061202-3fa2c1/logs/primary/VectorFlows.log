@@ -1,0 +1,16 @@
+PkgEval job log — VectorFlows v0.12.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorFlows...
+   Resolving package versions...
+   Installed VectorFlows ─ v0.12.4
+Precompiling packages...
+  80 dependencies successfully precompiled in 119 seconds
+Testing VectorFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorFlows          | 52994  38171  1396.1s
+     Testing VectorFlows tests passed

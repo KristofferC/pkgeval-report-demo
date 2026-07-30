@@ -1,0 +1,16 @@
+PkgEval job log — NeuralLayers v2.12.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralLayers...
+   Resolving package versions...
+   Installed NeuralLayers ─ v2.12.7
+Precompiling packages...
+  83 dependencies successfully precompiled in 42 seconds
+Testing NeuralLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralLayers          | 79056  33787  598.1s
+     Testing NeuralLayers tests passed

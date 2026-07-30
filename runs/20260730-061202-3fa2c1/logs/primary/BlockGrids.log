@@ -1,0 +1,16 @@
+PkgEval job log — BlockGrids v1.10.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockGrids...
+   Resolving package versions...
+   Installed BlockGrids ─ v1.10.1
+Precompiling packages...
+  208 dependencies successfully precompiled in 95 seconds
+Testing BlockGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockGrids          | 86691  67320  753.1s
+     Testing BlockGrids tests passed

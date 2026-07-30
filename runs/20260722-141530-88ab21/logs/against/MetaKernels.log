@@ -1,0 +1,16 @@
+PkgEval job log — MetaKernels v0.11.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaKernels...
+   Resolving package versions...
+   Installed MetaKernels ─ v0.11.3
+Precompiling packages...
+  155 dependencies successfully precompiled in 168 seconds
+Testing MetaKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaKernels          | 50122  52192  588.1s
+     Testing MetaKernels tests passed

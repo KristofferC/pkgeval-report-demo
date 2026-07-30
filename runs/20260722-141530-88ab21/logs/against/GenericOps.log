@@ -1,0 +1,16 @@
+PkgEval job log — GenericOps v0.6.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericOps...
+   Resolving package versions...
+   Installed GenericOps ─ v0.6.0
+Precompiling packages...
+  206 dependencies successfully precompiled in 187 seconds
+Testing GenericOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericOps          | 77671  35167  1452.1s
+     Testing GenericOps tests passed

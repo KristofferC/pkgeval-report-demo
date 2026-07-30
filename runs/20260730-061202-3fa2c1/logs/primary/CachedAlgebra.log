@@ -1,0 +1,16 @@
+PkgEval job log — CachedAlgebra v0.4.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedAlgebra...
+   Resolving package versions...
+   Installed CachedAlgebra ─ v0.4.6
+Precompiling packages...
+  85 dependencies successfully precompiled in 225 seconds
+Testing CachedAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedAlgebra          | 26863  75679  985.1s
+     Testing CachedAlgebra tests passed

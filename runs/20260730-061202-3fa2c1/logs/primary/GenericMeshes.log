@@ -1,0 +1,16 @@
+PkgEval job log — GenericMeshes v2.13.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericMeshes...
+   Resolving package versions...
+   Installed GenericMeshes ─ v2.13.9
+Precompiling packages...
+  83 dependencies successfully precompiled in 74 seconds
+Testing GenericMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericMeshes          | 14341  71506  1312.1s
+     Testing GenericMeshes tests passed

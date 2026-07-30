@@ -1,0 +1,16 @@
+PkgEval job log — LazyNets v0.10.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyNets...
+   Resolving package versions...
+   Installed LazyNets ─ v0.10.6
+Precompiling packages...
+  123 dependencies successfully precompiled in 82 seconds
+Testing LazyNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyNets          | 70663  53934  271.1s
+     Testing LazyNets tests passed

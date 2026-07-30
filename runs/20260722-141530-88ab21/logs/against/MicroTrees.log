@@ -1,0 +1,16 @@
+PkgEval job log — MicroTrees v0.2.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroTrees...
+   Resolving package versions...
+   Installed MicroTrees ─ v0.2.4
+Precompiling packages...
+  165 dependencies successfully precompiled in 22 seconds
+Testing MicroTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroTrees          | 15456  38830  1208.1s
+     Testing MicroTrees tests passed

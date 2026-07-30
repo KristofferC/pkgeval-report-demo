@@ -1,0 +1,16 @@
+PkgEval job log — NanoSolvers v0.6.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoSolvers...
+   Resolving package versions...
+   Installed NanoSolvers ─ v0.6.0
+Precompiling packages...
+  113 dependencies successfully precompiled in 151 seconds
+Testing NanoSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoSolvers          | 87084  36663  1190.1s
+     Testing NanoSolvers tests passed

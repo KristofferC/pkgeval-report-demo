@@ -1,0 +1,16 @@
+PkgEval job log — PolyCalculus v2.9.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyCalculus...
+   Resolving package versions...
+   Installed PolyCalculus ─ v2.9.7
+Precompiling packages...
+  113 dependencies successfully precompiled in 234 seconds
+Testing PolyCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyCalculus          | 70071  20583  450.1s
+     Testing PolyCalculus tests passed

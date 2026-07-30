@@ -1,0 +1,16 @@
+PkgEval job log — HyperModels v0.3.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperModels...
+   Resolving package versions...
+   Installed HyperModels ─ v0.3.5
+Precompiling packages...
+  69 dependencies successfully precompiled in 158 seconds
+Testing HyperModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperModels          | 6786  79469  894.1s
+     Testing HyperModels tests passed

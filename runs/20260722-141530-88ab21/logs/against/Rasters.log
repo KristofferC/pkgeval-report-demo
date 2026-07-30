@@ -1,0 +1,16 @@
+PkgEval job log — Rasters v0.0.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Rasters...
+   Resolving package versions...
+   Installed Rasters ─ v0.0.7
+Precompiling packages...
+  159 dependencies successfully precompiled in 110 seconds
+Testing Rasters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Rasters          | 60226  16303  469.1s
+     Testing Rasters tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveFilters v1.8.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveFilters...
+   Resolving package versions...
+   Installed AdaptiveFilters ─ v1.8.6
+Precompiling packages...
+  163 dependencies successfully precompiled in 103 seconds
+Testing AdaptiveFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveFilters          | 13824  79450  1106.1s
+     Testing AdaptiveFilters tests passed

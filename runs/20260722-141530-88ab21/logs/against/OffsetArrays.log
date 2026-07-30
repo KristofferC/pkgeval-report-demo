@@ -1,0 +1,16 @@
+PkgEval job log — OffsetArrays v0.11.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing OffsetArrays...
+   Resolving package versions...
+   Installed OffsetArrays ─ v0.11.3
+Precompiling packages...
+  162 dependencies successfully precompiled in 190 seconds
+Testing OffsetArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+OffsetArrays          | 79206  3867  400.1s
+     Testing OffsetArrays tests passed

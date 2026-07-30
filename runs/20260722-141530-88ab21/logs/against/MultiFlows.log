@@ -1,0 +1,16 @@
+PkgEval job log — MultiFlows v1.8.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiFlows...
+   Resolving package versions...
+   Installed MultiFlows ─ v1.8.1
+Precompiling packages...
+  10 dependencies successfully precompiled in 119 seconds
+Testing MultiFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiFlows          | 73654  55456  780.1s
+     Testing MultiFlows tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveArrays v0.9.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveArrays...
+   Resolving package versions...
+   Installed AdaptiveArrays ─ v0.9.5
+Precompiling packages...
+  170 dependencies successfully precompiled in 87 seconds
+Testing AdaptiveArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveArrays          | 36807  44389  1232.1s
+     Testing AdaptiveArrays tests passed

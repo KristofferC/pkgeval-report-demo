@@ -1,0 +1,16 @@
+PkgEval job log — NestedChains v2.9.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedChains...
+   Resolving package versions...
+   Installed NestedChains ─ v2.9.7
+Precompiling packages...
+  120 dependencies successfully precompiled in 196 seconds
+Testing NestedChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedChains          | 40670  83316  1193.1s
+     Testing NestedChains tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — AbstractInference v0.4.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractInference...
+   Resolving package versions...
+   Installed AbstractInference ─ v0.4.6
+Precompiling packages...
+  175 dependencies successfully precompiled in 77 seconds
+Testing AbstractInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractInference          | 64452  65856  1365.1s
+     Testing AbstractInference tests passed

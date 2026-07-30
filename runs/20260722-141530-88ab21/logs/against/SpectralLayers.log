@@ -1,0 +1,16 @@
+PkgEval job log — SpectralLayers v1.2.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralLayers...
+   Resolving package versions...
+   Installed SpectralLayers ─ v1.2.9
+Precompiling packages...
+  108 dependencies successfully precompiled in 196 seconds
+Testing SpectralLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralLayers          | 74543  36616  242.1s
+     Testing SpectralLayers tests passed

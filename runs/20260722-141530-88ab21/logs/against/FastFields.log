@@ -1,0 +1,16 @@
+PkgEval job log — FastFields v1.12.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastFields...
+   Resolving package versions...
+   Installed FastFields ─ v1.12.0
+Precompiling packages...
+  66 dependencies successfully precompiled in 203 seconds
+Testing FastFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastFields          | 497  62494  328.1s
+     Testing FastFields tests passed

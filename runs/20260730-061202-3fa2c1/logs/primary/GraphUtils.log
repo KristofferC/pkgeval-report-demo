@@ -1,0 +1,16 @@
+PkgEval job log — GraphUtils v0.6.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphUtils...
+   Resolving package versions...
+   Installed GraphUtils ─ v0.6.4
+Precompiling packages...
+  63 dependencies successfully precompiled in 219 seconds
+Testing GraphUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphUtils          | 43499  74175  880.1s
+     Testing GraphUtils tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — JSON3 v1.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing JSON3...
+   Resolving package versions...
+   Installed JSON3 ─ v1.13.2
+Precompiling packages...
+  152 dependencies successfully precompiled in 42 seconds
+Testing JSON3
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+JSON3          | 36191  36178  1295.1s
+     Testing JSON3 tests passed

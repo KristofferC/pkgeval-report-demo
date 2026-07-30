@@ -1,0 +1,16 @@
+PkgEval job log — MatrixOptics v0.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixOptics...
+   Resolving package versions...
+   Installed MatrixOptics ─ v0.7.6
+Precompiling packages...
+  113 dependencies successfully precompiled in 23 seconds
+Testing MatrixOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixOptics          | 37831  22763  60.1s
+     Testing MatrixOptics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DistributedCalculus v1.3.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedCalculus...
+   Resolving package versions...
+   Installed DistributedCalculus ─ v1.3.2
+Precompiling packages...
+  111 dependencies successfully precompiled in 107 seconds
+Testing DistributedCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedCalculus          | 24616  29869  1432.1s
+     Testing DistributedCalculus tests passed

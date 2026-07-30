@@ -1,0 +1,16 @@
+PkgEval job log — RobustKernels v0.7.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustKernels...
+   Resolving package versions...
+   Installed RobustKernels ─ v0.7.2
+Precompiling packages...
+  115 dependencies successfully precompiled in 201 seconds
+Testing RobustKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustKernels          | 30590  18198  1161.1s
+     Testing RobustKernels tests passed

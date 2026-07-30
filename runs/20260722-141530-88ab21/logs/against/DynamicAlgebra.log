@@ -1,0 +1,16 @@
+PkgEval job log — DynamicAlgebra v1.1.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicAlgebra...
+   Resolving package versions...
+   Installed DynamicAlgebra ─ v1.1.5
+Precompiling packages...
+  27 dependencies successfully precompiled in 162 seconds
+Testing DynamicAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicAlgebra          | 87415  50106  1285.1s
+     Testing DynamicAlgebra tests passed

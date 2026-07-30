@@ -1,0 +1,16 @@
+PkgEval job log — ExactOps v1.13.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactOps...
+   Resolving package versions...
+   Installed ExactOps ─ v1.13.6
+Precompiling packages...
+  108 dependencies successfully precompiled in 75 seconds
+Testing ExactOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactOps          | 83283  64001  416.1s
+     Testing ExactOps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — AutoOptics v2.1.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoOptics...
+   Resolving package versions...
+   Installed AutoOptics ─ v2.1.7
+Precompiling packages...
+  94 dependencies successfully precompiled in 110 seconds
+Testing AutoOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoOptics          | 34448  34853  339.1s
+     Testing AutoOptics tests passed

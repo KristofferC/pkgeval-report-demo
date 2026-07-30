@@ -1,0 +1,16 @@
+PkgEval job log — CachedWaves v1.10.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedWaves...
+   Resolving package versions...
+   Installed CachedWaves ─ v1.10.3
+Precompiling packages...
+  176 dependencies successfully precompiled in 147 seconds
+Testing CachedWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedWaves          | 32664  54578  726.1s
+     Testing CachedWaves tests passed

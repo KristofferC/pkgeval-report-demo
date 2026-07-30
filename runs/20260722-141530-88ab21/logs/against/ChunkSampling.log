@@ -1,0 +1,16 @@
+PkgEval job log — ChunkSampling v2.3.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkSampling...
+   Resolving package versions...
+   Installed ChunkSampling ─ v2.3.7
+Precompiling packages...
+  150 dependencies successfully precompiled in 233 seconds
+Testing ChunkSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkSampling          | 44401  21586  1208.1s
+     Testing ChunkSampling tests passed

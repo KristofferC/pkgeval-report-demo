@@ -1,0 +1,16 @@
+PkgEval job log — HyperTopology v1.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperTopology...
+   Resolving package versions...
+   Installed HyperTopology ─ v1.7.1
+Precompiling packages...
+  42 dependencies successfully precompiled in 30 seconds
+Testing HyperTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperTopology          | 18850  41716  563.1s
+     Testing HyperTopology tests passed

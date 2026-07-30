@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveSignals v2.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveSignals...
+   Resolving package versions...
+   Installed AdaptiveSignals ─ v2.10.7
+Precompiling packages...
+  112 dependencies successfully precompiled in 138 seconds
+Testing AdaptiveSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveSignals          | 1960  63481  740.1s
+     Testing AdaptiveSignals tests passed

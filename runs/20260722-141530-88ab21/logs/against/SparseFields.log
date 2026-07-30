@@ -1,0 +1,16 @@
+PkgEval job log — SparseFields v1.1.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseFields...
+   Resolving package versions...
+   Installed SparseFields ─ v1.1.7
+Precompiling packages...
+  175 dependencies successfully precompiled in 57 seconds
+Testing SparseFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseFields          | 21235  26175  462.1s
+     Testing SparseFields tests passed

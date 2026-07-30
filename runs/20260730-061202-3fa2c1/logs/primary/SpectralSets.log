@@ -1,0 +1,16 @@
+PkgEval job log — SpectralSets v0.9.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralSets...
+   Resolving package versions...
+   Installed SpectralSets ─ v0.9.7
+Precompiling packages...
+  139 dependencies successfully precompiled in 17 seconds
+Testing SpectralSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralSets          | 48248  39353  185.1s
+     Testing SpectralSets tests passed

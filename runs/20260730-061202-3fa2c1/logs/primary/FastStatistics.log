@@ -1,0 +1,16 @@
+PkgEval job log — FastStatistics v0.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastStatistics...
+   Resolving package versions...
+   Installed FastStatistics ─ v0.10.7
+Precompiling packages...
+  94 dependencies successfully precompiled in 73 seconds
+Testing FastStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastStatistics          | 42529  62622  1216.1s
+     Testing FastStatistics tests passed

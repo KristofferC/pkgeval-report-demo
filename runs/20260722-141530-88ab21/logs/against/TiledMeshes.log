@@ -1,0 +1,16 @@
+PkgEval job log — TiledMeshes v1.13.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledMeshes...
+   Resolving package versions...
+   Installed TiledMeshes ─ v1.13.2
+Precompiling packages...
+  132 dependencies successfully precompiled in 21 seconds
+Testing TiledMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledMeshes          | 85370  7628  597.1s
+     Testing TiledMeshes tests passed

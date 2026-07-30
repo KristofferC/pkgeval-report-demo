@@ -1,0 +1,16 @@
+PkgEval job log — ApproxFlows v2.8.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxFlows...
+   Resolving package versions...
+   Installed ApproxFlows ─ v2.8.6
+Precompiling packages...
+  13 dependencies successfully precompiled in 55 seconds
+Testing ApproxFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxFlows          | 57966  34354  1266.1s
+     Testing ApproxFlows tests passed

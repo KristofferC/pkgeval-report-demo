@@ -1,0 +1,16 @@
+PkgEval job log — NamedArrays v2.1.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedArrays...
+   Resolving package versions...
+   Installed NamedArrays ─ v2.1.0
+Precompiling packages...
+  122 dependencies successfully precompiled in 40 seconds
+Testing NamedArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedArrays          | 85006  21281  118.1s
+     Testing NamedArrays tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SpectralLearning v0.4.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralLearning...
+   Resolving package versions...
+   Installed SpectralLearning ─ v0.4.7
+Precompiling packages...
+  136 dependencies successfully precompiled in 142 seconds
+Testing SpectralLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralLearning          | 29123  40389  162.1s
+     Testing SpectralLearning tests passed

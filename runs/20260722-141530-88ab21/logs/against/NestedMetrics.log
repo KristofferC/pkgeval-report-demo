@@ -1,0 +1,16 @@
+PkgEval job log — NestedMetrics v1.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedMetrics...
+   Resolving package versions...
+   Installed NestedMetrics ─ v1.7.1
+Precompiling packages...
+  77 dependencies successfully precompiled in 21 seconds
+Testing NestedMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedMetrics          | 32654  2645  1113.1s
+     Testing NestedMetrics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — GraphSolvers v0.4.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphSolvers...
+   Resolving package versions...
+   Installed GraphSolvers ─ v0.4.4
+Precompiling packages...
+  178 dependencies successfully precompiled in 51 seconds
+Testing GraphSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphSolvers          | 13455  32520  393.1s
+     Testing GraphSolvers tests passed

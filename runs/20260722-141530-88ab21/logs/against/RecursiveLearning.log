@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveLearning v1.5.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveLearning...
+   Resolving package versions...
+   Installed RecursiveLearning ─ v1.5.1
+Precompiling packages...
+  191 dependencies successfully precompiled in 117 seconds
+Testing RecursiveLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveLearning          | 11512  73032  344.1s
+     Testing RecursiveLearning tests passed

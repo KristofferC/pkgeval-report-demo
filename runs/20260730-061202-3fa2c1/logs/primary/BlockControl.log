@@ -1,0 +1,16 @@
+PkgEval job log — BlockControl v1.5.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockControl...
+   Resolving package versions...
+   Installed BlockControl ─ v1.5.0
+Precompiling packages...
+  139 dependencies successfully precompiled in 145 seconds
+Testing BlockControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockControl          | 41486  35259  562.1s
+     Testing BlockControl tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ParallelGrids v0.0.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelGrids...
+   Resolving package versions...
+   Installed ParallelGrids ─ v0.0.5
+Precompiling packages...
+  80 dependencies successfully precompiled in 127 seconds
+Testing ParallelGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelGrids          | 48747  6144  95.1s
+     Testing ParallelGrids tests passed

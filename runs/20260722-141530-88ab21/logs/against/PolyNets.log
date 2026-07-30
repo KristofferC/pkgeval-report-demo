@@ -1,0 +1,16 @@
+PkgEval job log — PolyNets v0.1.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyNets...
+   Resolving package versions...
+   Installed PolyNets ─ v0.1.2
+Precompiling packages...
+  129 dependencies successfully precompiled in 194 seconds
+Testing PolyNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyNets          | 54360  56301  1273.1s
+     Testing PolyNets tests passed

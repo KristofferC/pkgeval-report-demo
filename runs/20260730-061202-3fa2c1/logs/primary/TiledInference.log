@@ -1,0 +1,16 @@
+PkgEval job log — TiledInference v1.7.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledInference...
+   Resolving package versions...
+   Installed TiledInference ─ v1.7.8
+Precompiling packages...
+  208 dependencies successfully precompiled in 218 seconds
+Testing TiledInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledInference          | 64849  7267  1317.1s
+     Testing TiledInference tests passed

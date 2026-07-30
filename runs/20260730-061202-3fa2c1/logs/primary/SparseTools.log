@@ -1,0 +1,16 @@
+PkgEval job log — SparseTools v0.12.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseTools...
+   Resolving package versions...
+   Installed SparseTools ─ v0.12.7
+Precompiling packages...
+  18 dependencies successfully precompiled in 137 seconds
+Testing SparseTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseTools          | 53606  6212  550.1s
+     Testing SparseTools tests passed

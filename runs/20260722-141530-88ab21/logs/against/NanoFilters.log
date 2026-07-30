@@ -1,0 +1,16 @@
+PkgEval job log — NanoFilters v0.13.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoFilters...
+   Resolving package versions...
+   Installed NanoFilters ─ v0.13.1
+Precompiling packages...
+  125 dependencies successfully precompiled in 122 seconds
+Testing NanoFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoFilters          | 71010  18459  539.1s
+     Testing NanoFilters tests passed

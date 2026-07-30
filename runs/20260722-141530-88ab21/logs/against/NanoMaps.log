@@ -1,0 +1,16 @@
+PkgEval job log — NanoMaps v0.11.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoMaps...
+   Resolving package versions...
+   Installed NanoMaps ─ v0.11.2
+Precompiling packages...
+  151 dependencies successfully precompiled in 162 seconds
+Testing NanoMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoMaps          | 64216  32132  335.1s
+     Testing NanoMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MatrixSignals v0.1.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixSignals...
+   Resolving package versions...
+   Installed MatrixSignals ─ v0.1.8
+Precompiling packages...
+  184 dependencies successfully precompiled in 171 seconds
+Testing MatrixSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixSignals          | 23552  80470  459.1s
+     Testing MatrixSignals tests passed

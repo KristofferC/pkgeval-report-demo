@@ -1,0 +1,16 @@
+PkgEval job log — TypedTypes v0.11.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedTypes...
+   Resolving package versions...
+   Installed TypedTypes ─ v0.11.6
+Precompiling packages...
+  85 dependencies successfully precompiled in 46 seconds
+Testing TypedTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedTypes          | 4017  70962  1321.1s
+     Testing TypedTypes tests passed

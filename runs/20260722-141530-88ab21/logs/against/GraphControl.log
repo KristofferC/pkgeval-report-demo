@@ -1,0 +1,16 @@
+PkgEval job log — GraphControl v1.3.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphControl...
+   Resolving package versions...
+   Installed GraphControl ─ v1.3.3
+Precompiling packages...
+  94 dependencies successfully precompiled in 123 seconds
+Testing GraphControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphControl          | 45227  84701  914.1s
+     Testing GraphControl tests passed

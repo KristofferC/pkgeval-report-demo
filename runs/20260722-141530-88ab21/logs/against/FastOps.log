@@ -1,0 +1,16 @@
+PkgEval job log — FastOps v1.14.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastOps...
+   Resolving package versions...
+   Installed FastOps ─ v1.14.3
+Precompiling packages...
+  34 dependencies successfully precompiled in 9 seconds
+Testing FastOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastOps          | 47562  53184  463.1s
+     Testing FastOps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SmartOps v0.0.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartOps...
+   Resolving package versions...
+   Installed SmartOps ─ v0.0.3
+Precompiling packages...
+  212 dependencies successfully precompiled in 39 seconds
+Testing SmartOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartOps          | 29801  530  188.1s
+     Testing SmartOps tests passed

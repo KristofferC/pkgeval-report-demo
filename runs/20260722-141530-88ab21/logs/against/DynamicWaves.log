@@ -1,0 +1,16 @@
+PkgEval job log — DynamicWaves v1.0.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicWaves...
+   Resolving package versions...
+   Installed DynamicWaves ─ v1.0.9
+Precompiling packages...
+  204 dependencies successfully precompiled in 216 seconds
+Testing DynamicWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicWaves          | 379  45662  785.1s
+     Testing DynamicWaves tests passed

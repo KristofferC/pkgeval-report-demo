@@ -1,0 +1,16 @@
+PkgEval job log — IsoInference v0.0.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoInference...
+   Resolving package versions...
+   Installed IsoInference ─ v0.0.4
+Precompiling packages...
+  32 dependencies successfully precompiled in 161 seconds
+Testing IsoInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoInference          | 50622  45419  618.1s
+     Testing IsoInference tests passed

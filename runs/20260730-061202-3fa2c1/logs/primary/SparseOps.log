@@ -1,0 +1,16 @@
+PkgEval job log — SparseOps v1.6.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseOps...
+   Resolving package versions...
+   Installed SparseOps ─ v1.6.6
+Precompiling packages...
+  129 dependencies successfully precompiled in 47 seconds
+Testing SparseOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseOps          | 88232  187  453.1s
+     Testing SparseOps tests passed

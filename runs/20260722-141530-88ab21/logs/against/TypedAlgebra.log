@@ -1,0 +1,16 @@
+PkgEval job log — TypedAlgebra v0.13.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedAlgebra...
+   Resolving package versions...
+   Installed TypedAlgebra ─ v0.13.1
+Precompiling packages...
+  204 dependencies successfully precompiled in 196 seconds
+Testing TypedAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedAlgebra          | 65651  40599  817.1s
+     Testing TypedAlgebra tests passed

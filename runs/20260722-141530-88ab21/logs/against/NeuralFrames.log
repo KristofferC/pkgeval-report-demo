@@ -1,0 +1,16 @@
+PkgEval job log — NeuralFrames v2.14.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralFrames...
+   Resolving package versions...
+   Installed NeuralFrames ─ v2.14.8
+Precompiling packages...
+  182 dependencies successfully precompiled in 51 seconds
+Testing NeuralFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralFrames          | 40395  55190  1271.1s
+     Testing NeuralFrames tests passed

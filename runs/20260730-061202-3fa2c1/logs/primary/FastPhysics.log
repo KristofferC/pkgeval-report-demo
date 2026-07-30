@@ -1,0 +1,16 @@
+PkgEval job log — FastPhysics v1.11.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastPhysics...
+   Resolving package versions...
+   Installed FastPhysics ─ v1.11.3
+Precompiling packages...
+  10 dependencies successfully precompiled in 26 seconds
+Testing FastPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastPhysics          | 82506  5869  692.1s
+     Testing FastPhysics tests passed

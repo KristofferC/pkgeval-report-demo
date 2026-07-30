@@ -1,0 +1,16 @@
+PkgEval job log — SparseDynamics v2.13.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseDynamics...
+   Resolving package versions...
+   Installed SparseDynamics ─ v2.13.6
+Precompiling packages...
+  74 dependencies successfully precompiled in 189 seconds
+Testing SparseDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseDynamics          | 60365  25439  473.1s
+     Testing SparseDynamics tests passed

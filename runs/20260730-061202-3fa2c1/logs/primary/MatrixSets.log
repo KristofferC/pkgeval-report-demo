@@ -1,0 +1,16 @@
+PkgEval job log — MatrixSets v1.8.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixSets...
+   Resolving package versions...
+   Installed MatrixSets ─ v1.8.3
+Precompiling packages...
+  92 dependencies successfully precompiled in 225 seconds
+Testing MatrixSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixSets          | 24321  66074  636.1s
+     Testing MatrixSets tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — NanoArrays v2.8.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoArrays...
+   Resolving package versions...
+   Installed NanoArrays ─ v2.8.6
+Precompiling packages...
+  161 dependencies successfully precompiled in 131 seconds
+Testing NanoArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoArrays          | 15865  38742  534.1s
+     Testing NanoArrays tests passed

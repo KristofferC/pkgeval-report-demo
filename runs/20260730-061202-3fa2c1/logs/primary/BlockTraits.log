@@ -1,0 +1,16 @@
+PkgEval job log — BlockTraits v0.6.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockTraits...
+   Resolving package versions...
+   Installed BlockTraits ─ v0.6.1
+Precompiling packages...
+  29 dependencies successfully precompiled in 98 seconds
+Testing BlockTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockTraits          | 83838  54664  913.1s
+     Testing BlockTraits tests passed

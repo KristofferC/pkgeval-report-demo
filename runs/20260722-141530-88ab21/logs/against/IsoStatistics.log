@@ -1,0 +1,16 @@
+PkgEval job log — IsoStatistics v1.0.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoStatistics...
+   Resolving package versions...
+   Installed IsoStatistics ─ v1.0.1
+Precompiling packages...
+  183 dependencies successfully precompiled in 174 seconds
+Testing IsoStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoStatistics          | 30462  61004  153.1s
+     Testing IsoStatistics tests passed

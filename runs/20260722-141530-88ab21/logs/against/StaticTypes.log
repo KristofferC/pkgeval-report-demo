@@ -1,0 +1,16 @@
+PkgEval job log — StaticTypes v1.12.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticTypes...
+   Resolving package versions...
+   Installed StaticTypes ─ v1.12.4
+Precompiling packages...
+  196 dependencies successfully precompiled in 123 seconds
+Testing StaticTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticTypes          | 6770  77079  274.1s
+     Testing StaticTypes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StaticFields v1.6.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticFields...
+   Resolving package versions...
+   Installed StaticFields ─ v1.6.6
+Precompiling packages...
+  81 dependencies successfully precompiled in 89 seconds
+Testing StaticFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticFields          | 65519  78466  1169.1s
+     Testing StaticFields tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TypedUtils v2.6.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedUtils...
+   Resolving package versions...
+   Installed TypedUtils ─ v2.6.9
+Precompiling packages...
+  34 dependencies successfully precompiled in 196 seconds
+Testing TypedUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedUtils          | 82935  4305  71.1s
+     Testing TypedUtils tests passed

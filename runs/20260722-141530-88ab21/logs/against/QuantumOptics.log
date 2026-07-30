@@ -1,0 +1,16 @@
+PkgEval job log — QuantumOptics v1.3.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumOptics...
+   Resolving package versions...
+   Installed QuantumOptics ─ v1.3.9
+Precompiling packages...
+  170 dependencies successfully precompiled in 17 seconds
+Testing QuantumOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumOptics          | 84236  84885  1239.1s
+     Testing QuantumOptics tests passed

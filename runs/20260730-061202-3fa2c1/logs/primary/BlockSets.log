@@ -1,0 +1,16 @@
+PkgEval job log — BlockSets v0.2.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockSets...
+   Resolving package versions...
+   Installed BlockSets ─ v0.2.7
+Precompiling packages...
+  196 dependencies successfully precompiled in 238 seconds
+Testing BlockSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockSets          | 84034  55202  1204.1s
+     Testing BlockSets tests passed

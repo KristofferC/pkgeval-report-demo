@@ -1,0 +1,16 @@
+PkgEval job log — NeuralBounds v1.5.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralBounds...
+   Resolving package versions...
+   Installed NeuralBounds ─ v1.5.9
+Precompiling packages...
+  115 dependencies successfully precompiled in 224 seconds
+Testing NeuralBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralBounds          | 19435  66551  213.1s
+     Testing NeuralBounds tests passed

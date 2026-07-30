@@ -1,0 +1,16 @@
+PkgEval job log — AutoAlgebra v2.6.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoAlgebra...
+   Resolving package versions...
+   Installed AutoAlgebra ─ v2.6.8
+Precompiling packages...
+  94 dependencies successfully precompiled in 190 seconds
+Testing AutoAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoAlgebra          | 51407  38258  1007.1s
+     Testing AutoAlgebra tests passed

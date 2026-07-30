@@ -1,0 +1,16 @@
+PkgEval job log — PolySystems v0.11.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolySystems...
+   Resolving package versions...
+   Installed PolySystems ─ v0.11.5
+Precompiling packages...
+  94 dependencies successfully precompiled in 48 seconds
+Testing PolySystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolySystems          | 10096  61753  1097.1s
+     Testing PolySystems tests passed

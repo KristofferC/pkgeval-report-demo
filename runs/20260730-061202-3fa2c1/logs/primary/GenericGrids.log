@@ -1,0 +1,16 @@
+PkgEval job log — GenericGrids v0.12.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericGrids...
+   Resolving package versions...
+   Installed GenericGrids ─ v0.12.0
+Precompiling packages...
+  136 dependencies successfully precompiled in 29 seconds
+Testing GenericGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericGrids          | 78501  46175  541.1s
+     Testing GenericGrids tests passed

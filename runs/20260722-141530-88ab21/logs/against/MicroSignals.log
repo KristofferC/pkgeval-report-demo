@@ -1,0 +1,16 @@
+PkgEval job log — MicroSignals v2.0.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroSignals...
+   Resolving package versions...
+   Installed MicroSignals ─ v2.0.1
+Precompiling packages...
+  41 dependencies successfully precompiled in 105 seconds
+Testing MicroSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroSignals          | 30958  12167  830.1s
+     Testing MicroSignals tests passed

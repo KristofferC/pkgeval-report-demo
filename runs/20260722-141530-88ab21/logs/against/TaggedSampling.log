@@ -1,0 +1,16 @@
+PkgEval job log — TaggedSampling v0.9.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedSampling...
+   Resolving package versions...
+   Installed TaggedSampling ─ v0.9.5
+Precompiling packages...
+  99 dependencies successfully precompiled in 59 seconds
+Testing TaggedSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedSampling          | 35139  86978  754.1s
+     Testing TaggedSampling tests passed

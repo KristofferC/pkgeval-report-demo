@@ -1,0 +1,16 @@
+PkgEval job log — NanoAlgebra v0.0.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoAlgebra...
+   Resolving package versions...
+   Installed NanoAlgebra ─ v0.0.3
+Precompiling packages...
+  59 dependencies successfully precompiled in 116 seconds
+Testing NanoAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoAlgebra          | 14573  42401  1136.1s
+     Testing NanoAlgebra tests passed

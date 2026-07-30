@@ -1,0 +1,16 @@
+PkgEval job log — Enzyme v2.14.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Enzyme...
+   Resolving package versions...
+   Installed Enzyme ─ v2.14.5
+Precompiling packages...
+  143 dependencies successfully precompiled in 172 seconds
+Testing Enzyme
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Enzyme          | 35808  22380  367.1s
+     Testing Enzyme tests passed

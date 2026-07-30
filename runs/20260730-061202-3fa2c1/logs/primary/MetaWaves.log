@@ -1,0 +1,16 @@
+PkgEval job log — MetaWaves v0.14.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaWaves...
+   Resolving package versions...
+   Installed MetaWaves ─ v0.14.7
+Precompiling packages...
+  109 dependencies successfully precompiled in 44 seconds
+Testing MetaWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaWaves          | 11358  62464  802.1s
+     Testing MetaWaves tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — IsoControl v0.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoControl...
+   Resolving package versions...
+   Installed IsoControl ─ v0.10.7
+Precompiling packages...
+  19 dependencies successfully precompiled in 237 seconds
+Testing IsoControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoControl          | 24672  57095  1185.1s
+     Testing IsoControl tests passed

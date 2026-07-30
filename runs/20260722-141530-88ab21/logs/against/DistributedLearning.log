@@ -1,0 +1,16 @@
+PkgEval job log — DistributedLearning v1.0.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedLearning...
+   Resolving package versions...
+   Installed DistributedLearning ─ v1.0.9
+Precompiling packages...
+  193 dependencies successfully precompiled in 15 seconds
+Testing DistributedLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedLearning          | 14486  82358  950.1s
+     Testing DistributedLearning tests passed

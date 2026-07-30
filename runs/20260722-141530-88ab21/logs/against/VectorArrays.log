@@ -1,0 +1,16 @@
+PkgEval job log — VectorArrays v1.0.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorArrays...
+   Resolving package versions...
+   Installed VectorArrays ─ v1.0.7
+Precompiling packages...
+  164 dependencies successfully precompiled in 99 seconds
+Testing VectorArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorArrays          | 24564  54826  595.1s
+     Testing VectorArrays tests passed

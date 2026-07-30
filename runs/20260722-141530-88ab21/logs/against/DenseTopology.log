@@ -1,0 +1,16 @@
+PkgEval job log — DenseTopology v0.6.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseTopology...
+   Resolving package versions...
+   Installed DenseTopology ─ v0.6.2
+Precompiling packages...
+  59 dependencies successfully precompiled in 189 seconds
+Testing DenseTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseTopology          | 41055  58143  97.1s
+     Testing DenseTopology tests passed

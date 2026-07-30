@@ -1,0 +1,16 @@
+PkgEval job log — SmartTraits v1.9.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartTraits...
+   Resolving package versions...
+   Installed SmartTraits ─ v1.9.8
+Precompiling packages...
+  164 dependencies successfully precompiled in 13 seconds
+Testing SmartTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartTraits          | 61527  770  1496.1s
+     Testing SmartTraits tests passed

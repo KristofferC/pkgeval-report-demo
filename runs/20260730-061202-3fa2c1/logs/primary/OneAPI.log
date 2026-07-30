@@ -1,0 +1,16 @@
+PkgEval job log — OneAPI v0.12.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing OneAPI...
+   Resolving package versions...
+   Installed OneAPI ─ v0.12.0
+Precompiling packages...
+  25 dependencies successfully precompiled in 237 seconds
+Testing OneAPI
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+OneAPI          | 71878  27201  963.1s
+     Testing OneAPI tests passed

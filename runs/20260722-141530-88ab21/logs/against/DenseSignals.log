@@ -1,0 +1,16 @@
+PkgEval job log — DenseSignals v0.7.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseSignals...
+   Resolving package versions...
+   Installed DenseSignals ─ v0.7.8
+Precompiling packages...
+  132 dependencies successfully precompiled in 205 seconds
+Testing DenseSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseSignals          | 33538  63482  888.1s
+     Testing DenseSignals tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TreeStatistics v0.13.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeStatistics...
+   Resolving package versions...
+   Installed TreeStatistics ─ v0.13.1
+Precompiling packages...
+  174 dependencies successfully precompiled in 195 seconds
+Testing TreeStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeStatistics          | 61227  81126  1167.1s
+     Testing TreeStatistics tests passed

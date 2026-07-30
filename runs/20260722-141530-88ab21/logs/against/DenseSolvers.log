@@ -1,0 +1,16 @@
+PkgEval job log — DenseSolvers v1.1.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseSolvers...
+   Resolving package versions...
+   Installed DenseSolvers ─ v1.1.4
+Precompiling packages...
+  172 dependencies successfully precompiled in 172 seconds
+Testing DenseSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseSolvers          | 71749  80703  354.1s
+     Testing DenseSolvers tests passed

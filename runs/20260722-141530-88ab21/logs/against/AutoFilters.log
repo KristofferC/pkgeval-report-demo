@@ -1,0 +1,16 @@
+PkgEval job log — AutoFilters v0.5.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoFilters...
+   Resolving package versions...
+   Installed AutoFilters ─ v0.5.6
+Precompiling packages...
+  142 dependencies successfully precompiled in 188 seconds
+Testing AutoFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoFilters          | 29478  2735  84.1s
+     Testing AutoFilters tests passed

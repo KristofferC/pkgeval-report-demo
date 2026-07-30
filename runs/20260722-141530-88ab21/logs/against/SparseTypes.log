@@ -1,0 +1,16 @@
+PkgEval job log — SparseTypes v0.6.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseTypes...
+   Resolving package versions...
+   Installed SparseTypes ─ v0.6.3
+Precompiling packages...
+  191 dependencies successfully precompiled in 228 seconds
+Testing SparseTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseTypes          | 54546  3411  305.1s
+     Testing SparseTypes tests passed

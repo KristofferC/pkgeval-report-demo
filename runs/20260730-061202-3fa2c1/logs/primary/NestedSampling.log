@@ -1,0 +1,16 @@
+PkgEval job log — NestedSampling v0.3.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedSampling...
+   Resolving package versions...
+   Installed NestedSampling ─ v0.3.7
+Precompiling packages...
+  9 dependencies successfully precompiled in 111 seconds
+Testing NestedSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedSampling          | 11395  85380  1297.1s
+     Testing NestedSampling tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — NeuralTypes v0.6.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTypes...
+   Resolving package versions...
+   Installed NeuralTypes ─ v0.6.7
+Precompiling packages...
+  168 dependencies successfully precompiled in 205 seconds
+Testing NeuralTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralTypes          | 1528  67849  1033.1s
+     Testing NeuralTypes tests passed

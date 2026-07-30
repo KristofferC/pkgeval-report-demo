@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveSystems v0.1.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveSystems...
+   Resolving package versions...
+   Installed AdaptiveSystems ─ v0.1.7
+Precompiling packages...
+  93 dependencies successfully precompiled in 127 seconds
+Testing AdaptiveSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveSystems          | 58474  32157  34.1s
+     Testing AdaptiveSystems tests passed

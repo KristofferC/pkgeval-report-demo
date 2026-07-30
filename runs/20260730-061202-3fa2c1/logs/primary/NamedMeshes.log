@@ -1,0 +1,16 @@
+PkgEval job log — NamedMeshes v2.14.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedMeshes...
+   Resolving package versions...
+   Installed NamedMeshes ─ v2.14.5
+Precompiling packages...
+  109 dependencies successfully precompiled in 23 seconds
+Testing NamedMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedMeshes          | 62351  48267  835.1s
+     Testing NamedMeshes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — FusedOptics v0.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedOptics...
+   Resolving package versions...
+   Installed FusedOptics ─ v0.7.1
+Precompiling packages...
+  10 dependencies successfully precompiled in 175 seconds
+Testing FusedOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedOptics          | 50619  25873  422.1s
+     Testing FusedOptics tests passed

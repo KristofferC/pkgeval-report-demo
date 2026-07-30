@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveSets v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveSets...
+   Resolving package versions...
+   Installed AdaptiveSets ─ v0.14.2
+Precompiling packages...
+  120 dependencies successfully precompiled in 101 seconds
+Testing AdaptiveSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveSets          | 80634  36960  1277.1s
+     Testing AdaptiveSets tests passed

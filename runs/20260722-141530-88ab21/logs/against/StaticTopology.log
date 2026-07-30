@@ -1,0 +1,16 @@
+PkgEval job log — StaticTopology v0.6.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticTopology...
+   Resolving package versions...
+   Installed StaticTopology ─ v0.6.2
+Precompiling packages...
+  162 dependencies successfully precompiled in 217 seconds
+Testing StaticTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticTopology          | 8988  86997  89.1s
+     Testing StaticTopology tests passed

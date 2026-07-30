@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveMetrics v1.4.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveMetrics...
+   Resolving package versions...
+   Installed AdaptiveMetrics ─ v1.4.5
+Precompiling packages...
+  67 dependencies successfully precompiled in 57 seconds
+Testing AdaptiveMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveMetrics          | 21638  50204  1599.1s
+     Testing AdaptiveMetrics tests passed

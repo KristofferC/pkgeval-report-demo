@@ -1,0 +1,16 @@
+PkgEval job log — DynamicTypes v0.3.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicTypes...
+   Resolving package versions...
+   Installed DynamicTypes ─ v0.3.7
+Precompiling packages...
+  164 dependencies successfully precompiled in 40 seconds
+Testing DynamicTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicTypes          | 61197  6514  1420.1s
+     Testing DynamicTypes tests passed

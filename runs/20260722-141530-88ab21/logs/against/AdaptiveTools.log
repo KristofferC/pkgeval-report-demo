@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveTools v0.14.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveTools...
+   Resolving package versions...
+   Installed AdaptiveTools ─ v0.14.1
+Precompiling packages...
+  67 dependencies successfully precompiled in 211 seconds
+Testing AdaptiveTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveTools          | 16861  29258  565.1s
+     Testing AdaptiveTools tests passed

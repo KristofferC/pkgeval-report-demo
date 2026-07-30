@@ -1,0 +1,16 @@
+PkgEval job log — OpenSSL2 v0.8.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing OpenSSL2...
+   Resolving package versions...
+   Installed OpenSSL2 ─ v0.8.7
+Precompiling packages...
+  203 dependencies successfully precompiled in 120 seconds
+Testing OpenSSL2
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+OpenSSL2          | 38679  49497  140.1s
+     Testing OpenSSL2 tests passed

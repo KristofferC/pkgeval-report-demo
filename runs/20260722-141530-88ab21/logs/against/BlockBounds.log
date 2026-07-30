@@ -1,0 +1,16 @@
+PkgEval job log — BlockBounds v1.0.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockBounds...
+   Resolving package versions...
+   Installed BlockBounds ─ v1.0.7
+Precompiling packages...
+  87 dependencies successfully precompiled in 200 seconds
+Testing BlockBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockBounds          | 69844  16807  895.1s
+     Testing BlockBounds tests passed

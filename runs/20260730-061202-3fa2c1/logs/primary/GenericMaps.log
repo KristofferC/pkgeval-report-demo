@@ -1,0 +1,16 @@
+PkgEval job log — GenericMaps v2.1.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericMaps...
+   Resolving package versions...
+   Installed GenericMaps ─ v2.1.8
+Precompiling packages...
+  172 dependencies successfully precompiled in 166 seconds
+Testing GenericMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericMaps          | 49386  12735  857.1s
+     Testing GenericMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TreeSampling v1.12.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeSampling...
+   Resolving package versions...
+   Installed TreeSampling ─ v1.12.2
+Precompiling packages...
+  89 dependencies successfully precompiled in 239 seconds
+Testing TreeSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeSampling          | 17236  55367  426.1s
+     Testing TreeSampling tests passed

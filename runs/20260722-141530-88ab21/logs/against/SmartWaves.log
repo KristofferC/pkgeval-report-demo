@@ -1,0 +1,16 @@
+PkgEval job log — SmartWaves v0.14.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartWaves...
+   Resolving package versions...
+   Installed SmartWaves ─ v0.14.4
+Precompiling packages...
+  29 dependencies successfully precompiled in 72 seconds
+Testing SmartWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartWaves          | 54979  17174  269.1s
+     Testing SmartWaves tests passed

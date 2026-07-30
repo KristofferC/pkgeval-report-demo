@@ -1,0 +1,16 @@
+PkgEval job log — HyperUtils v1.9.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperUtils...
+   Resolving package versions...
+   Installed HyperUtils ─ v1.9.9
+Precompiling packages...
+  83 dependencies successfully precompiled in 199 seconds
+Testing HyperUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperUtils          | 48286  56599  975.1s
+     Testing HyperUtils tests passed

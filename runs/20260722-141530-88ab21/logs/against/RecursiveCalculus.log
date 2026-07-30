@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveCalculus v0.6.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveCalculus...
+   Resolving package versions...
+   Installed RecursiveCalculus ─ v0.6.1
+Precompiling packages...
+  47 dependencies successfully precompiled in 66 seconds
+Testing RecursiveCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveCalculus          | 76194  88025  80.1s
+     Testing RecursiveCalculus tests passed

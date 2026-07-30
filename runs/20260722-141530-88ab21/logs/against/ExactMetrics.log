@@ -1,0 +1,16 @@
+PkgEval job log — ExactMetrics v0.12.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactMetrics...
+   Resolving package versions...
+   Installed ExactMetrics ─ v0.12.6
+Precompiling packages...
+  21 dependencies successfully precompiled in 148 seconds
+Testing ExactMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactMetrics          | 17397  42259  763.1s
+     Testing ExactMetrics tests passed

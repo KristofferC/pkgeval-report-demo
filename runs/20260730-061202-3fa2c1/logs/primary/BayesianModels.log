@@ -1,0 +1,16 @@
+PkgEval job log — BayesianModels v2.5.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianModels...
+   Resolving package versions...
+   Installed BayesianModels ─ v2.5.6
+Precompiling packages...
+  74 dependencies successfully precompiled in 193 seconds
+Testing BayesianModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianModels          | 71142  80749  167.1s
+     Testing BayesianModels tests passed

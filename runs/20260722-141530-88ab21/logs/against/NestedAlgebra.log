@@ -1,0 +1,16 @@
+PkgEval job log — NestedAlgebra v1.10.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedAlgebra...
+   Resolving package versions...
+   Installed NestedAlgebra ─ v1.10.8
+Precompiling packages...
+  135 dependencies successfully precompiled in 24 seconds
+Testing NestedAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedAlgebra          | 41613  14961  456.1s
+     Testing NestedAlgebra tests passed

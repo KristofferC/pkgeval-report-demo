@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveTopology v2.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveTopology...
+   Resolving package versions...
+   Installed AdaptiveTopology ─ v2.7.6
+Precompiling packages...
+  116 dependencies successfully precompiled in 137 seconds
+Testing AdaptiveTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveTopology          | 4687  50470  875.1s
+     Testing AdaptiveTopology tests passed

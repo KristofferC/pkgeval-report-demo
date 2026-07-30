@@ -1,0 +1,16 @@
+PkgEval job log — FlameGraphs v1.8.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FlameGraphs...
+   Resolving package versions...
+   Installed FlameGraphs ─ v1.8.3
+Precompiling packages...
+  88 dependencies successfully precompiled in 18 seconds
+Testing FlameGraphs
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FlameGraphs          | 51004  20070  567.1s
+     Testing FlameGraphs tests passed

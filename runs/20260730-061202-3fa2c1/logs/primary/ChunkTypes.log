@@ -1,0 +1,23 @@
+PkgEval job log — ChunkTypes v0.3.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkTypes...
+   Resolving package versions...
+   Installed ChunkTypes ─ v0.3.7
+Precompiling packages...
+  101 dependencies successfully precompiled in 114 seconds
+Testing ChunkTypes
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/ChunkTypes/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: MethodError: no method matching similar(::Base.OneTo{Int64}, ::Type{Float64})
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+ChunkTypes          |  221     2      1    15
+ERROR: LoadError: Some tests did not pass
+     Testing ChunkTypes tests failed

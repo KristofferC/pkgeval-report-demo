@@ -1,0 +1,16 @@
+PkgEval job log — Crayons v0.2.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Crayons...
+   Resolving package versions...
+   Installed Crayons ─ v0.2.1
+Precompiling packages...
+  128 dependencies successfully precompiled in 98 seconds
+Testing Crayons
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Crayons          | 75095  65891  175.1s
+     Testing Crayons tests passed

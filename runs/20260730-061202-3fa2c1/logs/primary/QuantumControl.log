@@ -1,0 +1,16 @@
+PkgEval job log — QuantumControl v0.5.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumControl...
+   Resolving package versions...
+   Installed QuantumControl ─ v0.5.6
+Precompiling packages...
+  14 dependencies successfully precompiled in 238 seconds
+Testing QuantumControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumControl          | 18436  50766  670.1s
+     Testing QuantumControl tests passed

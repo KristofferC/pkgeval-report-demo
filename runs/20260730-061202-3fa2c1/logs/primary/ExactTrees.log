@@ -1,0 +1,16 @@
+PkgEval job log — ExactTrees v2.3.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactTrees...
+   Resolving package versions...
+   Installed ExactTrees ─ v2.3.0
+Precompiling packages...
+  88 dependencies successfully precompiled in 111 seconds
+Testing ExactTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactTrees          | 16383  77586  60.1s
+     Testing ExactTrees tests passed

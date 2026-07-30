@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveLearning v1.13.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveLearning...
+   Resolving package versions...
+   Installed AdaptiveLearning ─ v1.13.0
+Precompiling packages...
+  201 dependencies successfully precompiled in 230 seconds
+Testing AdaptiveLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveLearning          | 24111  64180  229.1s
+     Testing AdaptiveLearning tests passed

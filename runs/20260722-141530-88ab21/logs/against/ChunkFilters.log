@@ -1,0 +1,16 @@
+PkgEval job log — ChunkFilters v2.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkFilters...
+   Resolving package versions...
+   Installed ChunkFilters ─ v2.1.9
+Precompiling packages...
+  210 dependencies successfully precompiled in 19 seconds
+Testing ChunkFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkFilters          | 38078  13697  538.1s
+     Testing ChunkFilters tests passed

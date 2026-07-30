@@ -1,0 +1,16 @@
+PkgEval job log — Symbolics4 v2.11.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Symbolics4...
+   Resolving package versions...
+   Installed Symbolics4 ─ v2.11.8
+Precompiling packages...
+  64 dependencies successfully precompiled in 200 seconds
+Testing Symbolics4
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Symbolics4          | 5864  38622  1182.1s
+     Testing Symbolics4 tests passed

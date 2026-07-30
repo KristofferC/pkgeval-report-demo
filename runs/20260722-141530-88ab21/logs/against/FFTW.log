@@ -1,0 +1,16 @@
+PkgEval job log — FFTW v2.2.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FFTW...
+   Resolving package versions...
+   Installed FFTW ─ v2.2.5
+Precompiling packages...
+  35 dependencies successfully precompiled in 106 seconds
+Testing FFTW
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FFTW          | 46890  89659  460.1s
+     Testing FFTW tests passed

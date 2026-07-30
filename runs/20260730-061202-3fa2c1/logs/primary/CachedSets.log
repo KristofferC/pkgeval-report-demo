@@ -1,0 +1,16 @@
+PkgEval job log — CachedSets v0.5.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedSets...
+   Resolving package versions...
+   Installed CachedSets ─ v0.5.7
+Precompiling packages...
+  126 dependencies successfully precompiled in 37 seconds
+Testing CachedSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedSets          | 84170  31236  860.1s
+     Testing CachedSets tests passed

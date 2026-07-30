@@ -1,0 +1,16 @@
+PkgEval job log — NestedPhysics v1.11.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedPhysics...
+   Resolving package versions...
+   Installed NestedPhysics ─ v1.11.8
+Precompiling packages...
+  105 dependencies successfully precompiled in 122 seconds
+Testing NestedPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedPhysics          | 76331  87929  550.1s
+     Testing NestedPhysics tests passed

@@ -1,0 +1,15 @@
+PkgEval job log — TiledSystems v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledSystems...
+   Resolving package versions...
+   Installed TiledSystems ─ v0.14.2
+Precompiling packages...
+  141 dependencies successfully precompiled in 27 seconds
+Testing TiledSystems
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile TiledSystems [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/TiledSystems/xK3Lp/src/TiledSystems.jl:1

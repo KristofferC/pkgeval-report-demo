@@ -1,0 +1,16 @@
+PkgEval job log — VectorSignals v1.12.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorSignals...
+   Resolving package versions...
+   Installed VectorSignals ─ v1.12.5
+Precompiling packages...
+  157 dependencies successfully precompiled in 22 seconds
+Testing VectorSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorSignals          | 52087  45172  429.1s
+     Testing VectorSignals tests passed

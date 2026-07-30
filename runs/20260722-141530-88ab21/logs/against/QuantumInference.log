@@ -1,0 +1,16 @@
+PkgEval job log — QuantumInference v0.6.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumInference...
+   Resolving package versions...
+   Installed QuantumInference ─ v0.6.1
+Precompiling packages...
+  195 dependencies successfully precompiled in 73 seconds
+Testing QuantumInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumInference          | 80044  83213  446.1s
+     Testing QuantumInference tests passed

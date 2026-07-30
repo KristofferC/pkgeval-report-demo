@@ -1,0 +1,16 @@
+PkgEval job log — NeuralNets v1.0.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralNets...
+   Resolving package versions...
+   Installed NeuralNets ─ v1.0.5
+Precompiling packages...
+  193 dependencies successfully precompiled in 100 seconds
+Testing NeuralNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralNets          | 40861  45744  1100.1s
+     Testing NeuralNets tests passed

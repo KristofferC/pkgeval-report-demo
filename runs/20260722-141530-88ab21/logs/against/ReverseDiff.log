@@ -1,0 +1,16 @@
+PkgEval job log — ReverseDiff v0.0.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ReverseDiff...
+   Resolving package versions...
+   Installed ReverseDiff ─ v0.0.0
+Precompiling packages...
+  35 dependencies successfully precompiled in 102 seconds
+Testing ReverseDiff
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ReverseDiff          | 64056  39395  59.1s
+     Testing ReverseDiff tests passed

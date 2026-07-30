@@ -1,0 +1,16 @@
+PkgEval job log — StreamTables v1.5.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamTables...
+   Resolving package versions...
+   Installed StreamTables ─ v1.5.7
+Precompiling packages...
+  122 dependencies successfully precompiled in 191 seconds
+Testing StreamTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamTables          | 45595  16425  880.1s
+     Testing StreamTables tests passed

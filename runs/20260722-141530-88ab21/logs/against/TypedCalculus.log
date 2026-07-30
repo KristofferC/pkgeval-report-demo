@@ -1,0 +1,16 @@
+PkgEval job log — TypedCalculus v0.1.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedCalculus...
+   Resolving package versions...
+   Installed TypedCalculus ─ v0.1.8
+Precompiling packages...
+  204 dependencies successfully precompiled in 119 seconds
+Testing TypedCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedCalculus          | 32922  67478  1438.1s
+     Testing TypedCalculus tests passed

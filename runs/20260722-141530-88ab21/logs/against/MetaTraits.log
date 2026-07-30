@@ -1,0 +1,16 @@
+PkgEval job log — MetaTraits v0.12.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaTraits...
+   Resolving package versions...
+   Installed MetaTraits ─ v0.12.9
+Precompiling packages...
+  50 dependencies successfully precompiled in 49 seconds
+Testing MetaTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaTraits          | 68936  41765  1254.1s
+     Testing MetaTraits tests passed

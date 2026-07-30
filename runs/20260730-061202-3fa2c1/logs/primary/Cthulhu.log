@@ -1,0 +1,16 @@
+PkgEval job log — Cthulhu v1.9.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Cthulhu...
+   Resolving package versions...
+   Installed Cthulhu ─ v1.9.6
+Precompiling packages...
+  37 dependencies successfully precompiled in 33 seconds
+Testing Cthulhu
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Cthulhu          | 52404  78626  687.1s
+     Testing Cthulhu tests passed

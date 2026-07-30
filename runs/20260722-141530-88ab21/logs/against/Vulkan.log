@@ -1,0 +1,16 @@
+PkgEval job log — Vulkan v1.5.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Vulkan...
+   Resolving package versions...
+   Installed Vulkan ─ v1.5.0
+Precompiling packages...
+  10 dependencies successfully precompiled in 201 seconds
+Testing Vulkan
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Vulkan          | 10506  75376  1204.1s
+     Testing Vulkan tests passed

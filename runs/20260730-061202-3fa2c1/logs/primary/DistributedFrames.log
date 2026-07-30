@@ -1,0 +1,16 @@
+PkgEval job log — DistributedFrames v2.11.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedFrames...
+   Resolving package versions...
+   Installed DistributedFrames ─ v2.11.2
+Precompiling packages...
+  162 dependencies successfully precompiled in 32 seconds
+Testing DistributedFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedFrames          | 43747  62818  835.1s
+     Testing DistributedFrames tests passed

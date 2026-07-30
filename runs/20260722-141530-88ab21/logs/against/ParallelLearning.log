@@ -1,0 +1,16 @@
+PkgEval job log — ParallelLearning v1.0.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelLearning...
+   Resolving package versions...
+   Installed ParallelLearning ─ v1.0.4
+Precompiling packages...
+  50 dependencies successfully precompiled in 95 seconds
+Testing ParallelLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelLearning          | 82026  38285  478.1s
+     Testing ParallelLearning tests passed

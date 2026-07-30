@@ -1,0 +1,16 @@
+PkgEval job log — AutoArrays v1.0.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoArrays...
+   Resolving package versions...
+   Installed AutoArrays ─ v1.0.5
+Precompiling packages...
+  143 dependencies successfully precompiled in 152 seconds
+Testing AutoArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoArrays          | 62978  88083  1626.1s
+     Testing AutoArrays tests passed

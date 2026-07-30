@@ -1,0 +1,16 @@
+PkgEval job log — HyperBounds v1.1.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperBounds...
+   Resolving package versions...
+   Installed HyperBounds ─ v1.1.1
+Precompiling packages...
+  182 dependencies successfully precompiled in 127 seconds
+Testing HyperBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperBounds          | 20279  21793  315.1s
+     Testing HyperBounds tests passed

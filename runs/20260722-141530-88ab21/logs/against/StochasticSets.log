@@ -1,0 +1,16 @@
+PkgEval job log — StochasticSets v0.2.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticSets...
+   Resolving package versions...
+   Installed StochasticSets ─ v0.2.3
+Precompiling packages...
+  80 dependencies successfully precompiled in 238 seconds
+Testing StochasticSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticSets          | 68136  1108  961.1s
+     Testing StochasticSets tests passed

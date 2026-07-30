@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveTrees v2.8.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveTrees...
+   Resolving package versions...
+   Installed AdaptiveTrees ─ v2.8.2
+Precompiling packages...
+  136 dependencies successfully precompiled in 235 seconds
+Testing AdaptiveTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveTrees          | 49309  6165  1275.1s
+     Testing AdaptiveTrees tests passed

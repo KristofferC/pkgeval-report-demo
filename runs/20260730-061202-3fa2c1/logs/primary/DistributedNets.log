@@ -1,0 +1,16 @@
+PkgEval job log — DistributedNets v0.1.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedNets...
+   Resolving package versions...
+   Installed DistributedNets ─ v0.1.3
+Precompiling packages...
+  16 dependencies successfully precompiled in 200 seconds
+Testing DistributedNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedNets          | 43437  9561  1535.1s
+     Testing DistributedNets tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SmartNets v2.7.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartNets...
+   Resolving package versions...
+   Installed SmartNets ─ v2.7.3
+Precompiling packages...
+  192 dependencies successfully precompiled in 74 seconds
+Testing SmartNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartNets          | 1049  23979  922.1s
+     Testing SmartNets tests passed

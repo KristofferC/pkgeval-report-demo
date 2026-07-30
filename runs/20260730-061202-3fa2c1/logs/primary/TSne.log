@@ -1,0 +1,16 @@
+PkgEval job log — TSne v0.9.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TSne...
+   Resolving package versions...
+   Installed TSne ─ v0.9.0
+Precompiling packages...
+  129 dependencies successfully precompiled in 206 seconds
+Testing TSne
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TSne          | 60094  63003  1251.1s
+     Testing TSne tests passed

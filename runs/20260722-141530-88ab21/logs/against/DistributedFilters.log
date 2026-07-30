@@ -1,0 +1,16 @@
+PkgEval job log — DistributedFilters v2.8.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedFilters...
+   Resolving package versions...
+   Installed DistributedFilters ─ v2.8.7
+Precompiling packages...
+  86 dependencies successfully precompiled in 67 seconds
+Testing DistributedFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedFilters          | 78329  82541  520.1s
+     Testing DistributedFilters tests passed

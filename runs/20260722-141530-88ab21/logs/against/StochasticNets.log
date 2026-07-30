@@ -1,0 +1,16 @@
+PkgEval job log — StochasticNets v1.6.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticNets...
+   Resolving package versions...
+   Installed StochasticNets ─ v1.6.8
+Precompiling packages...
+  124 dependencies successfully precompiled in 42 seconds
+Testing StochasticNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticNets          | 80796  14542  570.1s
+     Testing StochasticNets tests passed

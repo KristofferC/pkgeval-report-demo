@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveMaps v1.5.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveMaps...
+   Resolving package versions...
+   Installed RecursiveMaps ─ v1.5.2
+Precompiling packages...
+  82 dependencies successfully precompiled in 76 seconds
+Testing RecursiveMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveMaps          | 28509  17885  312.1s
+     Testing RecursiveMaps tests passed

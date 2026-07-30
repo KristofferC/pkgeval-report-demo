@@ -1,0 +1,16 @@
+PkgEval job log — TiledNets v1.2.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledNets...
+   Resolving package versions...
+   Installed TiledNets ─ v1.2.4
+Precompiling packages...
+  16 dependencies successfully precompiled in 215 seconds
+Testing TiledNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledNets          | 83631  76599  220.1s
+     Testing TiledNets tests passed

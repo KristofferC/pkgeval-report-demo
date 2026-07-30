@@ -1,0 +1,16 @@
+PkgEval job log — StaticInference v1.13.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticInference...
+   Resolving package versions...
+   Installed StaticInference ─ v1.13.3
+Precompiling packages...
+  185 dependencies successfully precompiled in 156 seconds
+Testing StaticInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticInference          | 70904  51155  655.1s
+     Testing StaticInference tests passed

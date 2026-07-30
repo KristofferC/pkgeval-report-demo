@@ -1,0 +1,23 @@
+PkgEval job log — HyperControl v2.1.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperControl...
+   Resolving package versions...
+   Installed HyperControl ─ v2.1.4
+Precompiling packages...
+  128 dependencies successfully precompiled in 44 seconds
+Testing HyperControl
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/HyperControl/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `HyperControlHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+HyperControl          |  306     2      1    310
+ERROR: LoadError: Some tests did not pass
+     Testing HyperControl tests failed

@@ -1,0 +1,16 @@
+PkgEval job log — NamedSampling v2.6.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedSampling...
+   Resolving package versions...
+   Installed NamedSampling ─ v2.6.5
+Precompiling packages...
+  172 dependencies successfully precompiled in 50 seconds
+Testing NamedSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedSampling          | 45298  30177  1212.1s
+     Testing NamedSampling tests passed

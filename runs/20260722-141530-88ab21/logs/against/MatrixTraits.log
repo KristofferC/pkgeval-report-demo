@@ -1,0 +1,16 @@
+PkgEval job log — MatrixTraits v0.12.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixTraits...
+   Resolving package versions...
+   Installed MatrixTraits ─ v0.12.0
+Precompiling packages...
+  136 dependencies successfully precompiled in 107 seconds
+Testing MatrixTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixTraits          | 22645  26720  1086.1s
+     Testing MatrixTraits tests passed

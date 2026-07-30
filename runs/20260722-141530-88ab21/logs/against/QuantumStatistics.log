@@ -1,0 +1,16 @@
+PkgEval job log — QuantumStatistics v0.7.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumStatistics...
+   Resolving package versions...
+   Installed QuantumStatistics ─ v0.7.6
+Precompiling packages...
+  201 dependencies successfully precompiled in 224 seconds
+Testing QuantumStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumStatistics          | 25703  79671  130.1s
+     Testing QuantumStatistics tests passed

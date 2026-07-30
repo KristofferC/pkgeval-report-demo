@@ -1,0 +1,16 @@
+PkgEval job log — PolyControl v2.0.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyControl...
+   Resolving package versions...
+   Installed PolyControl ─ v2.0.0
+Precompiling packages...
+  195 dependencies successfully precompiled in 100 seconds
+Testing PolyControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyControl          | 5793  51018  142.1s
+     Testing PolyControl tests passed

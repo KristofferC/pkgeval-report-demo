@@ -1,0 +1,16 @@
+PkgEval job log — TypedOps v2.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedOps...
+   Resolving package versions...
+   Installed TypedOps ─ v2.1.0
+Precompiling packages...
+  114 dependencies successfully precompiled in 199 seconds
+Testing TypedOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedOps          | 43267  59694  1049.1s
+     Testing TypedOps tests passed

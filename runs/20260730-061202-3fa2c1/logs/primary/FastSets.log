@@ -1,0 +1,16 @@
+PkgEval job log — FastSets v0.8.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastSets...
+   Resolving package versions...
+   Installed FastSets ─ v0.8.7
+Precompiling packages...
+  146 dependencies successfully precompiled in 76 seconds
+Testing FastSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastSets          | 18947  86853  756.1s
+     Testing FastSets tests passed

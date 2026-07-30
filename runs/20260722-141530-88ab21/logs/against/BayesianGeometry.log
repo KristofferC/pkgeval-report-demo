@@ -1,0 +1,16 @@
+PkgEval job log — BayesianGeometry v0.9.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianGeometry...
+   Resolving package versions...
+   Installed BayesianGeometry ─ v0.9.1
+Precompiling packages...
+  100 dependencies successfully precompiled in 103 seconds
+Testing BayesianGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianGeometry          | 80991  21611  468.1s
+     Testing BayesianGeometry tests passed

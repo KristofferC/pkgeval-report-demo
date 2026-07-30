@@ -1,0 +1,16 @@
+PkgEval job log — PolyMetrics v2.3.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyMetrics...
+   Resolving package versions...
+   Installed PolyMetrics ─ v2.3.3
+Precompiling packages...
+  70 dependencies successfully precompiled in 124 seconds
+Testing PolyMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyMetrics          | 8282  79245  184.1s
+     Testing PolyMetrics tests passed

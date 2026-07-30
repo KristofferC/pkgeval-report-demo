@@ -1,0 +1,16 @@
+PkgEval job log — HyperCalculus v0.11.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperCalculus...
+   Resolving package versions...
+   Installed HyperCalculus ─ v0.11.0
+Precompiling packages...
+  91 dependencies successfully precompiled in 26 seconds
+Testing HyperCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperCalculus          | 13543  73456  674.1s
+     Testing HyperCalculus tests passed

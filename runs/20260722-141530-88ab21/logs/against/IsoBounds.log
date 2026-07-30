@@ -1,0 +1,16 @@
+PkgEval job log — IsoBounds v2.6.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoBounds...
+   Resolving package versions...
+   Installed IsoBounds ─ v2.6.4
+Precompiling packages...
+  214 dependencies successfully precompiled in 105 seconds
+Testing IsoBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoBounds          | 87576  65178  557.1s
+     Testing IsoBounds tests passed

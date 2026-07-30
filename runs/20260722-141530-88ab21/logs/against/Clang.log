@@ -1,0 +1,16 @@
+PkgEval job log — Clang v0.7.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Clang...
+   Resolving package versions...
+   Installed Clang ─ v0.7.5
+Precompiling packages...
+  129 dependencies successfully precompiled in 75 seconds
+Testing Clang
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Clang          | 67329  80480  717.1s
+     Testing Clang tests passed

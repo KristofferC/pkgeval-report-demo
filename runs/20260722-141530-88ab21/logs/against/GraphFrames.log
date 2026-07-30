@@ -1,0 +1,16 @@
+PkgEval job log — GraphFrames v0.2.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphFrames...
+   Resolving package versions...
+   Installed GraphFrames ─ v0.2.6
+Precompiling packages...
+  206 dependencies successfully precompiled in 224 seconds
+Testing GraphFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphFrames          | 70518  77229  559.1s
+     Testing GraphFrames tests passed

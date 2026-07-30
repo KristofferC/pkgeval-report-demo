@@ -1,0 +1,16 @@
+PkgEval job log — AbstractUtils v1.10.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractUtils...
+   Resolving package versions...
+   Installed AbstractUtils ─ v1.10.8
+Precompiling packages...
+  174 dependencies successfully precompiled in 160 seconds
+Testing AbstractUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractUtils          | 71953  21609  423.1s
+     Testing AbstractUtils tests passed

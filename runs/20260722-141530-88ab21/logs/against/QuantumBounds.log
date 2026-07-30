@@ -1,0 +1,16 @@
+PkgEval job log — QuantumBounds v1.3.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumBounds...
+   Resolving package versions...
+   Installed QuantumBounds ─ v1.3.5
+Precompiling packages...
+  169 dependencies successfully precompiled in 194 seconds
+Testing QuantumBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumBounds          | 74925  53134  771.1s
+     Testing QuantumBounds tests passed

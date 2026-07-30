@@ -1,0 +1,16 @@
+PkgEval job log — ColorSchemes v0.2.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ColorSchemes...
+   Resolving package versions...
+   Installed ColorSchemes ─ v0.2.2
+Precompiling packages...
+  18 dependencies successfully precompiled in 143 seconds
+Testing ColorSchemes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ColorSchemes          | 82530  1827  571.1s
+     Testing ColorSchemes tests passed

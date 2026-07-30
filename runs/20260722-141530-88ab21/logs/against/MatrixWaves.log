@@ -1,0 +1,16 @@
+PkgEval job log — MatrixWaves v1.8.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixWaves...
+   Resolving package versions...
+   Installed MatrixWaves ─ v1.8.7
+Precompiling packages...
+  71 dependencies successfully precompiled in 47 seconds
+Testing MatrixWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixWaves          | 14056  89734  337.1s
+     Testing MatrixWaves tests passed

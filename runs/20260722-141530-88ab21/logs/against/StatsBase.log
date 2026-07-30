@@ -1,0 +1,16 @@
+PkgEval job log — StatsBase v0.12.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StatsBase...
+   Resolving package versions...
+   Installed StatsBase ─ v0.12.2
+Precompiling packages...
+  197 dependencies successfully precompiled in 130 seconds
+Testing StatsBase
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StatsBase          | 16878  40650  477.1s
+     Testing StatsBase tests passed

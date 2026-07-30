@@ -1,0 +1,16 @@
+PkgEval job log — SpectralFrames v0.13.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralFrames...
+   Resolving package versions...
+   Installed SpectralFrames ─ v0.13.8
+Precompiling packages...
+  194 dependencies successfully precompiled in 139 seconds
+Testing SpectralFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralFrames          | 52923  74742  1097.1s
+     Testing SpectralFrames tests passed

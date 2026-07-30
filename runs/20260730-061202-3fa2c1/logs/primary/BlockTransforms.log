@@ -1,0 +1,16 @@
+PkgEval job log — BlockTransforms v2.8.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockTransforms...
+   Resolving package versions...
+   Installed BlockTransforms ─ v2.8.8
+Precompiling packages...
+  88 dependencies successfully precompiled in 82 seconds
+Testing BlockTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockTransforms          | 9743  76340  1408.1s
+     Testing BlockTransforms tests passed

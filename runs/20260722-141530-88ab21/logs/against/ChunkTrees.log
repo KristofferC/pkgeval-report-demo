@@ -1,0 +1,16 @@
+PkgEval job log — ChunkTrees v0.3.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkTrees...
+   Resolving package versions...
+   Installed ChunkTrees ─ v0.3.5
+Precompiling packages...
+  112 dependencies successfully precompiled in 117 seconds
+Testing ChunkTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkTrees          | 43385  27871  356.1s
+     Testing ChunkTrees tests passed

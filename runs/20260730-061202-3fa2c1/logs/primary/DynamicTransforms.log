@@ -1,0 +1,16 @@
+PkgEval job log — DynamicTransforms v0.8.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicTransforms...
+   Resolving package versions...
+   Installed DynamicTransforms ─ v0.8.2
+Precompiling packages...
+  50 dependencies successfully precompiled in 143 seconds
+Testing DynamicTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicTransforms          | 43544  63495  224.1s
+     Testing DynamicTransforms tests passed

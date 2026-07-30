@@ -1,0 +1,16 @@
+PkgEval job log — RobustAlgebra v2.11.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustAlgebra...
+   Resolving package versions...
+   Installed RobustAlgebra ─ v2.11.5
+Precompiling packages...
+  206 dependencies successfully precompiled in 22 seconds
+Testing RobustAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustAlgebra          | 33550  65014  398.1s
+     Testing RobustAlgebra tests passed

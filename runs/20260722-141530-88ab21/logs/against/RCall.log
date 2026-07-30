@@ -1,0 +1,16 @@
+PkgEval job log — RCall v1.7.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RCall...
+   Resolving package versions...
+   Installed RCall ─ v1.7.4
+Precompiling packages...
+  150 dependencies successfully precompiled in 43 seconds
+Testing RCall
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RCall          | 6626  67330  2499.1s
+     Testing RCall tests passed

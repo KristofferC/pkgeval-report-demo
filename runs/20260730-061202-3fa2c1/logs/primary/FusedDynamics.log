@@ -1,0 +1,16 @@
+PkgEval job log — FusedDynamics v1.11.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedDynamics...
+   Resolving package versions...
+   Installed FusedDynamics ─ v1.11.6
+Precompiling packages...
+  155 dependencies successfully precompiled in 107 seconds
+Testing FusedDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedDynamics          | 85881  75418  755.1s
+     Testing FusedDynamics tests passed

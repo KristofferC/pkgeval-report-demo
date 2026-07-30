@@ -1,0 +1,16 @@
+PkgEval job log — AutoLayers v0.10.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoLayers...
+   Resolving package versions...
+   Installed AutoLayers ─ v0.10.2
+Precompiling packages...
+  187 dependencies successfully precompiled in 172 seconds
+Testing AutoLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoLayers          | 6585  87991  1678.1s
+     Testing AutoLayers tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — QuantumSets v1.10.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumSets...
+   Resolving package versions...
+   Installed QuantumSets ─ v1.10.6
+Precompiling packages...
+  79 dependencies successfully precompiled in 111 seconds
+Testing QuantumSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumSets          | 41013  2691  1416.1s
+     Testing QuantumSets tests passed

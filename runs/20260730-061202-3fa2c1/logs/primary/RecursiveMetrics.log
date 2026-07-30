@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveMetrics v0.7.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveMetrics...
+   Resolving package versions...
+   Installed RecursiveMetrics ─ v0.7.5
+Precompiling packages...
+  107 dependencies successfully precompiled in 116 seconds
+Testing RecursiveMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveMetrics          | 50153  49584  616.1s
+     Testing RecursiveMetrics tests passed

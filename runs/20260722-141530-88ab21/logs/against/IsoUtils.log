@@ -1,0 +1,16 @@
+PkgEval job log — IsoUtils v1.10.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoUtils...
+   Resolving package versions...
+   Installed IsoUtils ─ v1.10.7
+Precompiling packages...
+  13 dependencies successfully precompiled in 176 seconds
+Testing IsoUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoUtils          | 79421  28543  731.1s
+     Testing IsoUtils tests passed

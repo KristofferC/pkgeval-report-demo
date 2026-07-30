@@ -1,0 +1,16 @@
+PkgEval job log — MatrixMeshes v0.3.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixMeshes...
+   Resolving package versions...
+   Installed MatrixMeshes ─ v0.3.9
+Precompiling packages...
+  38 dependencies successfully precompiled in 114 seconds
+Testing MatrixMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixMeshes          | 77256  8866  1366.1s
+     Testing MatrixMeshes tests passed

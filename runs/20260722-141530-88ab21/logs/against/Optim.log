@@ -1,0 +1,16 @@
+PkgEval job log — Optim v2.7.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Optim...
+   Resolving package versions...
+   Installed Optim ─ v2.7.8
+Precompiling packages...
+  159 dependencies successfully precompiled in 88 seconds
+Testing Optim
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Optim          | 54629  5524  1140.1s
+     Testing Optim tests passed

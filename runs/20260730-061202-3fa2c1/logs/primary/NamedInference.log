@@ -1,0 +1,16 @@
+PkgEval job log — NamedInference v2.4.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedInference...
+   Resolving package versions...
+   Installed NamedInference ─ v2.4.8
+Precompiling packages...
+  189 dependencies successfully precompiled in 223 seconds
+Testing NamedInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedInference          | 9809  83308  1064.1s
+     Testing NamedInference tests passed

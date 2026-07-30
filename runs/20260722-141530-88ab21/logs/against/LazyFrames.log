@@ -1,0 +1,16 @@
+PkgEval job log — LazyFrames v2.10.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyFrames...
+   Resolving package versions...
+   Installed LazyFrames ─ v2.10.9
+Precompiling packages...
+  60 dependencies successfully precompiled in 183 seconds
+Testing LazyFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyFrames          | 53576  81071  982.1s
+     Testing LazyFrames tests passed

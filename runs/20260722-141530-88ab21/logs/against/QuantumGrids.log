@@ -1,0 +1,16 @@
+PkgEval job log — QuantumGrids v0.4.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumGrids...
+   Resolving package versions...
+   Installed QuantumGrids ─ v0.4.6
+Precompiling packages...
+  129 dependencies successfully precompiled in 206 seconds
+Testing QuantumGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumGrids          | 75843  12052  310.1s
+     Testing QuantumGrids tests passed

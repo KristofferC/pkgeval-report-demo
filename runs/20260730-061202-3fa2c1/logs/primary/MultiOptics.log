@@ -1,0 +1,16 @@
+PkgEval job log — MultiOptics v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiOptics...
+   Resolving package versions...
+   Installed MultiOptics ─ v0.14.2
+Precompiling packages...
+  101 dependencies successfully precompiled in 86 seconds
+Testing MultiOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiOptics          | 15157  49786  376.1s
+     Testing MultiOptics tests passed

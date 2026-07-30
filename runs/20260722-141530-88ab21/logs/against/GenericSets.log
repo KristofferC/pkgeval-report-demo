@@ -1,0 +1,16 @@
+PkgEval job log — GenericSets v1.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericSets...
+   Resolving package versions...
+   Installed GenericSets ─ v1.7.1
+Precompiling packages...
+  25 dependencies successfully precompiled in 9 seconds
+Testing GenericSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericSets          | 6879  12008  499.1s
+     Testing GenericSets tests passed

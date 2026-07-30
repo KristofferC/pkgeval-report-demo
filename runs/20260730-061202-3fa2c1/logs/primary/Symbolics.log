@@ -1,0 +1,16 @@
+PkgEval job log — Symbolics v0.10.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Symbolics...
+   Resolving package versions...
+   Installed Symbolics ─ v0.10.0
+Precompiling packages...
+  206 dependencies successfully precompiled in 41 seconds
+Testing Symbolics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Symbolics          | 58006  78740  1469.1s
+     Testing Symbolics tests passed

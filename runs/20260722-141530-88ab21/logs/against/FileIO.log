@@ -1,0 +1,16 @@
+PkgEval job log — FileIO v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FileIO...
+   Resolving package versions...
+   Installed FileIO ─ v0.3.8
+Precompiling packages...
+  143 dependencies successfully precompiled in 125 seconds
+Testing FileIO
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FileIO          | 88158  70833  1076.1s
+     Testing FileIO tests passed

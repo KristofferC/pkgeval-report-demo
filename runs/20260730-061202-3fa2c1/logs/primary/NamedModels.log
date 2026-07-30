@@ -1,0 +1,15 @@
+PkgEval job log — NamedModels v0.14.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedModels...
+   Resolving package versions...
+   Installed NamedModels ─ v0.14.5
+Precompiling packages...
+  31 dependencies successfully precompiled in 50 seconds
+Testing NamedModels
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile NamedModels [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/NamedModels/xK3Lp/src/NamedModels.jl:1

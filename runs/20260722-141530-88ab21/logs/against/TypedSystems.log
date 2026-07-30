@@ -1,0 +1,16 @@
+PkgEval job log — TypedSystems v0.13.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedSystems...
+   Resolving package versions...
+   Installed TypedSystems ─ v0.13.5
+Precompiling packages...
+  69 dependencies successfully precompiled in 155 seconds
+Testing TypedSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedSystems          | 81565  15354  475.1s
+     Testing TypedSystems tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — Aqua v2.3.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Aqua...
+   Resolving package versions...
+   Installed Aqua ─ v2.3.5
+Precompiling packages...
+  92 dependencies successfully precompiled in 177 seconds
+Testing Aqua
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Aqua          | 7188  2611  338.1s
+     Testing Aqua tests passed

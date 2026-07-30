@@ -1,0 +1,16 @@
+PkgEval job log — AutoSampling v1.11.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoSampling...
+   Resolving package versions...
+   Installed AutoSampling ─ v1.11.3
+Precompiling packages...
+  161 dependencies successfully precompiled in 218 seconds
+Testing AutoSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoSampling          | 51636  44317  276.1s
+     Testing AutoSampling tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MultiSets v0.2.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiSets...
+   Resolving package versions...
+   Installed MultiSets ─ v0.2.1
+Precompiling packages...
+  176 dependencies successfully precompiled in 23 seconds
+Testing MultiSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiSets          | 10004  4898  534.1s
+     Testing MultiSets tests passed

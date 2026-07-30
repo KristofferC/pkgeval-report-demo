@@ -1,0 +1,16 @@
+PkgEval job log — DistributedSampling v1.7.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedSampling...
+   Resolving package versions...
+   Installed DistributedSampling ─ v1.7.5
+Precompiling packages...
+  42 dependencies successfully precompiled in 219 seconds
+Testing DistributedSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedSampling          | 51420  52402  169.1s
+     Testing DistributedSampling tests passed

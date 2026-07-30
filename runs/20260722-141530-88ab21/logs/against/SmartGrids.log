@@ -1,0 +1,16 @@
+PkgEval job log — SmartGrids v2.0.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartGrids...
+   Resolving package versions...
+   Installed SmartGrids ─ v2.0.5
+Precompiling packages...
+  53 dependencies successfully precompiled in 240 seconds
+Testing SmartGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartGrids          | 3634  69133  702.1s
+     Testing SmartGrids tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — BlockSampling v1.3.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockSampling...
+   Resolving package versions...
+   Installed BlockSampling ─ v1.3.2
+Precompiling packages...
+  88 dependencies successfully precompiled in 121 seconds
+Testing BlockSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockSampling          | 39650  76827  1120.1s
+     Testing BlockSampling tests passed

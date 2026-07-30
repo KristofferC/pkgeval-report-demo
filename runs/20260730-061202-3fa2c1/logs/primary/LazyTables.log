@@ -1,0 +1,23 @@
+PkgEval job log — LazyTables v1.13.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyTables...
+   Resolving package versions...
+   Installed LazyTables ─ v1.13.7
+Precompiling packages...
+  77 dependencies successfully precompiled in 48 seconds
+Testing LazyTables
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/LazyTables/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `LazyTablesHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+LazyTables          |  71     2      1    122
+ERROR: LoadError: Some tests did not pass
+     Testing LazyTables tests failed

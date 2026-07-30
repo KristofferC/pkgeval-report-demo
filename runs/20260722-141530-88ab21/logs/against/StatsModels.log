@@ -1,0 +1,16 @@
+PkgEval job log — StatsModels v1.4.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StatsModels...
+   Resolving package versions...
+   Installed StatsModels ─ v1.4.9
+Precompiling packages...
+  182 dependencies successfully precompiled in 109 seconds
+Testing StatsModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StatsModels          | 69898  57320  1190.1s
+     Testing StatsModels tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — Parquet2 v0.8.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Parquet2...
+   Resolving package versions...
+   Installed Parquet2 ─ v0.8.9
+Precompiling packages...
+  82 dependencies successfully precompiled in 56 seconds
+Testing Parquet2
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Parquet2          | 45070  23420  595.1s
+     Testing Parquet2 tests passed

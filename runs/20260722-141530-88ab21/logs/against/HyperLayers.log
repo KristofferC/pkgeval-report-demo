@@ -1,0 +1,16 @@
+PkgEval job log — HyperLayers v2.12.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperLayers...
+   Resolving package versions...
+   Installed HyperLayers ─ v2.12.5
+Precompiling packages...
+  69 dependencies successfully precompiled in 224 seconds
+Testing HyperLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperLayers          | 207  45757  850.1s
+     Testing HyperLayers tests passed

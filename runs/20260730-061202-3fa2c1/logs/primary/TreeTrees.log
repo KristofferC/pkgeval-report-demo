@@ -1,0 +1,16 @@
+PkgEval job log — TreeTrees v0.11.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeTrees...
+   Resolving package versions...
+   Installed TreeTrees ─ v0.11.4
+Precompiling packages...
+  106 dependencies successfully precompiled in 102 seconds
+Testing TreeTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeTrees          | 23555  35705  362.1s
+     Testing TreeTrees tests passed

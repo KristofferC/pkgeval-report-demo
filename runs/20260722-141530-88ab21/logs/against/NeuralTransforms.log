@@ -1,0 +1,16 @@
+PkgEval job log — NeuralTransforms v1.0.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTransforms...
+   Resolving package versions...
+   Installed NeuralTransforms ─ v1.0.6
+Precompiling packages...
+  179 dependencies successfully precompiled in 216 seconds
+Testing NeuralTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralTransforms          | 4188  41400  1038.1s
+     Testing NeuralTransforms tests passed

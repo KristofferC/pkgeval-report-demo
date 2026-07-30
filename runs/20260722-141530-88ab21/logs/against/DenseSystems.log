@@ -1,0 +1,16 @@
+PkgEval job log — DenseSystems v1.12.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseSystems...
+   Resolving package versions...
+   Installed DenseSystems ─ v1.12.1
+Precompiling packages...
+  76 dependencies successfully precompiled in 31 seconds
+Testing DenseSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseSystems          | 14264  157  1444.1s
+     Testing DenseSystems tests passed

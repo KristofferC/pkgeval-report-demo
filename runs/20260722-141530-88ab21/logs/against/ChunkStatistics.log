@@ -1,0 +1,16 @@
+PkgEval job log — ChunkStatistics v0.0.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkStatistics...
+   Resolving package versions...
+   Installed ChunkStatistics ─ v0.0.5
+Precompiling packages...
+  125 dependencies successfully precompiled in 115 seconds
+Testing ChunkStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkStatistics          | 25952  1992  272.1s
+     Testing ChunkStatistics tests passed

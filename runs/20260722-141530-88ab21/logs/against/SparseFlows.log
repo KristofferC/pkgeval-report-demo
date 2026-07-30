@@ -1,0 +1,16 @@
+PkgEval job log — SparseFlows v0.14.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseFlows...
+   Resolving package versions...
+   Installed SparseFlows ─ v0.14.5
+Precompiling packages...
+  150 dependencies successfully precompiled in 107 seconds
+Testing SparseFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseFlows          | 62582  37948  1326.1s
+     Testing SparseFlows tests passed

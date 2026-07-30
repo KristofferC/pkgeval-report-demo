@@ -1,0 +1,16 @@
+PkgEval job log — MicroNets v1.10.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroNets...
+   Resolving package versions...
+   Installed MicroNets ─ v1.10.1
+Precompiling packages...
+  143 dependencies successfully precompiled in 92 seconds
+Testing MicroNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroNets          | 56967  15183  953.1s
+     Testing MicroNets tests passed

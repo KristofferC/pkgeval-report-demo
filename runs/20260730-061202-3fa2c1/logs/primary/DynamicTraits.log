@@ -1,0 +1,16 @@
+PkgEval job log — DynamicTraits v1.10.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicTraits...
+   Resolving package versions...
+   Installed DynamicTraits ─ v1.10.1
+Precompiling packages...
+  72 dependencies successfully precompiled in 53 seconds
+Testing DynamicTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicTraits          | 39357  85925  1118.1s
+     Testing DynamicTraits tests passed

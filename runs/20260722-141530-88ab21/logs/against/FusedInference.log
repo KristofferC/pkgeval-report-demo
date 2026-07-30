@@ -1,0 +1,16 @@
+PkgEval job log — FusedInference v0.2.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedInference...
+   Resolving package versions...
+   Installed FusedInference ─ v0.2.8
+Precompiling packages...
+  130 dependencies successfully precompiled in 84 seconds
+Testing FusedInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedInference          | 30335  50757  970.1s
+     Testing FusedInference tests passed

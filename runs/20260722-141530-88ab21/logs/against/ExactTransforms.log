@@ -1,0 +1,16 @@
+PkgEval job log — ExactTransforms v0.3.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactTransforms...
+   Resolving package versions...
+   Installed ExactTransforms ─ v0.3.6
+Precompiling packages...
+  97 dependencies successfully precompiled in 188 seconds
+Testing ExactTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactTransforms          | 24272  55489  205.1s
+     Testing ExactTransforms tests passed

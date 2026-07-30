@@ -1,0 +1,16 @@
+PkgEval job log — GeoInterface v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GeoInterface...
+   Resolving package versions...
+   Installed GeoInterface ─ v0.1.0
+Precompiling packages...
+  152 dependencies successfully precompiled in 59 seconds
+Testing GeoInterface
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GeoInterface          | 32226  61291  515.1s
+     Testing GeoInterface tests passed

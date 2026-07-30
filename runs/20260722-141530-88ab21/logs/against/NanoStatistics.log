@@ -1,0 +1,16 @@
+PkgEval job log — NanoStatistics v1.10.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoStatistics...
+   Resolving package versions...
+   Installed NanoStatistics ─ v1.10.5
+Precompiling packages...
+  28 dependencies successfully precompiled in 101 seconds
+Testing NanoStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoStatistics          | 44637  54121  840.1s
+     Testing NanoStatistics tests passed

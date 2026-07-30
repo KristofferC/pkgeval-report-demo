@@ -1,0 +1,16 @@
+PkgEval job log — TranscodingStreams v2.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TranscodingStreams...
+   Resolving package versions...
+   Installed TranscodingStreams ─ v2.10.7
+Precompiling packages...
+  155 dependencies successfully precompiled in 162 seconds
+Testing TranscodingStreams
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TranscodingStreams          | 24911  83806  1138.1s
+     Testing TranscodingStreams tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TensorTraits v0.12.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorTraits...
+   Resolving package versions...
+   Installed TensorTraits ─ v0.12.9
+Precompiling packages...
+  138 dependencies successfully precompiled in 207 seconds
+Testing TensorTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorTraits          | 17006  50951  27.1s
+     Testing TensorTraits tests passed

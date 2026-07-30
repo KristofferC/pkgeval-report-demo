@@ -1,0 +1,16 @@
+PkgEval job log — Transformers v2.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Transformers...
+   Resolving package versions...
+   Installed Transformers ─ v2.7.1
+Precompiling packages...
+  183 dependencies successfully precompiled in 103 seconds
+Testing Transformers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Transformers          | 39125  78809  833.1s
+     Testing Transformers tests passed

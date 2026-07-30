@@ -1,0 +1,16 @@
+PkgEval job log — ExactTools v1.10.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactTools...
+   Resolving package versions...
+   Installed ExactTools ─ v1.10.0
+Precompiling packages...
+  142 dependencies successfully precompiled in 173 seconds
+Testing ExactTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactTools          | 38847  32126  1253.1s
+     Testing ExactTools tests passed

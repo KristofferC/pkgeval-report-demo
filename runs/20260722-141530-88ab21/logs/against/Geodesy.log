@@ -1,0 +1,16 @@
+PkgEval job log — Geodesy v1.10.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Geodesy...
+   Resolving package versions...
+   Installed Geodesy ─ v1.10.4
+Precompiling packages...
+  210 dependencies successfully precompiled in 189 seconds
+Testing Geodesy
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Geodesy          | 83555  59996  591.1s
+     Testing Geodesy tests passed

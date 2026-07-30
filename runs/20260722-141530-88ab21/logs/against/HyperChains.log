@@ -1,0 +1,16 @@
+PkgEval job log — HyperChains v2.13.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperChains...
+   Resolving package versions...
+   Installed HyperChains ─ v2.13.8
+Precompiling packages...
+  28 dependencies successfully precompiled in 200 seconds
+Testing HyperChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperChains          | 11815  49284  183.1s
+     Testing HyperChains tests passed

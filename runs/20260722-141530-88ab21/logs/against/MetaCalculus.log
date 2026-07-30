@@ -1,0 +1,16 @@
+PkgEval job log — MetaCalculus v2.13.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaCalculus...
+   Resolving package versions...
+   Installed MetaCalculus ─ v2.13.5
+Precompiling packages...
+  67 dependencies successfully precompiled in 139 seconds
+Testing MetaCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MetaCalculus          | 36268  32381  160.1s
+     Testing MetaCalculus tests passed

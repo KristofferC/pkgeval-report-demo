@@ -1,0 +1,16 @@
+PkgEval job log — HyperTrees v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperTrees...
+   Resolving package versions...
+   Installed HyperTrees ─ v0.3.8
+Precompiling packages...
+  14 dependencies successfully precompiled in 65 seconds
+Testing HyperTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperTrees          | 48649  14838  902.1s
+     Testing HyperTrees tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — RobustSignals v0.14.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustSignals...
+   Resolving package versions...
+   Installed RobustSignals ─ v0.14.2
+Precompiling packages...
+  209 dependencies successfully precompiled in 9 seconds
+Testing RobustSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustSignals          | 47339  41915  70.1s
+     Testing RobustSignals tests passed

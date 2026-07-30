@@ -1,0 +1,16 @@
+PkgEval job log — LazySampling v0.5.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazySampling...
+   Resolving package versions...
+   Installed LazySampling ─ v0.5.0
+Precompiling packages...
+  166 dependencies successfully precompiled in 108 seconds
+Testing LazySampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazySampling          | 38185  58808  988.1s
+     Testing LazySampling tests passed

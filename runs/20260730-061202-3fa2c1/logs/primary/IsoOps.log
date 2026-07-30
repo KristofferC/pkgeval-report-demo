@@ -1,0 +1,16 @@
+PkgEval job log — IsoOps v0.9.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoOps...
+   Resolving package versions...
+   Installed IsoOps ─ v0.9.4
+Precompiling packages...
+  118 dependencies successfully precompiled in 216 seconds
+Testing IsoOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoOps          | 11820  66006  375.1s
+     Testing IsoOps tests passed

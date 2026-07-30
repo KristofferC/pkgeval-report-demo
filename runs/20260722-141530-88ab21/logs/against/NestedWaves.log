@@ -1,0 +1,16 @@
+PkgEval job log — NestedWaves v0.3.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedWaves...
+   Resolving package versions...
+   Installed NestedWaves ─ v0.3.2
+Precompiling packages...
+  146 dependencies successfully precompiled in 171 seconds
+Testing NestedWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedWaves          | 87469  69507  873.1s
+     Testing NestedWaves tests passed

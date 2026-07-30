@@ -1,0 +1,16 @@
+PkgEval job log — DistributedGeometry v2.5.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedGeometry...
+   Resolving package versions...
+   Installed DistributedGeometry ─ v2.5.8
+Precompiling packages...
+  9 dependencies successfully precompiled in 142 seconds
+Testing DistributedGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedGeometry          | 57420  81037  545.1s
+     Testing DistributedGeometry tests passed

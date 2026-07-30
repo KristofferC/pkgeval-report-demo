@@ -1,0 +1,16 @@
+PkgEval job log — PolyStatistics v1.6.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyStatistics...
+   Resolving package versions...
+   Installed PolyStatistics ─ v1.6.3
+Precompiling packages...
+  55 dependencies successfully precompiled in 49 seconds
+Testing PolyStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyStatistics          | 69710  39528  973.1s
+     Testing PolyStatistics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — Genie v0.4.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Genie...
+   Resolving package versions...
+   Installed Genie ─ v0.4.8
+Precompiling packages...
+  195 dependencies successfully precompiled in 167 seconds
+Testing Genie
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Genie          | 87824  74922  1343.1s
+     Testing Genie tests passed

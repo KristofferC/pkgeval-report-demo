@@ -1,0 +1,16 @@
+PkgEval job log — BayesianWaves v2.13.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianWaves...
+   Resolving package versions...
+   Installed BayesianWaves ─ v2.13.1
+Precompiling packages...
+  58 dependencies successfully precompiled in 111 seconds
+Testing BayesianWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianWaves          | 83978  39588  109.1s
+     Testing BayesianWaves tests passed

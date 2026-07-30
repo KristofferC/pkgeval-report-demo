@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveModels v0.0.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveModels...
+   Resolving package versions...
+   Installed AdaptiveModels ─ v0.0.5
+Precompiling packages...
+  165 dependencies successfully precompiled in 169 seconds
+Testing AdaptiveModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveModels          | 28025  43825  1258.1s
+     Testing AdaptiveModels tests passed

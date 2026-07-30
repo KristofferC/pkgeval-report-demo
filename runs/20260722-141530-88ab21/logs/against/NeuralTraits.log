@@ -1,0 +1,16 @@
+PkgEval job log — NeuralTraits v2.14.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTraits...
+   Resolving package versions...
+   Installed NeuralTraits ─ v2.14.1
+Precompiling packages...
+  40 dependencies successfully precompiled in 120 seconds
+Testing NeuralTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralTraits          | 22115  1574  681.1s
+     Testing NeuralTraits tests passed

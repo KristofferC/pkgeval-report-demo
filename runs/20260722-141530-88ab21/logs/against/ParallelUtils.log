@@ -1,0 +1,16 @@
+PkgEval job log — ParallelUtils v0.6.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelUtils...
+   Resolving package versions...
+   Installed ParallelUtils ─ v0.6.5
+Precompiling packages...
+  55 dependencies successfully precompiled in 170 seconds
+Testing ParallelUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelUtils          | 48751  77000  649.1s
+     Testing ParallelUtils tests passed

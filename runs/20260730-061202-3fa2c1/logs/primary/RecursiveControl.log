@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveControl v1.2.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveControl...
+   Resolving package versions...
+   Installed RecursiveControl ─ v1.2.3
+Precompiling packages...
+  128 dependencies successfully precompiled in 36 seconds
+Testing RecursiveControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveControl          | 45291  5711  1506.1s
+     Testing RecursiveControl tests passed

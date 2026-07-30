@@ -1,0 +1,16 @@
+PkgEval job log — FusedMetrics v0.14.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedMetrics...
+   Resolving package versions...
+   Installed FusedMetrics ─ v0.14.9
+Precompiling packages...
+  184 dependencies successfully precompiled in 97 seconds
+Testing FusedMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedMetrics          | 49638  67998  110.1s
+     Testing FusedMetrics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StaticDynamics v0.5.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticDynamics...
+   Resolving package versions...
+   Installed StaticDynamics ─ v0.5.8
+Precompiling packages...
+  21 dependencies successfully precompiled in 43 seconds
+Testing StaticDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticDynamics          | 82375  74964  1004.1s
+     Testing StaticDynamics tests passed

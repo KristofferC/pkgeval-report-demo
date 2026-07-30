@@ -1,0 +1,16 @@
+PkgEval job log — HyperFrames v1.4.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperFrames...
+   Resolving package versions...
+   Installed HyperFrames ─ v1.4.7
+Precompiling packages...
+  117 dependencies successfully precompiled in 91 seconds
+Testing HyperFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperFrames          | 29479  52549  502.1s
+     Testing HyperFrames tests passed

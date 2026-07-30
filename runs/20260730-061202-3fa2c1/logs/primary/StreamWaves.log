@@ -1,0 +1,16 @@
+PkgEval job log — StreamWaves v2.8.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamWaves...
+   Resolving package versions...
+   Installed StreamWaves ─ v2.8.4
+Precompiling packages...
+  36 dependencies successfully precompiled in 194 seconds
+Testing StreamWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamWaves          | 70752  10703  1795.1s
+     Testing StreamWaves tests passed

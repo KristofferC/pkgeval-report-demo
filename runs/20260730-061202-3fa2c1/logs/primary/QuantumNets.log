@@ -1,0 +1,16 @@
+PkgEval job log — QuantumNets v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumNets...
+   Resolving package versions...
+   Installed QuantumNets ─ v0.3.8
+Precompiling packages...
+  208 dependencies successfully precompiled in 33 seconds
+Testing QuantumNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumNets          | 12974  63668  1460.1s
+     Testing QuantumNets tests passed

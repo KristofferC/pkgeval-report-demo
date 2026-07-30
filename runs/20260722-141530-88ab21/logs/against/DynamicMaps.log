@@ -1,0 +1,16 @@
+PkgEval job log — DynamicMaps v0.0.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicMaps...
+   Resolving package versions...
+   Installed DynamicMaps ─ v0.0.1
+Precompiling packages...
+  149 dependencies successfully precompiled in 204 seconds
+Testing DynamicMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicMaps          | 74617  63936  857.1s
+     Testing DynamicMaps tests passed

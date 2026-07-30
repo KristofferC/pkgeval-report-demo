@@ -1,0 +1,16 @@
+PkgEval job log — ApproxOptics v0.2.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxOptics...
+   Resolving package versions...
+   Installed ApproxOptics ─ v0.2.0
+Precompiling packages...
+  120 dependencies successfully precompiled in 113 seconds
+Testing ApproxOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxOptics          | 38209  72796  310.1s
+     Testing ApproxOptics tests passed

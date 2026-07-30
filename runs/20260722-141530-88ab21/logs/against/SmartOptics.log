@@ -1,0 +1,16 @@
+PkgEval job log — SmartOptics v2.13.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartOptics...
+   Resolving package versions...
+   Installed SmartOptics ─ v2.13.9
+Precompiling packages...
+  34 dependencies successfully precompiled in 180 seconds
+Testing SmartOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartOptics          | 89249  21401  836.1s
+     Testing SmartOptics tests passed

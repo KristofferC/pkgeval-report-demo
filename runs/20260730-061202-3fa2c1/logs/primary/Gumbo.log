@@ -1,0 +1,16 @@
+PkgEval job log — Gumbo v0.6.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Gumbo...
+   Resolving package versions...
+   Installed Gumbo ─ v0.6.2
+Precompiling packages...
+  84 dependencies successfully precompiled in 51 seconds
+Testing Gumbo
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Gumbo          | 75325  49302  1215.1s
+     Testing Gumbo tests passed

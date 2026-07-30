@@ -1,0 +1,16 @@
+PkgEval job log — RobustLayers v1.2.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustLayers...
+   Resolving package versions...
+   Installed RobustLayers ─ v1.2.4
+Precompiling packages...
+  39 dependencies successfully precompiled in 121 seconds
+Testing RobustLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustLayers          | 28994  77353  1306.1s
+     Testing RobustLayers tests passed

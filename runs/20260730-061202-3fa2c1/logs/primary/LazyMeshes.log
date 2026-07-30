@@ -1,0 +1,16 @@
+PkgEval job log — LazyMeshes v0.10.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyMeshes...
+   Resolving package versions...
+   Installed LazyMeshes ─ v0.10.5
+Precompiling packages...
+  81 dependencies successfully precompiled in 206 seconds
+Testing LazyMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyMeshes          | 77338  28664  1125.1s
+     Testing LazyMeshes tests passed

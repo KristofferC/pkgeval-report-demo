@@ -1,0 +1,16 @@
+PkgEval job log — StochasticGrids v0.6.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticGrids...
+   Resolving package versions...
+   Installed StochasticGrids ─ v0.6.9
+Precompiling packages...
+  204 dependencies successfully precompiled in 121 seconds
+Testing StochasticGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticGrids          | 36658  63884  955.1s
+     Testing StochasticGrids tests passed

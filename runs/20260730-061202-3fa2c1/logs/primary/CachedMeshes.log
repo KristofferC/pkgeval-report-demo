@@ -1,0 +1,16 @@
+PkgEval job log — CachedMeshes v1.6.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedMeshes...
+   Resolving package versions...
+   Installed CachedMeshes ─ v1.6.3
+Precompiling packages...
+  156 dependencies successfully precompiled in 155 seconds
+Testing CachedMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedMeshes          | 33114  34185  674.1s
+     Testing CachedMeshes tests passed

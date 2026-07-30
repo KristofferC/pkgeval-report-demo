@@ -1,0 +1,16 @@
+PkgEval job log — TiledTrees v0.12.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledTrees...
+   Resolving package versions...
+   Installed TiledTrees ─ v0.12.3
+Precompiling packages...
+  139 dependencies successfully precompiled in 186 seconds
+Testing TiledTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledTrees          | 14507  60427  518.1s
+     Testing TiledTrees tests passed

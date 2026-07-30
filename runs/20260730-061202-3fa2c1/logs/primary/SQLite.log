@@ -1,0 +1,16 @@
+PkgEval job log — SQLite v0.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SQLite...
+   Resolving package versions...
+   Installed SQLite ─ v0.10.7
+Precompiling packages...
+  187 dependencies successfully precompiled in 17 seconds
+Testing SQLite
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SQLite          | 19761  13509  1181.1s
+     Testing SQLite tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — IsoTrees v0.1.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoTrees...
+   Resolving package versions...
+   Installed IsoTrees ─ v0.1.5
+Precompiling packages...
+  47 dependencies successfully precompiled in 57 seconds
+Testing IsoTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoTrees          | 20097  24937  1282.1s
+     Testing IsoTrees tests passed

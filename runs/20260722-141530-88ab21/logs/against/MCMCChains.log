@@ -1,0 +1,16 @@
+PkgEval job log — MCMCChains v2.5.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MCMCChains...
+   Resolving package versions...
+   Installed MCMCChains ─ v2.5.5
+Precompiling packages...
+  11 dependencies successfully precompiled in 186 seconds
+Testing MCMCChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MCMCChains          | 56145  66721  1333.1s
+     Testing MCMCChains tests passed

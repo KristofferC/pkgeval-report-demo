@@ -1,0 +1,15 @@
+PkgEval job log — VectorLayers v0.7.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorLayers...
+   Resolving package versions...
+   Installed VectorLayers ─ v0.7.8
+Precompiling packages...
+  124 dependencies successfully precompiled in 70 seconds
+Testing VectorLayers
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile VectorLayers [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/VectorLayers/xK3Lp/src/VectorLayers.jl:1

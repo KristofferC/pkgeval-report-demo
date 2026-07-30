@@ -1,0 +1,16 @@
+PkgEval job log — Gridap v0.2.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Gridap...
+   Resolving package versions...
+   Installed Gridap ─ v0.2.7
+Precompiling packages...
+  159 dependencies successfully precompiled in 210 seconds
+Testing Gridap
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Gridap          | 62792  44129  500.1s
+     Testing Gridap tests passed

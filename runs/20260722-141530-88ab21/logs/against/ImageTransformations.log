@@ -1,0 +1,16 @@
+PkgEval job log — ImageTransformations v1.2.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ImageTransformations...
+   Resolving package versions...
+   Installed ImageTransformations ─ v1.2.6
+Precompiling packages...
+  129 dependencies successfully precompiled in 16 seconds
+Testing ImageTransformations
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ImageTransformations          | 16851  55995  359.1s
+     Testing ImageTransformations tests passed

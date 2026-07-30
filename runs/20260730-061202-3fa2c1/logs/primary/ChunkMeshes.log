@@ -1,0 +1,16 @@
+PkgEval job log — ChunkMeshes v1.11.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkMeshes...
+   Resolving package versions...
+   Installed ChunkMeshes ─ v1.11.0
+Precompiling packages...
+  94 dependencies successfully precompiled in 183 seconds
+Testing ChunkMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkMeshes          | 14376  11815  1233.1s
+     Testing ChunkMeshes tests passed

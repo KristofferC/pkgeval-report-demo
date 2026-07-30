@@ -1,0 +1,16 @@
+PkgEval job log — TaggedMetrics v1.12.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedMetrics...
+   Resolving package versions...
+   Installed TaggedMetrics ─ v1.12.3
+Precompiling packages...
+  121 dependencies successfully precompiled in 177 seconds
+Testing TaggedMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedMetrics          | 75257  68451  270.1s
+     Testing TaggedMetrics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ApproxSolvers v0.12.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxSolvers...
+   Resolving package versions...
+   Installed ApproxSolvers ─ v0.12.2
+Precompiling packages...
+  146 dependencies successfully precompiled in 186 seconds
+Testing ApproxSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxSolvers          | 14453  9695  866.1s
+     Testing ApproxSolvers tests passed

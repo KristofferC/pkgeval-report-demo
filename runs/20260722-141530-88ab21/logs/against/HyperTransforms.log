@@ -1,0 +1,16 @@
+PkgEval job log — HyperTransforms v0.5.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperTransforms...
+   Resolving package versions...
+   Installed HyperTransforms ─ v0.5.6
+Precompiling packages...
+  150 dependencies successfully precompiled in 217 seconds
+Testing HyperTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperTransforms          | 78658  41522  29.1s
+     Testing HyperTransforms tests passed

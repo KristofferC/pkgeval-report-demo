@@ -1,0 +1,16 @@
+PkgEval job log — OrdinaryDiffEq v0.2.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing OrdinaryDiffEq...
+   Resolving package versions...
+   Installed OrdinaryDiffEq ─ v0.2.6
+Precompiling packages...
+  50 dependencies successfully precompiled in 237 seconds
+Testing OrdinaryDiffEq
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+OrdinaryDiffEq          | 51560  12820  140.1s
+     Testing OrdinaryDiffEq tests passed

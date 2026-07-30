@@ -1,0 +1,16 @@
+PkgEval job log — ExactLayers v0.12.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactLayers...
+   Resolving package versions...
+   Installed ExactLayers ─ v0.12.0
+Precompiling packages...
+  146 dependencies successfully precompiled in 111 seconds
+Testing ExactLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactLayers          | 79817  64002  306.1s
+     Testing ExactLayers tests passed

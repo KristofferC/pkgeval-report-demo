@@ -1,0 +1,16 @@
+PkgEval job log — MicroPhysics v0.7.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroPhysics...
+   Resolving package versions...
+   Installed MicroPhysics ─ v0.7.1
+Precompiling packages...
+  147 dependencies successfully precompiled in 73 seconds
+Testing MicroPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroPhysics          | 37024  39373  1041.1s
+     Testing MicroPhysics tests passed

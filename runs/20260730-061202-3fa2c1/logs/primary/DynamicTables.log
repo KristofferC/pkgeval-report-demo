@@ -1,0 +1,16 @@
+PkgEval job log — DynamicTables v1.0.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicTables...
+   Resolving package versions...
+   Installed DynamicTables ─ v1.0.3
+Precompiling packages...
+  129 dependencies successfully precompiled in 161 seconds
+Testing DynamicTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicTables          | 17771  73027  312.1s
+     Testing DynamicTables tests passed

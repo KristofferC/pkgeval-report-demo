@@ -1,0 +1,16 @@
+PkgEval job log — NestedTraits v1.8.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedTraits...
+   Resolving package versions...
+   Installed NestedTraits ─ v1.8.0
+Precompiling packages...
+  153 dependencies successfully precompiled in 84 seconds
+Testing NestedTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedTraits          | 15850  80346  479.1s
+     Testing NestedTraits tests passed

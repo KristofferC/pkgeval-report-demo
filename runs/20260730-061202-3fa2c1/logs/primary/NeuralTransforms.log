@@ -1,0 +1,17 @@
+PkgEval job log — NeuralTransforms v1.0.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTransforms...
+   Resolving package versions...
+   Installed NeuralTransforms ─ v1.0.6
+Precompiling packages...
+  113 dependencies successfully precompiled in 114 seconds
+Testing NeuralTransforms
+     Testing Running tests...
+Internal error: during type inference of
+  NeuralTransforms.solve!(::NeuralTransforms.Workspace, ::Vector{Float64})
+Encountered unexpected error in runtime:
+AssertionError("isa(typ, DataType)")

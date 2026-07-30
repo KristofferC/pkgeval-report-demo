@@ -1,0 +1,16 @@
+PkgEval job log — WebSockets v0.0.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing WebSockets...
+   Resolving package versions...
+   Installed WebSockets ─ v0.0.0
+Precompiling packages...
+  180 dependencies successfully precompiled in 210 seconds
+Testing WebSockets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+WebSockets          | 39827  71173  1649.1s
+     Testing WebSockets tests passed

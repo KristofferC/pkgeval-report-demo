@@ -1,0 +1,16 @@
+PkgEval job log — DistributedFlows v1.9.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedFlows...
+   Resolving package versions...
+   Installed DistributedFlows ─ v1.9.5
+Precompiling packages...
+  8 dependencies successfully precompiled in 16 seconds
+Testing DistributedFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedFlows          | 42388  58332  631.1s
+     Testing DistributedFlows tests passed

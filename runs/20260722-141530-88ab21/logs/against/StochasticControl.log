@@ -1,0 +1,16 @@
+PkgEval job log — StochasticControl v2.10.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticControl...
+   Resolving package versions...
+   Installed StochasticControl ─ v2.10.1
+Precompiling packages...
+  212 dependencies successfully precompiled in 78 seconds
+Testing StochasticControl
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticControl          | 43445  77390  175.1s
+     Testing StochasticControl tests passed

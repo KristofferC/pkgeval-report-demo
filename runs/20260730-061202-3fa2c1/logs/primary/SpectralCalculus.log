@@ -1,0 +1,16 @@
+PkgEval job log — SpectralCalculus v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralCalculus...
+   Resolving package versions...
+   Installed SpectralCalculus ─ v0.3.8
+Precompiling packages...
+  95 dependencies successfully precompiled in 155 seconds
+Testing SpectralCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralCalculus          | 89402  26466  854.1s
+     Testing SpectralCalculus tests passed

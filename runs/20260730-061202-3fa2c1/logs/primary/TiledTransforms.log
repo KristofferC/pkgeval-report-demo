@@ -1,0 +1,16 @@
+PkgEval job log — TiledTransforms v2.12.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledTransforms...
+   Resolving package versions...
+   Installed TiledTransforms ─ v2.12.4
+Precompiling packages...
+  80 dependencies successfully precompiled in 227 seconds
+Testing TiledTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledTransforms          | 68738  57377  190.1s
+     Testing TiledTransforms tests passed

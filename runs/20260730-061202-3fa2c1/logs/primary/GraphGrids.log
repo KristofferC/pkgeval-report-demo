@@ -1,0 +1,16 @@
+PkgEval job log — GraphGrids v1.13.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphGrids...
+   Resolving package versions...
+   Installed GraphGrids ─ v1.13.9
+Precompiling packages...
+  43 dependencies successfully precompiled in 225 seconds
+Testing GraphGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphGrids          | 74429  251  1130.1s
+     Testing GraphGrids tests passed

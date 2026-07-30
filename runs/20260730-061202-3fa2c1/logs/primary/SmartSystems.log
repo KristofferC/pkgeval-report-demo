@@ -1,0 +1,16 @@
+PkgEval job log — SmartSystems v1.9.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SmartSystems...
+   Resolving package versions...
+   Installed SmartSystems ─ v1.9.2
+Precompiling packages...
+  155 dependencies successfully precompiled in 80 seconds
+Testing SmartSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SmartSystems          | 2794  25101  1078.1s
+     Testing SmartSystems tests passed

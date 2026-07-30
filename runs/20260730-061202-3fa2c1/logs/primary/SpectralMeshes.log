@@ -1,0 +1,16 @@
+PkgEval job log — SpectralMeshes v0.10.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralMeshes...
+   Resolving package versions...
+   Installed SpectralMeshes ─ v0.10.5
+Precompiling packages...
+  139 dependencies successfully precompiled in 148 seconds
+Testing SpectralMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralMeshes          | 75534  1404  863.1s
+     Testing SpectralMeshes tests passed

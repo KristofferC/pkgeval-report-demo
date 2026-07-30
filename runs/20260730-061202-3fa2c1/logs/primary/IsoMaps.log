@@ -1,0 +1,16 @@
+PkgEval job log — IsoMaps v0.5.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoMaps...
+   Resolving package versions...
+   Installed IsoMaps ─ v0.5.6
+Precompiling packages...
+  88 dependencies successfully precompiled in 31 seconds
+Testing IsoMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoMaps          | 64043  43536  518.1s
+     Testing IsoMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StochasticTrees v2.9.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticTrees...
+   Resolving package versions...
+   Installed StochasticTrees ─ v2.9.0
+Precompiling packages...
+  118 dependencies successfully precompiled in 126 seconds
+Testing StochasticTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticTrees          | 31505  46254  573.1s
+     Testing StochasticTrees tests passed

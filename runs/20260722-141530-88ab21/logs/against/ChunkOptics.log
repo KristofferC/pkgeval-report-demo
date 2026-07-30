@@ -1,0 +1,16 @@
+PkgEval job log — ChunkOptics v2.7.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkOptics...
+   Resolving package versions...
+   Installed ChunkOptics ─ v2.7.4
+Precompiling packages...
+  145 dependencies successfully precompiled in 24 seconds
+Testing ChunkOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkOptics          | 78706  16103  997.1s
+     Testing ChunkOptics tests passed

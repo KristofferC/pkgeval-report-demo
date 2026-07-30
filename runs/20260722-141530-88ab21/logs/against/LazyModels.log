@@ -1,0 +1,16 @@
+PkgEval job log — LazyModels v0.8.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyModels...
+   Resolving package versions...
+   Installed LazyModels ─ v0.8.1
+Precompiling packages...
+  116 dependencies successfully precompiled in 158 seconds
+Testing LazyModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyModels          | 17091  21041  41.1s
+     Testing LazyModels tests passed

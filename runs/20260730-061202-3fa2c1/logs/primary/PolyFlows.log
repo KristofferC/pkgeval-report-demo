@@ -1,0 +1,16 @@
+PkgEval job log — PolyFlows v0.9.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyFlows...
+   Resolving package versions...
+   Installed PolyFlows ─ v0.9.1
+Precompiling packages...
+  90 dependencies successfully precompiled in 223 seconds
+Testing PolyFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyFlows          | 38089  63101  1157.1s
+     Testing PolyFlows tests passed

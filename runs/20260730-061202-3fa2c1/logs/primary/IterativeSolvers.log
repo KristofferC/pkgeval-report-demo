@@ -1,0 +1,16 @@
+PkgEval job log — IterativeSolvers v0.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IterativeSolvers...
+   Resolving package versions...
+   Installed IterativeSolvers ─ v0.13.2
+Precompiling packages...
+  31 dependencies successfully precompiled in 134 seconds
+Testing IterativeSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IterativeSolvers          | 79967  67738  952.1s
+     Testing IterativeSolvers tests passed

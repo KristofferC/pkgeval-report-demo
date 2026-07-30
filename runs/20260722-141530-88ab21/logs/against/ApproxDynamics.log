@@ -1,0 +1,16 @@
+PkgEval job log — ApproxDynamics v0.9.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxDynamics...
+   Resolving package versions...
+   Installed ApproxDynamics ─ v0.9.6
+Precompiling packages...
+  31 dependencies successfully precompiled in 137 seconds
+Testing ApproxDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxDynamics          | 63590  18857  444.1s
+     Testing ApproxDynamics tests passed

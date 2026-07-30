@@ -1,0 +1,16 @@
+PkgEval job log — ApproxPhysics v2.13.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxPhysics...
+   Resolving package versions...
+   Installed ApproxPhysics ─ v2.13.7
+Precompiling packages...
+  57 dependencies successfully precompiled in 38 seconds
+Testing ApproxPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxPhysics          | 64932  49530  325.1s
+     Testing ApproxPhysics tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MicroTransforms v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroTransforms...
+   Resolving package versions...
+   Installed MicroTransforms ─ v0.1.0
+Precompiling packages...
+  23 dependencies successfully precompiled in 227 seconds
+Testing MicroTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroTransforms          | 12106  85188  462.1s
+     Testing MicroTransforms tests passed

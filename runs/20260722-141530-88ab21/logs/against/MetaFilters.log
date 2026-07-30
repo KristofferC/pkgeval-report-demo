@@ -1,0 +1,23 @@
+PkgEval job log — MetaFilters v0.13.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaFilters...
+   Resolving package versions...
+   Installed MetaFilters ─ v0.13.6
+Precompiling packages...
+  157 dependencies successfully precompiled in 202 seconds
+Testing MetaFilters
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/MetaFilters/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `MetaFiltersHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+MetaFilters          |  270     2      1    84
+ERROR: LoadError: Some tests did not pass
+     Testing MetaFilters tests failed

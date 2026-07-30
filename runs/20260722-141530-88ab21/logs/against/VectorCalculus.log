@@ -1,0 +1,16 @@
+PkgEval job log — VectorCalculus v0.7.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorCalculus...
+   Resolving package versions...
+   Installed VectorCalculus ─ v0.7.0
+Precompiling packages...
+  193 dependencies successfully precompiled in 36 seconds
+Testing VectorCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorCalculus          | 34506  20008  1219.1s
+     Testing VectorCalculus tests passed

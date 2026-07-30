@@ -1,0 +1,16 @@
+PkgEval job log — HyperDynamics v0.8.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperDynamics...
+   Resolving package versions...
+   Installed HyperDynamics ─ v0.8.1
+Precompiling packages...
+  27 dependencies successfully precompiled in 233 seconds
+Testing HyperDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperDynamics          | 69428  10844  667.1s
+     Testing HyperDynamics tests passed

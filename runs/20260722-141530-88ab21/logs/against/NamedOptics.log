@@ -1,0 +1,16 @@
+PkgEval job log — NamedOptics v0.0.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedOptics...
+   Resolving package versions...
+   Installed NamedOptics ─ v0.0.1
+Precompiling packages...
+  198 dependencies successfully precompiled in 115 seconds
+Testing NamedOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedOptics          | 84072  21476  158.1s
+     Testing NamedOptics tests passed

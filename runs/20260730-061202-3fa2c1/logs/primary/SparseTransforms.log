@@ -1,0 +1,15 @@
+PkgEval job log — SparseTransforms v1.11.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseTransforms...
+   Resolving package versions...
+   Installed SparseTransforms ─ v1.11.8
+Precompiling packages...
+  162 dependencies successfully precompiled in 200 seconds
+Testing SparseTransforms
+     Testing Running tests...
+ERROR: Method overwriting is not permitted during Module precompilation.
+  overwriting Base.show(::IO, ::SparseTransforms.Config)

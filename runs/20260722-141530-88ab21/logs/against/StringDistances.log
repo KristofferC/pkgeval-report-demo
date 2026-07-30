@@ -1,0 +1,16 @@
+PkgEval job log — StringDistances v2.14.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StringDistances...
+   Resolving package versions...
+   Installed StringDistances ─ v2.14.2
+Precompiling packages...
+  68 dependencies successfully precompiled in 153 seconds
+Testing StringDistances
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StringDistances          | 32905  49652  1228.1s
+     Testing StringDistances tests passed

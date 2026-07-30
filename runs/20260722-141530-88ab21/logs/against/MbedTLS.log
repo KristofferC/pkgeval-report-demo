@@ -1,0 +1,16 @@
+PkgEval job log — MbedTLS v2.5.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MbedTLS...
+   Resolving package versions...
+   Installed MbedTLS ─ v2.5.2
+Precompiling packages...
+  178 dependencies successfully precompiled in 110 seconds
+Testing MbedTLS
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MbedTLS          | 4330  21813  193.1s
+     Testing MbedTLS tests passed

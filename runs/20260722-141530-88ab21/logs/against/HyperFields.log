@@ -1,0 +1,16 @@
+PkgEval job log — HyperFields v1.3.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperFields...
+   Resolving package versions...
+   Installed HyperFields ─ v1.3.5
+Precompiling packages...
+  70 dependencies successfully precompiled in 173 seconds
+Testing HyperFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperFields          | 28031  68835  80.1s
+     Testing HyperFields tests passed

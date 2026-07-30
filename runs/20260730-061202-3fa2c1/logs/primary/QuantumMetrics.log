@@ -1,0 +1,16 @@
+PkgEval job log — QuantumMetrics v0.6.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumMetrics...
+   Resolving package versions...
+   Installed QuantumMetrics ─ v0.6.0
+Precompiling packages...
+  169 dependencies successfully precompiled in 154 seconds
+Testing QuantumMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumMetrics          | 75241  87246  80.1s
+     Testing QuantumMetrics tests passed

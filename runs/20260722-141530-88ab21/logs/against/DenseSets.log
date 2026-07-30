@@ -1,0 +1,16 @@
+PkgEval job log — DenseSets v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseSets...
+   Resolving package versions...
+   Installed DenseSets ─ v0.11.1
+Precompiling packages...
+  96 dependencies successfully precompiled in 54 seconds
+Testing DenseSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseSets          | 3863  69011  27.1s
+     Testing DenseSets tests passed

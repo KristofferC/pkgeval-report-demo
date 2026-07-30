@@ -1,0 +1,23 @@
+PkgEval job log — MicroMetrics v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroMetrics...
+   Resolving package versions...
+   Installed MicroMetrics ─ v0.1.0
+Precompiling packages...
+  20 dependencies successfully precompiled in 148 seconds
+Testing MicroMetrics
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/MicroMetrics/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `MicroMetricsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+MicroMetrics          |  170     2      1    122
+ERROR: LoadError: Some tests did not pass
+     Testing MicroMetrics tests failed

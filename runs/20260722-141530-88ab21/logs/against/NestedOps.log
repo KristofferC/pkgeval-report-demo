@@ -1,0 +1,16 @@
+PkgEval job log — NestedOps v1.4.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedOps...
+   Resolving package versions...
+   Installed NestedOps ─ v1.4.3
+Precompiling packages...
+  12 dependencies successfully precompiled in 34 seconds
+Testing NestedOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedOps          | 39916  38411  363.1s
+     Testing NestedOps tests passed

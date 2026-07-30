@@ -1,0 +1,16 @@
+PkgEval job log — GenericFields v0.12.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericFields...
+   Resolving package versions...
+   Installed GenericFields ─ v0.12.9
+Precompiling packages...
+  139 dependencies successfully precompiled in 173 seconds
+Testing GenericFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericFields          | 27823  27406  1488.1s
+     Testing GenericFields tests passed

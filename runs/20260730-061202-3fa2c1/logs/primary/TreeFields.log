@@ -1,0 +1,17 @@
+PkgEval job log — TreeFields v0.6.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeFields...
+   Resolving package versions...
+   Installed TreeFields ─ v0.6.4
+Precompiling packages...
+  125 dependencies successfully precompiled in 160 seconds
+Testing TreeFields
+     Testing Running tests...
+
+signal (11): Segmentation fault
+in expression starting at /home/pkgeval/.julia/packages/TreeFields/aB2cD/test/runtests.jl:31
+jl_apply_generic at /source/src/gf.c:3589

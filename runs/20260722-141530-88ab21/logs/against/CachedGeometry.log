@@ -1,0 +1,16 @@
+PkgEval job log — CachedGeometry v1.1.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CachedGeometry...
+   Resolving package versions...
+   Installed CachedGeometry ─ v1.1.3
+Precompiling packages...
+  40 dependencies successfully precompiled in 51 seconds
+Testing CachedGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CachedGeometry          | 8527  44272  870.1s
+     Testing CachedGeometry tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveAlgebra v0.11.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveAlgebra...
+   Resolving package versions...
+   Installed RecursiveAlgebra ─ v0.11.1
+Precompiling packages...
+  140 dependencies successfully precompiled in 70 seconds
+Testing RecursiveAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveAlgebra          | 2088  68730  569.1s
+     Testing RecursiveAlgebra tests passed

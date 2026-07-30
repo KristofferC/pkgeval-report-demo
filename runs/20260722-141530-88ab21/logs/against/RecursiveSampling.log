@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveSampling v1.7.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveSampling...
+   Resolving package versions...
+   Installed RecursiveSampling ─ v1.7.0
+Precompiling packages...
+  201 dependencies successfully precompiled in 181 seconds
+Testing RecursiveSampling
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveSampling          | 25940  64434  1063.1s
+     Testing RecursiveSampling tests passed

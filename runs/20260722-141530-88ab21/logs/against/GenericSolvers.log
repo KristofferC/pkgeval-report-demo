@@ -1,0 +1,16 @@
+PkgEval job log — GenericSolvers v0.6.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericSolvers...
+   Resolving package versions...
+   Installed GenericSolvers ─ v0.6.5
+Precompiling packages...
+  151 dependencies successfully precompiled in 33 seconds
+Testing GenericSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericSolvers          | 52968  68616  1222.1s
+     Testing GenericSolvers tests passed

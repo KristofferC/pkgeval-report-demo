@@ -1,0 +1,16 @@
+PkgEval job log — NanoOps v2.10.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoOps...
+   Resolving package versions...
+   Installed NanoOps ─ v2.10.6
+Precompiling packages...
+  85 dependencies successfully precompiled in 41 seconds
+Testing NanoOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoOps          | 54542  42968  758.1s
+     Testing NanoOps tests passed

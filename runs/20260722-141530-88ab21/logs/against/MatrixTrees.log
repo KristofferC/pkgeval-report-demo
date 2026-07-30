@@ -1,0 +1,16 @@
+PkgEval job log — MatrixTrees v1.1.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixTrees...
+   Resolving package versions...
+   Installed MatrixTrees ─ v1.1.4
+Precompiling packages...
+  135 dependencies successfully precompiled in 80 seconds
+Testing MatrixTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixTrees          | 64260  10080  1468.1s
+     Testing MatrixTrees tests passed

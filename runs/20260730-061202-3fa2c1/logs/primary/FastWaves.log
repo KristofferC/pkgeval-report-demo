@@ -1,0 +1,16 @@
+PkgEval job log — FastWaves v0.6.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastWaves...
+   Resolving package versions...
+   Installed FastWaves ─ v0.6.1
+Precompiling packages...
+  132 dependencies successfully precompiled in 120 seconds
+Testing FastWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastWaves          | 68398  34212  303.1s
+     Testing FastWaves tests passed

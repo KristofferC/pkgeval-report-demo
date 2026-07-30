@@ -1,0 +1,16 @@
+PkgEval job log — PolyTransforms v1.9.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyTransforms...
+   Resolving package versions...
+   Installed PolyTransforms ─ v1.9.3
+Precompiling packages...
+  68 dependencies successfully precompiled in 28 seconds
+Testing PolyTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyTransforms          | 69016  46489  1669.1s
+     Testing PolyTransforms tests passed

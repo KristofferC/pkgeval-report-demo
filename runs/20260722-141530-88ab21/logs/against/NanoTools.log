@@ -1,0 +1,16 @@
+PkgEval job log — NanoTools v2.1.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoTools...
+   Resolving package versions...
+   Installed NanoTools ─ v2.1.4
+Precompiling packages...
+  23 dependencies successfully precompiled in 165 seconds
+Testing NanoTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoTools          | 12163  65304  515.1s
+     Testing NanoTools tests passed

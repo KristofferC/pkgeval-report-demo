@@ -1,0 +1,16 @@
+PkgEval job log — ChunkSystems v1.10.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkSystems...
+   Resolving package versions...
+   Installed ChunkSystems ─ v1.10.2
+Precompiling packages...
+  64 dependencies successfully precompiled in 196 seconds
+Testing ChunkSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkSystems          | 60455  89599  464.1s
+     Testing ChunkSystems tests passed

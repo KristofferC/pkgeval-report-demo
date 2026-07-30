@@ -1,0 +1,23 @@
+PkgEval job log — LLVM2 v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LLVM2...
+   Resolving package versions...
+   Installed LLVM2 ─ v0.1.0
+Precompiling packages...
+  148 dependencies successfully precompiled in 195 seconds
+Testing LLVM2
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/LLVM2/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `LLVM2Helper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+LLVM2          |  19     2      1    273
+ERROR: LoadError: Some tests did not pass
+     Testing LLVM2 tests failed

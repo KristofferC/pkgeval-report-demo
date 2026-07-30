@@ -1,0 +1,16 @@
+PkgEval job log — GenericUtils v1.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericUtils...
+   Resolving package versions...
+   Installed GenericUtils ─ v1.10.7
+Precompiling packages...
+  91 dependencies successfully precompiled in 115 seconds
+Testing GenericUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericUtils          | 53071  67092  997.1s
+     Testing GenericUtils tests passed

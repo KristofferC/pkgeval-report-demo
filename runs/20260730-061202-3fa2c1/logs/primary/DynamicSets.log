@@ -1,0 +1,16 @@
+PkgEval job log — DynamicSets v1.5.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicSets...
+   Resolving package versions...
+   Installed DynamicSets ─ v1.5.9
+Precompiling packages...
+  96 dependencies successfully precompiled in 147 seconds
+Testing DynamicSets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicSets          | 28359  22370  1300.1s
+     Testing DynamicSets tests passed

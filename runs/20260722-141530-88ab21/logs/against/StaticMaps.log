@@ -1,0 +1,16 @@
+PkgEval job log — StaticMaps v0.2.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticMaps...
+   Resolving package versions...
+   Installed StaticMaps ─ v0.2.5
+Precompiling packages...
+  127 dependencies successfully precompiled in 92 seconds
+Testing StaticMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticMaps          | 77435  64400  153.1s
+     Testing StaticMaps tests passed

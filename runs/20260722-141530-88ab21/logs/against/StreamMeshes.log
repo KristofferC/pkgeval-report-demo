@@ -1,0 +1,16 @@
+PkgEval job log — StreamMeshes v1.11.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamMeshes...
+   Resolving package versions...
+   Installed StreamMeshes ─ v1.11.7
+Precompiling packages...
+  33 dependencies successfully precompiled in 125 seconds
+Testing StreamMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamMeshes          | 6936  56054  706.1s
+     Testing StreamMeshes tests passed

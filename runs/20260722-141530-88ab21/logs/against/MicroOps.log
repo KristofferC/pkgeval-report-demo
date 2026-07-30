@@ -1,0 +1,16 @@
+PkgEval job log — MicroOps v2.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroOps...
+   Resolving package versions...
+   Installed MicroOps ─ v2.1.0
+Precompiling packages...
+  39 dependencies successfully precompiled in 215 seconds
+Testing MicroOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroOps          | 66976  56404  471.1s
+     Testing MicroOps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — BlockSignals v0.0.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockSignals...
+   Resolving package versions...
+   Installed BlockSignals ─ v0.0.7
+Precompiling packages...
+  28 dependencies successfully precompiled in 150 seconds
+Testing BlockSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockSignals          | 51234  28249  250.1s
+     Testing BlockSignals tests passed

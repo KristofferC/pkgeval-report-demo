@@ -1,0 +1,16 @@
+PkgEval job log — AutoTopology v1.12.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoTopology...
+   Resolving package versions...
+   Installed AutoTopology ─ v1.12.8
+Precompiling packages...
+  117 dependencies successfully precompiled in 127 seconds
+Testing AutoTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoTopology          | 34447  6682  201.1s
+     Testing AutoTopology tests passed

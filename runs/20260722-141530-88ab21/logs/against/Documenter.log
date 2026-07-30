@@ -1,0 +1,16 @@
+PkgEval job log — Documenter v1.5.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Documenter...
+   Resolving package versions...
+   Installed Documenter ─ v1.5.7
+Precompiling packages...
+  72 dependencies successfully precompiled in 234 seconds
+Testing Documenter
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Documenter          | 12340  87655  315.1s
+     Testing Documenter tests passed

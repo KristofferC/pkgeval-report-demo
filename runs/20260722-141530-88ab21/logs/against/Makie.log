@@ -1,0 +1,16 @@
+PkgEval job log — Makie v0.7.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Makie...
+   Resolving package versions...
+   Installed Makie ─ v0.7.4
+Precompiling packages...
+  56 dependencies successfully precompiled in 182 seconds
+Testing Makie
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Makie          | 22874  29771  750.1s
+     Testing Makie tests passed

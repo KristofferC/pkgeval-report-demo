@@ -1,0 +1,16 @@
+PkgEval job log — IsoArrays v1.6.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoArrays...
+   Resolving package versions...
+   Installed IsoArrays ─ v1.6.7
+Precompiling packages...
+  38 dependencies successfully precompiled in 59 seconds
+Testing IsoArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoArrays          | 29103  56879  1386.1s
+     Testing IsoArrays tests passed

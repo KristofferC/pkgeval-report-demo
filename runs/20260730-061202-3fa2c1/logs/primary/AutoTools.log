@@ -1,0 +1,16 @@
+PkgEval job log — AutoTools v1.5.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoTools...
+   Resolving package versions...
+   Installed AutoTools ─ v1.5.0
+Precompiling packages...
+  191 dependencies successfully precompiled in 151 seconds
+Testing AutoTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoTools          | 33032  34764  522.1s
+     Testing AutoTools tests passed

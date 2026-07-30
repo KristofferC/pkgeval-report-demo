@@ -1,0 +1,16 @@
+PkgEval job log — TreeTypes v0.6.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeTypes...
+   Resolving package versions...
+   Installed TreeTypes ─ v0.6.8
+Precompiling packages...
+  213 dependencies successfully precompiled in 219 seconds
+Testing TreeTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeTypes          | 8687  36844  825.1s
+     Testing TreeTypes tests passed

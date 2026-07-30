@@ -1,0 +1,16 @@
+PkgEval job log — BayesianOps v1.0.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianOps...
+   Resolving package versions...
+   Installed BayesianOps ─ v1.0.2
+Precompiling packages...
+  27 dependencies successfully precompiled in 213 seconds
+Testing BayesianOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianOps          | 73733  88356  797.1s
+     Testing BayesianOps tests passed

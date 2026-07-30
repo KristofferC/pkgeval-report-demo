@@ -1,0 +1,16 @@
+PkgEval job log — PolyModels v2.2.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyModels...
+   Resolving package versions...
+   Installed PolyModels ─ v2.2.6
+Precompiling packages...
+  119 dependencies successfully precompiled in 125 seconds
+Testing PolyModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyModels          | 82409  81870  840.1s
+     Testing PolyModels tests passed

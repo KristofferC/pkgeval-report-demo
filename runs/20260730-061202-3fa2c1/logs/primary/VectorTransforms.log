@@ -1,0 +1,16 @@
+PkgEval job log — VectorTransforms v2.12.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorTransforms...
+   Resolving package versions...
+   Installed VectorTransforms ─ v2.12.5
+Precompiling packages...
+  41 dependencies successfully precompiled in 116 seconds
+Testing VectorTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorTransforms          | 81608  16140  262.1s
+     Testing VectorTransforms tests passed

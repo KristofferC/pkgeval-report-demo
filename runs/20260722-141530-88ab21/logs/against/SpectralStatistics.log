@@ -1,0 +1,16 @@
+PkgEval job log — SpectralStatistics v0.12.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralStatistics...
+   Resolving package versions...
+   Installed SpectralStatistics ─ v0.12.4
+Precompiling packages...
+  139 dependencies successfully precompiled in 155 seconds
+Testing SpectralStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralStatistics          | 24565  9175  452.1s
+     Testing SpectralStatistics tests passed

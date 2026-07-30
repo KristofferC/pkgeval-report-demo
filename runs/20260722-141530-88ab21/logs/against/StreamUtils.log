@@ -1,0 +1,16 @@
+PkgEval job log — StreamUtils v1.1.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StreamUtils...
+   Resolving package versions...
+   Installed StreamUtils ─ v1.1.3
+Precompiling packages...
+  107 dependencies successfully precompiled in 105 seconds
+Testing StreamUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StreamUtils          | 38283  45281  379.1s
+     Testing StreamUtils tests passed

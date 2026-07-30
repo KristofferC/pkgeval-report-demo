@@ -1,0 +1,17 @@
+PkgEval job log — TreeCalculus v0.7.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeCalculus...
+   Resolving package versions...
+   Installed TreeCalculus ─ v0.7.9
+Precompiling packages...
+  74 dependencies successfully precompiled in 181 seconds
+Testing TreeCalculus
+     Testing Running tests...
+
+signal (11): Segmentation fault
+in expression starting at /home/pkgeval/.julia/packages/TreeCalculus/aB2cD/test/runtests.jl:31
+jl_apply_generic at /source/src/gf.c:3589

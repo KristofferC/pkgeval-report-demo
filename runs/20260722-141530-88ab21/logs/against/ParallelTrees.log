@@ -1,0 +1,16 @@
+PkgEval job log — ParallelTrees v2.7.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelTrees...
+   Resolving package versions...
+   Installed ParallelTrees ─ v2.7.1
+Precompiling packages...
+  125 dependencies successfully precompiled in 15 seconds
+Testing ParallelTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelTrees          | 33979  44375  662.1s
+     Testing ParallelTrees tests passed

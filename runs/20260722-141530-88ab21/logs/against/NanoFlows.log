@@ -1,0 +1,16 @@
+PkgEval job log — NanoFlows v1.6.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoFlows...
+   Resolving package versions...
+   Installed NanoFlows ─ v1.6.0
+Precompiling packages...
+  38 dependencies successfully precompiled in 240 seconds
+Testing NanoFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoFlows          | 3120  84336  354.1s
+     Testing NanoFlows tests passed

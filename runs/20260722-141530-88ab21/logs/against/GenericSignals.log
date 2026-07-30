@@ -1,0 +1,16 @@
+PkgEval job log — GenericSignals v0.6.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericSignals...
+   Resolving package versions...
+   Installed GenericSignals ─ v0.6.7
+Precompiling packages...
+  163 dependencies successfully precompiled in 27 seconds
+Testing GenericSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericSignals          | 7674  12408  747.1s
+     Testing GenericSignals tests passed

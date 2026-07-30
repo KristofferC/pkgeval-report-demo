@@ -1,0 +1,16 @@
+PkgEval job log — MatrixMetrics v1.2.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixMetrics...
+   Resolving package versions...
+   Installed MatrixMetrics ─ v1.2.6
+Precompiling packages...
+  57 dependencies successfully precompiled in 30 seconds
+Testing MatrixMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixMetrics          | 34687  7920  381.1s
+     Testing MatrixMetrics tests passed

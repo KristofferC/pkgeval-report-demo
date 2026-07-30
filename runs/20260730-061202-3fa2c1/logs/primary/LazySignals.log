@@ -1,0 +1,16 @@
+PkgEval job log — LazySignals v2.4.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazySignals...
+   Resolving package versions...
+   Installed LazySignals ─ v2.4.8
+Precompiling packages...
+  141 dependencies successfully precompiled in 191 seconds
+Testing LazySignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazySignals          | 5233  7786  1305.1s
+     Testing LazySignals tests passed

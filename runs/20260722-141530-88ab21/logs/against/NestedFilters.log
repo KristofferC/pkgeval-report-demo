@@ -1,0 +1,16 @@
+PkgEval job log — NestedFilters v1.8.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedFilters...
+   Resolving package versions...
+   Installed NestedFilters ─ v1.8.3
+Precompiling packages...
+  172 dependencies successfully precompiled in 169 seconds
+Testing NestedFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedFilters          | 87897  21141  593.1s
+     Testing NestedFilters tests passed

@@ -1,0 +1,19 @@
+PkgEval job log — BlockKernels v1.11.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockKernels...
+   Resolving package versions...
+   Installed BlockKernels ─ v1.11.7
+Precompiling packages...
+  116 dependencies successfully precompiled in 106 seconds
+Testing BlockKernels
+     Testing Running tests...
+Assertion `gc_n_threads == 0' failed
+
+signal (6): Aborted
+in expression starting at /home/pkgeval/.julia/packages/BlockKernels/aB2cD/test/runtests.jl:14
+gc_mark_loop at /source/src/gc.c:2764
+unknown function (ip: 0x7fa3c21b4e90)

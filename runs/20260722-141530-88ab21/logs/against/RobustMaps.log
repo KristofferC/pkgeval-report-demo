@@ -1,0 +1,16 @@
+PkgEval job log — RobustMaps v0.3.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RobustMaps...
+   Resolving package versions...
+   Installed RobustMaps ─ v0.3.3
+Precompiling packages...
+  180 dependencies successfully precompiled in 65 seconds
+Testing RobustMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RobustMaps          | 59772  76202  1146.1s
+     Testing RobustMaps tests passed

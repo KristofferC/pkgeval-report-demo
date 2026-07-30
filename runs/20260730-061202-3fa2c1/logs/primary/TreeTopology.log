@@ -1,0 +1,16 @@
+PkgEval job log — TreeTopology v1.0.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeTopology...
+   Resolving package versions...
+   Installed TreeTopology ─ v1.0.3
+Precompiling packages...
+  200 dependencies successfully precompiled in 60 seconds
+Testing TreeTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeTopology          | 81564  58389  101.1s
+     Testing TreeTopology tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — AutoInference v1.14.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoInference...
+   Resolving package versions...
+   Installed AutoInference ─ v1.14.7
+Precompiling packages...
+  156 dependencies successfully precompiled in 72 seconds
+Testing AutoInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoInference          | 59970  52720  1370.1s
+     Testing AutoInference tests passed

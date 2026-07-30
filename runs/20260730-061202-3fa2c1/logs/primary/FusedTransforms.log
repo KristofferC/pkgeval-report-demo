@@ -1,0 +1,16 @@
+PkgEval job log — FusedTransforms v1.12.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedTransforms...
+   Resolving package versions...
+   Installed FusedTransforms ─ v1.12.6
+Precompiling packages...
+  175 dependencies successfully precompiled in 199 seconds
+Testing FusedTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedTransforms          | 3445  21303  1538.1s
+     Testing FusedTransforms tests passed

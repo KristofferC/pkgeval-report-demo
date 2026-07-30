@@ -1,0 +1,16 @@
+PkgEval job log — NanoSystems v1.0.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoSystems...
+   Resolving package versions...
+   Installed NanoSystems ─ v1.0.3
+Precompiling packages...
+  126 dependencies successfully precompiled in 227 seconds
+Testing NanoSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoSystems          | 83422  6046  750.1s
+     Testing NanoSystems tests passed

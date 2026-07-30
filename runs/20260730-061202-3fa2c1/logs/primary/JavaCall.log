@@ -1,0 +1,16 @@
+PkgEval job log — JavaCall v0.3.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing JavaCall...
+   Resolving package versions...
+   Installed JavaCall ─ v0.3.8
+Precompiling packages...
+  194 dependencies successfully precompiled in 213 seconds
+Testing JavaCall
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+JavaCall          | 2507  50181  357.1s
+     Testing JavaCall tests passed

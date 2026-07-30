@@ -1,0 +1,16 @@
+PkgEval job log — MultiUtils v0.10.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiUtils...
+   Resolving package versions...
+   Installed MultiUtils ─ v0.10.5
+Precompiling packages...
+  22 dependencies successfully precompiled in 19 seconds
+Testing MultiUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiUtils          | 50626  74210  580.1s
+     Testing MultiUtils tests passed

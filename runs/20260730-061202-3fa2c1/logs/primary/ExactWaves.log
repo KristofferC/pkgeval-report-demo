@@ -1,0 +1,16 @@
+PkgEval job log — ExactWaves v0.12.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactWaves...
+   Resolving package versions...
+   Installed ExactWaves ─ v0.12.6
+Precompiling packages...
+  48 dependencies successfully precompiled in 158 seconds
+Testing ExactWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactWaves          | 3015  6950  341.1s
+     Testing ExactWaves tests passed

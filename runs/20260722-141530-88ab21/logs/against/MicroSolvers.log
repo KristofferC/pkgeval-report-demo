@@ -1,0 +1,16 @@
+PkgEval job log — MicroSolvers v0.3.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroSolvers...
+   Resolving package versions...
+   Installed MicroSolvers ─ v0.3.2
+Precompiling packages...
+  31 dependencies successfully precompiled in 213 seconds
+Testing MicroSolvers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroSolvers          | 44076  4050  489.1s
+     Testing MicroSolvers tests passed

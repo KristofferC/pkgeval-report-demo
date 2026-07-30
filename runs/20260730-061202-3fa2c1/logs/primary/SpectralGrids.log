@@ -1,0 +1,16 @@
+PkgEval job log — SpectralGrids v1.13.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralGrids...
+   Resolving package versions...
+   Installed SpectralGrids ─ v1.13.5
+Precompiling packages...
+  46 dependencies successfully precompiled in 185 seconds
+Testing SpectralGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralGrids          | 48890  70283  258.1s
+     Testing SpectralGrids tests passed

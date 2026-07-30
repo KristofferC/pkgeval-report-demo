@@ -1,0 +1,16 @@
+PkgEval job log — NeuralTopology v1.6.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTopology...
+   Resolving package versions...
+   Installed NeuralTopology ─ v1.6.8
+Precompiling packages...
+  58 dependencies successfully precompiled in 232 seconds
+Testing NeuralTopology
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralTopology          | 66434  61676  660.1s
+     Testing NeuralTopology tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SpectralSystems v0.10.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralSystems...
+   Resolving package versions...
+   Installed SpectralSystems ─ v0.10.6
+Precompiling packages...
+  83 dependencies successfully precompiled in 238 seconds
+Testing SpectralSystems
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralSystems          | 49440  78600  201.1s
+     Testing SpectralSystems tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DenseModels v0.9.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseModels...
+   Resolving package versions...
+   Installed DenseModels ─ v0.9.1
+Precompiling packages...
+  54 dependencies successfully precompiled in 146 seconds
+Testing DenseModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseModels          | 77621  24994  857.1s
+     Testing DenseModels tests passed

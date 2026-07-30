@@ -1,0 +1,16 @@
+PkgEval job log — MicroArrays v0.9.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroArrays...
+   Resolving package versions...
+   Installed MicroArrays ─ v0.9.0
+Precompiling packages...
+  200 dependencies successfully precompiled in 82 seconds
+Testing MicroArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroArrays          | 62801  66968  1094.1s
+     Testing MicroArrays tests passed

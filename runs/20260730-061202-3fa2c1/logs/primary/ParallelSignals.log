@@ -1,0 +1,16 @@
+PkgEval job log — ParallelSignals v1.1.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelSignals...
+   Resolving package versions...
+   Installed ParallelSignals ─ v1.1.5
+Precompiling packages...
+  61 dependencies successfully precompiled in 162 seconds
+Testing ParallelSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelSignals          | 8695  63877  845.1s
+     Testing ParallelSignals tests passed

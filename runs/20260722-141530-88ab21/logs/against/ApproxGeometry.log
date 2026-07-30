@@ -1,0 +1,16 @@
+PkgEval job log — ApproxGeometry v2.7.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxGeometry...
+   Resolving package versions...
+   Installed ApproxGeometry ─ v2.7.3
+Precompiling packages...
+  202 dependencies successfully precompiled in 143 seconds
+Testing ApproxGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxGeometry          | 68678  40563  313.1s
+     Testing ApproxGeometry tests passed

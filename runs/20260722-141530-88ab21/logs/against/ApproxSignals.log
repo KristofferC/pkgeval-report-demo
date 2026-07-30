@@ -1,0 +1,16 @@
+PkgEval job log — ApproxSignals v0.11.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ApproxSignals...
+   Resolving package versions...
+   Installed ApproxSignals ─ v0.11.7
+Precompiling packages...
+  129 dependencies successfully precompiled in 44 seconds
+Testing ApproxSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ApproxSignals          | 5956  71912  1416.1s
+     Testing ApproxSignals tests passed

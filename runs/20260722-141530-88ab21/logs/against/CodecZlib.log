@@ -1,0 +1,16 @@
+PkgEval job log — CodecZlib v1.14.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing CodecZlib...
+   Resolving package versions...
+   Installed CodecZlib ─ v1.14.7
+Precompiling packages...
+  61 dependencies successfully precompiled in 239 seconds
+Testing CodecZlib
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+CodecZlib          | 1112  22381  1486.1s
+     Testing CodecZlib tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — PolyMaps v1.9.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyMaps...
+   Resolving package versions...
+   Installed PolyMaps ─ v1.9.1
+Precompiling packages...
+  45 dependencies successfully precompiled in 115 seconds
+Testing PolyMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyMaps          | 77248  74159  1092.1s
+     Testing PolyMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TensorModels v0.11.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorModels...
+   Resolving package versions...
+   Installed TensorModels ─ v0.11.3
+Precompiling packages...
+  142 dependencies successfully precompiled in 57 seconds
+Testing TensorModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorModels          | 71652  25824  1027.1s
+     Testing TensorModels tests passed

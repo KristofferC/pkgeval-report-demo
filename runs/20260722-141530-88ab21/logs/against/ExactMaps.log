@@ -1,0 +1,16 @@
+PkgEval job log — ExactMaps v0.4.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactMaps...
+   Resolving package versions...
+   Installed ExactMaps ─ v0.4.3
+Precompiling packages...
+  136 dependencies successfully precompiled in 42 seconds
+Testing ExactMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactMaps          | 77705  8860  692.1s
+     Testing ExactMaps tests passed

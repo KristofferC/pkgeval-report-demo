@@ -1,0 +1,16 @@
+PkgEval job log — FusedFields v2.10.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedFields...
+   Resolving package versions...
+   Installed FusedFields ─ v2.10.0
+Precompiling packages...
+  96 dependencies successfully precompiled in 103 seconds
+Testing FusedFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedFields          | 47124  39814  861.1s
+     Testing FusedFields tests passed

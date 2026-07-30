@@ -1,0 +1,16 @@
+PkgEval job log — NeuralTrees v0.0.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralTrees...
+   Resolving package versions...
+   Installed NeuralTrees ─ v0.0.9
+Precompiling packages...
+  60 dependencies successfully precompiled in 16 seconds
+Testing NeuralTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralTrees          | 10634  69248  555.1s
+     Testing NeuralTrees tests passed

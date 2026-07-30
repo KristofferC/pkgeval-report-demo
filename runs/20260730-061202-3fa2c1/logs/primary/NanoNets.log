@@ -1,0 +1,16 @@
+PkgEval job log — NanoNets v1.9.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoNets...
+   Resolving package versions...
+   Installed NanoNets ─ v1.9.4
+Precompiling packages...
+  115 dependencies successfully precompiled in 75 seconds
+Testing NanoNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoNets          | 76412  70101  236.1s
+     Testing NanoNets tests passed

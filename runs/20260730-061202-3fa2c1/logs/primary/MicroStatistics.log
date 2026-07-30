@@ -1,0 +1,16 @@
+PkgEval job log — MicroStatistics v1.8.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroStatistics...
+   Resolving package versions...
+   Installed MicroStatistics ─ v1.8.3
+Precompiling packages...
+  35 dependencies successfully precompiled in 23 seconds
+Testing MicroStatistics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroStatistics          | 19195  46366  761.1s
+     Testing MicroStatistics tests passed

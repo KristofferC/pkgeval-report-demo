@@ -1,0 +1,16 @@
+PkgEval job log — NestedModels v1.8.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedModels...
+   Resolving package versions...
+   Installed NestedModels ─ v1.8.4
+Precompiling packages...
+  178 dependencies successfully precompiled in 224 seconds
+Testing NestedModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedModels          | 67520  71796  118.1s
+     Testing NestedModels tests passed

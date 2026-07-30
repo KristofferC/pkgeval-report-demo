@@ -1,0 +1,16 @@
+PkgEval job log — Weave v0.10.5
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Weave...
+   Resolving package versions...
+   Installed Weave ─ v0.10.5
+Precompiling packages...
+  49 dependencies successfully precompiled in 117 seconds
+Testing Weave
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+Weave          | 82859  58798  841.1s
+     Testing Weave tests passed

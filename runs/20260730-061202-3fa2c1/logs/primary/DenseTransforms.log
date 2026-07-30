@@ -1,0 +1,16 @@
+PkgEval job log — DenseTransforms v0.9.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseTransforms...
+   Resolving package versions...
+   Installed DenseTransforms ─ v0.9.1
+Precompiling packages...
+  171 dependencies successfully precompiled in 100 seconds
+Testing DenseTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseTransforms          | 57014  86232  480.1s
+     Testing DenseTransforms tests passed

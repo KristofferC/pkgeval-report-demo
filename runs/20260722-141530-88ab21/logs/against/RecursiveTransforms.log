@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveTransforms v0.7.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveTransforms...
+   Resolving package versions...
+   Installed RecursiveTransforms ─ v0.7.0
+Precompiling packages...
+  85 dependencies successfully precompiled in 26 seconds
+Testing RecursiveTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveTransforms          | 27675  21030  1446.1s
+     Testing RecursiveTransforms tests passed

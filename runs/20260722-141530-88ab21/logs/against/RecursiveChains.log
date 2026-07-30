@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveChains v0.3.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveChains...
+   Resolving package versions...
+   Installed RecursiveChains ─ v0.3.2
+Precompiling packages...
+  25 dependencies successfully precompiled in 139 seconds
+Testing RecursiveChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveChains          | 49338  27664  1461.1s
+     Testing RecursiveChains tests passed

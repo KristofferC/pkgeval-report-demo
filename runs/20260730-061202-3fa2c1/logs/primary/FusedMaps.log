@@ -1,0 +1,16 @@
+PkgEval job log — FusedMaps v0.7.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedMaps...
+   Resolving package versions...
+   Installed FusedMaps ─ v0.7.9
+Precompiling packages...
+  37 dependencies successfully precompiled in 10 seconds
+Testing FusedMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedMaps          | 53722  1729  769.1s
+     Testing FusedMaps tests passed

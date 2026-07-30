@@ -1,0 +1,16 @@
+PkgEval job log — QuantumFilters v1.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumFilters...
+   Resolving package versions...
+   Installed QuantumFilters ─ v1.1.0
+Precompiling packages...
+  19 dependencies successfully precompiled in 91 seconds
+Testing QuantumFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumFilters          | 6112  19793  1018.1s
+     Testing QuantumFilters tests passed

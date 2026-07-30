@@ -1,0 +1,16 @@
+PkgEval job log — QuantumSignals v1.6.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumSignals...
+   Resolving package versions...
+   Installed QuantumSignals ─ v1.6.5
+Precompiling packages...
+  202 dependencies successfully precompiled in 220 seconds
+Testing QuantumSignals
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumSignals          | 7231  24156  348.1s
+     Testing QuantumSignals tests passed

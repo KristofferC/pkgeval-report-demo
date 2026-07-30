@@ -1,0 +1,19 @@
+PkgEval job log — BandedMatrices v0.10.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BandedMatrices...
+   Resolving package versions...
+   Installed BandedMatrices ─ v0.10.4
+Precompiling packages...
+  53 dependencies successfully precompiled in 84 seconds
+Testing BandedMatrices
+     Testing Running tests...
+Assertion `gc_n_threads == 0' failed
+
+signal (6): Aborted
+in expression starting at /home/pkgeval/.julia/packages/BandedMatrices/aB2cD/test/runtests.jl:14
+gc_mark_loop at /source/src/gc.c:2764
+unknown function (ip: 0x7fa3c21b4e90)

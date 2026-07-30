@@ -1,0 +1,16 @@
+PkgEval job log — ParallelArrays v2.1.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelArrays...
+   Resolving package versions...
+   Installed ParallelArrays ─ v2.1.9
+Precompiling packages...
+  87 dependencies successfully precompiled in 149 seconds
+Testing ParallelArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelArrays          | 14762  72895  326.1s
+     Testing ParallelArrays tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — VectorModels v1.9.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorModels...
+   Resolving package versions...
+   Installed VectorModels ─ v1.9.3
+Precompiling packages...
+  33 dependencies successfully precompiled in 123 seconds
+Testing VectorModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorModels          | 54040  16971  778.1s
+     Testing VectorModels tests passed

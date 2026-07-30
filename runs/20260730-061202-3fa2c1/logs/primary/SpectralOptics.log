@@ -1,0 +1,16 @@
+PkgEval job log — SpectralOptics v0.2.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralOptics...
+   Resolving package versions...
+   Installed SpectralOptics ─ v0.2.4
+Precompiling packages...
+  79 dependencies successfully precompiled in 28 seconds
+Testing SpectralOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralOptics          | 82351  53649  1322.1s
+     Testing SpectralOptics tests passed

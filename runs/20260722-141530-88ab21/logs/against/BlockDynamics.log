@@ -1,0 +1,16 @@
+PkgEval job log — BlockDynamics v0.0.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockDynamics...
+   Resolving package versions...
+   Installed BlockDynamics ─ v0.0.0
+Precompiling packages...
+  93 dependencies successfully precompiled in 207 seconds
+Testing BlockDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockDynamics          | 20611  42730  277.1s
+     Testing BlockDynamics tests passed

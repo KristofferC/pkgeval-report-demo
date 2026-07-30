@@ -1,0 +1,16 @@
+PkgEval job log — FastTrees v0.1.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FastTrees...
+   Resolving package versions...
+   Installed FastTrees ─ v0.1.4
+Precompiling packages...
+  161 dependencies successfully precompiled in 38 seconds
+Testing FastTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FastTrees          | 16971  60803  1372.1s
+     Testing FastTrees tests passed

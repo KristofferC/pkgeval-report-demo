@@ -1,0 +1,16 @@
+PkgEval job log — MultiChains v0.8.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiChains...
+   Resolving package versions...
+   Installed MultiChains ─ v0.8.0
+Precompiling packages...
+  96 dependencies successfully precompiled in 11 seconds
+Testing MultiChains
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiChains          | 55797  81524  866.1s
+     Testing MultiChains tests passed

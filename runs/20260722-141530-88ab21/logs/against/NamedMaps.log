@@ -1,0 +1,16 @@
+PkgEval job log — NamedMaps v0.9.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedMaps...
+   Resolving package versions...
+   Installed NamedMaps ─ v0.9.1
+Precompiling packages...
+  165 dependencies successfully precompiled in 102 seconds
+Testing NamedMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedMaps          | 45728  79257  555.1s
+     Testing NamedMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MultiWaves v1.1.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MultiWaves...
+   Resolving package versions...
+   Installed MultiWaves ─ v1.1.8
+Precompiling packages...
+  190 dependencies successfully precompiled in 148 seconds
+Testing MultiWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MultiWaves          | 54621  54263  418.1s
+     Testing MultiWaves tests passed

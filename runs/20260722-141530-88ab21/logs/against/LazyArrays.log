@@ -1,0 +1,16 @@
+PkgEval job log — LazyArrays v0.13.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing LazyArrays...
+   Resolving package versions...
+   Installed LazyArrays ─ v0.13.3
+Precompiling packages...
+  25 dependencies successfully precompiled in 138 seconds
+Testing LazyArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+LazyArrays          | 47971  34876  705.1s
+     Testing LazyArrays tests passed

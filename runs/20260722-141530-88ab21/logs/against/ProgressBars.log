@@ -1,0 +1,16 @@
+PkgEval job log — ProgressBars v1.6.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ProgressBars...
+   Resolving package versions...
+   Installed ProgressBars ─ v1.6.7
+Precompiling packages...
+  94 dependencies successfully precompiled in 181 seconds
+Testing ProgressBars
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ProgressBars          | 34452  28307  212.1s
+     Testing ProgressBars tests passed

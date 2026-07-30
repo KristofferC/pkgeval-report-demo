@@ -1,0 +1,16 @@
+PkgEval job log — GLM v2.10.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GLM...
+   Resolving package versions...
+   Installed GLM ─ v2.10.4
+Precompiling packages...
+  49 dependencies successfully precompiled in 187 seconds
+Testing GLM
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GLM          | 42706  18336  1271.1s
+     Testing GLM tests passed

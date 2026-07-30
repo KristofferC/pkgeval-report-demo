@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveFrames v0.14.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveFrames...
+   Resolving package versions...
+   Installed AdaptiveFrames ─ v0.14.0
+Precompiling packages...
+  65 dependencies successfully precompiled in 40 seconds
+Testing AdaptiveFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveFrames          | 64126  75728  459.1s
+     Testing AdaptiveFrames tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — MatrixAlgebra v2.12.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixAlgebra...
+   Resolving package versions...
+   Installed MatrixAlgebra ─ v2.12.9
+Precompiling packages...
+  182 dependencies successfully precompiled in 126 seconds
+Testing MatrixAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixAlgebra          | 57156  85256  1270.1s
+     Testing MatrixAlgebra tests passed

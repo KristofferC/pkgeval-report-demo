@@ -1,0 +1,16 @@
+PkgEval job log — FusedAlgebra v0.6.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedAlgebra...
+   Resolving package versions...
+   Installed FusedAlgebra ─ v0.6.4
+Precompiling packages...
+  112 dependencies successfully precompiled in 39 seconds
+Testing FusedAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedAlgebra          | 83928  9505  748.1s
+     Testing FusedAlgebra tests passed

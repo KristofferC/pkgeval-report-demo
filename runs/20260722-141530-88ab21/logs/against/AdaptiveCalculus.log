@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveCalculus v2.12.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveCalculus...
+   Resolving package versions...
+   Installed AdaptiveCalculus ─ v2.12.0
+Precompiling packages...
+  146 dependencies successfully precompiled in 16 seconds
+Testing AdaptiveCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveCalculus          | 86895  57164  462.1s
+     Testing AdaptiveCalculus tests passed

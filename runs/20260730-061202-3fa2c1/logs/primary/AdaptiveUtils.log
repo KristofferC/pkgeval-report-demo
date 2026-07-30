@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveUtils v1.7.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveUtils...
+   Resolving package versions...
+   Installed AdaptiveUtils ─ v1.7.1
+Precompiling packages...
+  129 dependencies successfully precompiled in 119 seconds
+Testing AdaptiveUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveUtils          | 9125  80602  595.1s
+     Testing AdaptiveUtils tests passed

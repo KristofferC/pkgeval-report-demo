@@ -1,0 +1,16 @@
+PkgEval job log — ChunkTypes v0.3.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkTypes...
+   Resolving package versions...
+   Installed ChunkTypes ─ v0.3.7
+Precompiling packages...
+  208 dependencies successfully precompiled in 125 seconds
+Testing ChunkTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkTypes          | 87924  58946  1228.1s
+     Testing ChunkTypes tests passed

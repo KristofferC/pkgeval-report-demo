@@ -1,0 +1,16 @@
+PkgEval job log — TaggedGeometry v0.14.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TaggedGeometry...
+   Resolving package versions...
+   Installed TaggedGeometry ─ v0.14.1
+Precompiling packages...
+  65 dependencies successfully precompiled in 45 seconds
+Testing TaggedGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TaggedGeometry          | 85537  59092  301.1s
+     Testing TaggedGeometry tests passed

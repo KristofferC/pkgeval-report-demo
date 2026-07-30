@@ -1,0 +1,16 @@
+PkgEval job log — NamedDynamics v2.0.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedDynamics...
+   Resolving package versions...
+   Installed NamedDynamics ─ v2.0.7
+Precompiling packages...
+  93 dependencies successfully precompiled in 179 seconds
+Testing NamedDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedDynamics          | 50792  31034  270.1s
+     Testing NamedDynamics tests passed

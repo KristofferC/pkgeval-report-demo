@@ -1,0 +1,16 @@
+PkgEval job log — HDF5 v2.13.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HDF5...
+   Resolving package versions...
+   Installed HDF5 ─ v2.13.2
+Precompiling packages...
+  78 dependencies successfully precompiled in 101 seconds
+Testing HDF5
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HDF5          | 63146  72148  291.1s
+     Testing HDF5 tests passed

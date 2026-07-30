@@ -1,0 +1,16 @@
+PkgEval job log — DistributedOptics v1.13.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedOptics...
+   Resolving package versions...
+   Installed DistributedOptics ─ v1.13.4
+Precompiling packages...
+  104 dependencies successfully precompiled in 72 seconds
+Testing DistributedOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedOptics          | 44855  87745  1190.1s
+     Testing DistributedOptics tests passed

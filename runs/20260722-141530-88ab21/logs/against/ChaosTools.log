@@ -1,0 +1,16 @@
+PkgEval job log — ChaosTools v0.11.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChaosTools...
+   Resolving package versions...
+   Installed ChaosTools ─ v0.11.3
+Precompiling packages...
+  172 dependencies successfully precompiled in 179 seconds
+Testing ChaosTools
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChaosTools          | 54468  62338  432.1s
+     Testing ChaosTools tests passed

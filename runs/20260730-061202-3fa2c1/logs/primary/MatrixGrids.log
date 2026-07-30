@@ -1,0 +1,16 @@
+PkgEval job log — MatrixGrids v0.5.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MatrixGrids...
+   Resolving package versions...
+   Installed MatrixGrids ─ v0.5.6
+Precompiling packages...
+  30 dependencies successfully precompiled in 192 seconds
+Testing MatrixGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MatrixGrids          | 60646  62936  584.1s
+     Testing MatrixGrids tests passed

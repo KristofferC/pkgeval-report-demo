@@ -1,0 +1,16 @@
+PkgEval job log — BayesianMeshes v1.1.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianMeshes...
+   Resolving package versions...
+   Installed BayesianMeshes ─ v1.1.1
+Precompiling packages...
+  94 dependencies successfully precompiled in 125 seconds
+Testing BayesianMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianMeshes          | 50170  13336  1466.1s
+     Testing BayesianMeshes tests passed

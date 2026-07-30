@@ -1,0 +1,16 @@
+PkgEval job log — GraphWaves v1.0.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphWaves...
+   Resolving package versions...
+   Installed GraphWaves ─ v1.0.4
+Precompiling packages...
+  183 dependencies successfully precompiled in 216 seconds
+Testing GraphWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GraphWaves          | 35776  57256  918.1s
+     Testing GraphWaves tests passed

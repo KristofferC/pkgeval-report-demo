@@ -1,0 +1,16 @@
+PkgEval job log — NamedNets v0.13.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedNets...
+   Resolving package versions...
+   Installed NamedNets ─ v0.13.9
+Precompiling packages...
+  199 dependencies successfully precompiled in 92 seconds
+Testing NamedNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedNets          | 60214  68415  1116.1s
+     Testing NamedNets tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — GRIB2 v1.5.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GRIB2...
+   Resolving package versions...
+   Installed GRIB2 ─ v1.5.0
+Precompiling packages...
+  188 dependencies successfully precompiled in 55 seconds
+Testing GRIB2
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GRIB2          | 62543  9925  862.1s
+     Testing GRIB2 tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — ComponentArrays v0.7.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ComponentArrays...
+   Resolving package versions...
+   Installed ComponentArrays ─ v0.7.7
+Precompiling packages...
+  79 dependencies successfully precompiled in 19 seconds
+Testing ComponentArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ComponentArrays          | 82380  14412  1249.1s
+     Testing ComponentArrays tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — NamedUtils v2.11.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NamedUtils...
+   Resolving package versions...
+   Installed NamedUtils ─ v2.11.7
+Precompiling packages...
+  77 dependencies successfully precompiled in 114 seconds
+Testing NamedUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NamedUtils          | 44758  81388  343.1s
+     Testing NamedUtils tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — TreeMaps v1.6.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeMaps...
+   Resolving package versions...
+   Installed TreeMaps ─ v1.6.0
+Precompiling packages...
+  80 dependencies successfully precompiled in 218 seconds
+Testing TreeMaps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeMaps          | 58350  50864  1465.1s
+     Testing TreeMaps tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — DenseNets v0.4.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseNets...
+   Resolving package versions...
+   Installed DenseNets ─ v0.4.0
+Precompiling packages...
+  140 dependencies successfully precompiled in 234 seconds
+Testing DenseNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseNets          | 2568  71305  1088.1s
+     Testing DenseNets tests passed

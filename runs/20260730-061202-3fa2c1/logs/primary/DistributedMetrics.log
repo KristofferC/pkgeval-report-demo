@@ -1,0 +1,16 @@
+PkgEval job log — DistributedMetrics v2.13.3
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedMetrics...
+   Resolving package versions...
+   Installed DistributedMetrics ─ v2.13.3
+Precompiling packages...
+  77 dependencies successfully precompiled in 59 seconds
+Testing DistributedMetrics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedMetrics          | 53329  34043  1223.1s
+     Testing DistributedMetrics tests passed

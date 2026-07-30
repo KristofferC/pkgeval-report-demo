@@ -1,0 +1,16 @@
+PkgEval job log — QuantumFrames v1.12.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing QuantumFrames...
+   Resolving package versions...
+   Installed QuantumFrames ─ v1.12.2
+Precompiling packages...
+  74 dependencies successfully precompiled in 215 seconds
+Testing QuantumFrames
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+QuantumFrames          | 57422  32809  1322.1s
+     Testing QuantumFrames tests passed

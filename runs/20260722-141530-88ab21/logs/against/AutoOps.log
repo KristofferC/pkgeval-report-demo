@@ -1,0 +1,16 @@
+PkgEval job log — AutoOps v1.7.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AutoOps...
+   Resolving package versions...
+   Installed AutoOps ─ v1.7.0
+Precompiling packages...
+  124 dependencies successfully precompiled in 99 seconds
+Testing AutoOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AutoOps          | 42690  32171  1378.1s
+     Testing AutoOps tests passed

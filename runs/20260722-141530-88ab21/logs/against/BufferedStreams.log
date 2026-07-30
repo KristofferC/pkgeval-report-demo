@@ -1,0 +1,16 @@
+PkgEval job log — BufferedStreams v0.12.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BufferedStreams...
+   Resolving package versions...
+   Installed BufferedStreams ─ v0.12.7
+Precompiling packages...
+  41 dependencies successfully precompiled in 108 seconds
+Testing BufferedStreams
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BufferedStreams          | 82216  61100  31.1s
+     Testing BufferedStreams tests passed

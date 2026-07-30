@@ -1,0 +1,16 @@
+PkgEval job log — MicroTables v1.8.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MicroTables...
+   Resolving package versions...
+   Installed MicroTables ─ v1.8.7
+Precompiling packages...
+  131 dependencies successfully precompiled in 95 seconds
+Testing MicroTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+MicroTables          | 9858  15557  241.1s
+     Testing MicroTables tests passed

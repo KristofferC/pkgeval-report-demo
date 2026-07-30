@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveDynamics v0.14.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveDynamics...
+   Resolving package versions...
+   Installed AdaptiveDynamics ─ v0.14.7
+Precompiling packages...
+  112 dependencies successfully precompiled in 102 seconds
+Testing AdaptiveDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveDynamics          | 72739  82202  1338.1s
+     Testing AdaptiveDynamics tests passed

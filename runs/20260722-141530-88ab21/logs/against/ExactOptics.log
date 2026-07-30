@@ -1,0 +1,16 @@
+PkgEval job log — ExactOptics v0.5.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ExactOptics...
+   Resolving package versions...
+   Installed ExactOptics ─ v0.5.4
+Precompiling packages...
+  73 dependencies successfully precompiled in 221 seconds
+Testing ExactOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ExactOptics          | 20012  25923  583.1s
+     Testing ExactOptics tests passed

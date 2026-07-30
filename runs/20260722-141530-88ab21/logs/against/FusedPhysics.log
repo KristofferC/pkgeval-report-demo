@@ -1,0 +1,16 @@
+PkgEval job log — FusedPhysics v0.7.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedPhysics...
+   Resolving package versions...
+   Installed FusedPhysics ─ v0.7.3
+Precompiling packages...
+  25 dependencies successfully precompiled in 73 seconds
+Testing FusedPhysics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedPhysics          | 27462  16148  1163.1s
+     Testing FusedPhysics tests passed

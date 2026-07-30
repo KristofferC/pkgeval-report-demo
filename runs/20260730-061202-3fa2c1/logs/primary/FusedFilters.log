@@ -1,0 +1,16 @@
+PkgEval job log — FusedFilters v0.14.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedFilters...
+   Resolving package versions...
+   Installed FusedFilters ─ v0.14.1
+Precompiling packages...
+  57 dependencies successfully precompiled in 130 seconds
+Testing FusedFilters
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedFilters          | 61996  76415  1206.1s
+     Testing FusedFilters tests passed

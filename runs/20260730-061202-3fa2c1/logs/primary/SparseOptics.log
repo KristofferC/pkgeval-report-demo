@@ -1,0 +1,16 @@
+PkgEval job log — SparseOptics v1.4.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseOptics...
+   Resolving package versions...
+   Installed SparseOptics ─ v1.4.8
+Precompiling packages...
+  133 dependencies successfully precompiled in 94 seconds
+Testing SparseOptics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseOptics          | 22975  88713  1203.1s
+     Testing SparseOptics tests passed

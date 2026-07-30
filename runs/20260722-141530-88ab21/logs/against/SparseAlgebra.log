@@ -1,0 +1,16 @@
+PkgEval job log — SparseAlgebra v1.1.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SparseAlgebra...
+   Resolving package versions...
+   Installed SparseAlgebra ─ v1.1.7
+Precompiling packages...
+  162 dependencies successfully precompiled in 36 seconds
+Testing SparseAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SparseAlgebra          | 71962  57667  357.1s
+     Testing SparseAlgebra tests passed

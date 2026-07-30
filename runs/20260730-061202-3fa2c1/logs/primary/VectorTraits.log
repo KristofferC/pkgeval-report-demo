@@ -1,0 +1,16 @@
+PkgEval job log — VectorTraits v1.4.5
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing VectorTraits...
+   Resolving package versions...
+   Installed VectorTraits ─ v1.4.5
+Precompiling packages...
+  128 dependencies successfully precompiled in 20 seconds
+Testing VectorTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+VectorTraits          | 68021  8155  1114.1s
+     Testing VectorTraits tests passed

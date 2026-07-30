@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveTrees v1.7.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveTrees...
+   Resolving package versions...
+   Installed RecursiveTrees ─ v1.7.7
+Precompiling packages...
+  41 dependencies successfully precompiled in 40 seconds
+Testing RecursiveTrees
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveTrees          | 61213  59678  1297.1s
+     Testing RecursiveTrees tests passed

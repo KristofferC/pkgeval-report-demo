@@ -1,0 +1,16 @@
+PkgEval job log — JuAFEM2 v0.6.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing JuAFEM2...
+   Resolving package versions...
+   Installed JuAFEM2 ─ v0.6.8
+Precompiling packages...
+  201 dependencies successfully precompiled in 46 seconds
+Testing JuAFEM2
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+JuAFEM2          | 44382  38249  1087.1s
+     Testing JuAFEM2 tests passed

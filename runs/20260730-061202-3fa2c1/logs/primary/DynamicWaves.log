@@ -1,0 +1,23 @@
+PkgEval job log — DynamicWaves v1.0.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicWaves...
+   Resolving package versions...
+   Installed DynamicWaves ─ v1.0.9
+Precompiling packages...
+  121 dependencies successfully precompiled in 195 seconds
+Testing DynamicWaves
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/DynamicWaves/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: MethodError: no method matching similar(::Base.OneTo{Int64}, ::Type{Float64})
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+DynamicWaves          |  356     2      1    280
+ERROR: LoadError: Some tests did not pass
+     Testing DynamicWaves tests failed

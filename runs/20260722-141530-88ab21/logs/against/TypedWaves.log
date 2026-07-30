@@ -1,0 +1,16 @@
+PkgEval job log — TypedWaves v1.3.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedWaves...
+   Resolving package versions...
+   Installed TypedWaves ─ v1.3.3
+Precompiling packages...
+  213 dependencies successfully precompiled in 195 seconds
+Testing TypedWaves
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedWaves          | 69911  31012  1291.1s
+     Testing TypedWaves tests passed

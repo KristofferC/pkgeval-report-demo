@@ -1,0 +1,16 @@
+PkgEval job log — ChunkTraits v0.13.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ChunkTraits...
+   Resolving package versions...
+   Installed ChunkTraits ─ v0.13.4
+Precompiling packages...
+  29 dependencies successfully precompiled in 23 seconds
+Testing ChunkTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ChunkTraits          | 51342  86908  548.1s
+     Testing ChunkTraits tests passed

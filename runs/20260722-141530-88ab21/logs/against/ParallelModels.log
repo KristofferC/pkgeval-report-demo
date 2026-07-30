@@ -1,0 +1,16 @@
+PkgEval job log — ParallelModels v1.13.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelModels...
+   Resolving package versions...
+   Installed ParallelModels ─ v1.13.2
+Precompiling packages...
+  122 dependencies successfully precompiled in 52 seconds
+Testing ParallelModels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelModels          | 42720  88449  1028.1s
+     Testing ParallelModels tests passed

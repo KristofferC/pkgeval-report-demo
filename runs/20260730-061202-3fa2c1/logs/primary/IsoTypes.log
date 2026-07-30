@@ -1,0 +1,16 @@
+PkgEval job log — IsoTypes v0.13.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing IsoTypes...
+   Resolving package versions...
+   Installed IsoTypes ─ v0.13.0
+Precompiling packages...
+  134 dependencies successfully precompiled in 188 seconds
+Testing IsoTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+IsoTypes          | 75271  34581  1137.1s
+     Testing IsoTypes tests passed

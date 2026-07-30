@@ -1,0 +1,16 @@
+PkgEval job log — FusedGrids v0.11.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing FusedGrids...
+   Resolving package versions...
+   Installed FusedGrids ─ v0.11.8
+Precompiling packages...
+  47 dependencies successfully precompiled in 131 seconds
+Testing FusedGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+FusedGrids          | 13775  35266  101.1s
+     Testing FusedGrids tests passed

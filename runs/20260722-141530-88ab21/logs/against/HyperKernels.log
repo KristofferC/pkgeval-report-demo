@@ -1,0 +1,16 @@
+PkgEval job log — HyperKernels v0.3.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing HyperKernels...
+   Resolving package versions...
+   Installed HyperKernels ─ v0.3.6
+Precompiling packages...
+  71 dependencies successfully precompiled in 162 seconds
+Testing HyperKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+HyperKernels          | 74939  73441  1281.1s
+     Testing HyperKernels tests passed

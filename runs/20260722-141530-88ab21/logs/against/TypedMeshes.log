@@ -1,0 +1,16 @@
+PkgEval job log — TypedMeshes v0.9.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedMeshes...
+   Resolving package versions...
+   Installed TypedMeshes ─ v0.9.4
+Precompiling packages...
+  20 dependencies successfully precompiled in 152 seconds
+Testing TypedMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedMeshes          | 44321  35977  1527.1s
+     Testing TypedMeshes tests passed

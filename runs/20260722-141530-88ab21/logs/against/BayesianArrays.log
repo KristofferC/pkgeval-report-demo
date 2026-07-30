@@ -1,0 +1,16 @@
+PkgEval job log — BayesianArrays v0.13.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianArrays...
+   Resolving package versions...
+   Installed BayesianArrays ─ v0.13.7
+Precompiling packages...
+  166 dependencies successfully precompiled in 236 seconds
+Testing BayesianArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianArrays          | 15683  27950  1116.1s
+     Testing BayesianArrays tests passed

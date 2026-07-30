@@ -1,0 +1,16 @@
+PkgEval job log — TreeGrids v1.7.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TreeGrids...
+   Resolving package versions...
+   Installed TreeGrids ─ v1.7.2
+Precompiling packages...
+  205 dependencies successfully precompiled in 30 seconds
+Testing TreeGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TreeGrids          | 48753  6421  487.1s
+     Testing TreeGrids tests passed

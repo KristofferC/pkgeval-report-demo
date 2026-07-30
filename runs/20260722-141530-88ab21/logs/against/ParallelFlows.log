@@ -1,0 +1,16 @@
+PkgEval job log — ParallelFlows v1.4.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelFlows...
+   Resolving package versions...
+   Installed ParallelFlows ─ v1.4.2
+Precompiling packages...
+  171 dependencies successfully precompiled in 216 seconds
+Testing ParallelFlows
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelFlows          | 59940  36959  1017.1s
+     Testing ParallelFlows tests passed

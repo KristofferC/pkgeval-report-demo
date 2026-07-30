@@ -1,0 +1,16 @@
+PkgEval job log — StaticTraits v0.8.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StaticTraits...
+   Resolving package versions...
+   Installed StaticTraits ─ v0.8.4
+Precompiling packages...
+  80 dependencies successfully precompiled in 233 seconds
+Testing StaticTraits
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StaticTraits          | 70455  53023  502.1s
+     Testing StaticTraits tests passed

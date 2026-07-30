@@ -1,0 +1,16 @@
+PkgEval job log — TensorGrids v1.8.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorGrids...
+   Resolving package versions...
+   Installed TensorGrids ─ v1.8.6
+Precompiling packages...
+  149 dependencies successfully precompiled in 79 seconds
+Testing TensorGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorGrids          | 61040  88960  431.1s
+     Testing TensorGrids tests passed

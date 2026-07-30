@@ -1,0 +1,15 @@
+PkgEval job log — Interpolations v0.0.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing Interpolations...
+   Resolving package versions...
+   Installed Interpolations ─ v0.0.1
+Precompiling packages...
+  40 dependencies successfully precompiled in 126 seconds
+Testing Interpolations
+     Testing Running tests...
+ERROR: LoadError: Failed to precompile Interpolations [8f4d0f93-b110-5947-807f-2305c1781a2d]
+in expression starting at /home/pkgeval/.julia/packages/Interpolations/xK3Lp/src/Interpolations.jl:1

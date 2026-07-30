@@ -1,0 +1,16 @@
+PkgEval job log — NanoDynamics v2.10.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NanoDynamics...
+   Resolving package versions...
+   Installed NanoDynamics ─ v2.10.6
+Precompiling packages...
+  40 dependencies successfully precompiled in 138 seconds
+Testing NanoDynamics
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NanoDynamics          | 36827  75659  1054.1s
+     Testing NanoDynamics tests passed

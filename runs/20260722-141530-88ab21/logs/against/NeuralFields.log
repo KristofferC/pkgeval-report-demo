@@ -1,0 +1,16 @@
+PkgEval job log — NeuralFields v1.12.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NeuralFields...
+   Resolving package versions...
+   Installed NeuralFields ─ v1.12.6
+Precompiling packages...
+  179 dependencies successfully precompiled in 10 seconds
+Testing NeuralFields
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NeuralFields          | 78431  54766  1039.1s
+     Testing NeuralFields tests passed

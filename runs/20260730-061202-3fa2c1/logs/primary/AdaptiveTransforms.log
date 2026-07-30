@@ -1,0 +1,16 @@
+PkgEval job log — AdaptiveTransforms v2.6.6
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AdaptiveTransforms...
+   Resolving package versions...
+   Installed AdaptiveTransforms ─ v2.6.6
+Precompiling packages...
+  21 dependencies successfully precompiled in 166 seconds
+Testing AdaptiveTransforms
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AdaptiveTransforms          | 36201  34675  838.1s
+     Testing AdaptiveTransforms tests passed

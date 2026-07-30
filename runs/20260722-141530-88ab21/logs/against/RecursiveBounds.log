@@ -1,0 +1,16 @@
+PkgEval job log — RecursiveBounds v0.10.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing RecursiveBounds...
+   Resolving package versions...
+   Installed RecursiveBounds ─ v0.10.1
+Precompiling packages...
+  135 dependencies successfully precompiled in 106 seconds
+Testing RecursiveBounds
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+RecursiveBounds          | 15270  21363  1102.1s
+     Testing RecursiveBounds tests passed

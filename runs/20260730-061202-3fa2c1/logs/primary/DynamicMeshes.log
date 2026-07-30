@@ -1,0 +1,16 @@
+PkgEval job log — DynamicMeshes v1.8.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicMeshes...
+   Resolving package versions...
+   Installed DynamicMeshes ─ v1.8.0
+Precompiling packages...
+  171 dependencies successfully precompiled in 40 seconds
+Testing DynamicMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicMeshes          | 63903  86997  167.1s
+     Testing DynamicMeshes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — StochasticLearning v0.11.2
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing StochasticLearning...
+   Resolving package versions...
+   Installed StochasticLearning ─ v0.11.2
+Precompiling packages...
+  52 dependencies successfully precompiled in 94 seconds
+Testing StochasticLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+StochasticLearning          | 80739  74028  1164.1s
+     Testing StochasticLearning tests passed

@@ -1,0 +1,15 @@
+PkgEval job log — DenseFields v1.1.9
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseFields...
+   Resolving package versions...
+   Installed DenseFields ─ v1.1.9
+Precompiling packages...
+  132 dependencies successfully precompiled in 119 seconds
+Testing DenseFields
+     Testing Running tests...
+ERROR: LoadError: could not load library "libdensefields"
+libdensefields.so: cannot open shared object file: No such file or directory

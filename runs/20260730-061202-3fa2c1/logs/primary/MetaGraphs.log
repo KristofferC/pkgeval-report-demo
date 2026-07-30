@@ -1,0 +1,23 @@
+PkgEval job log — MetaGraphs v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing MetaGraphs...
+   Resolving package versions...
+   Installed MetaGraphs ─ v0.1.0
+Precompiling packages...
+  189 dependencies successfully precompiled in 25 seconds
+Testing MetaGraphs
+     Testing Running tests...
+core routines: Test Failed at /home/pkgeval/.julia/packages/MetaGraphs/aB2cD/test/runtests.jl:87
+  Expression: result ≈ expected
+   Evaluated: 0.30000000000000004 ≈ 0.3
+ERROR: LoadError: UndefVarError: `MetaGraphsHelper` not defined in `Main`
+Stacktrace:
+  [1] top-level scope
+Test Summary:  | Pass  Fail  Error  Total
+MetaGraphs          |  367     2      1    106
+ERROR: LoadError: Some tests did not pass
+     Testing MetaGraphs tests failed

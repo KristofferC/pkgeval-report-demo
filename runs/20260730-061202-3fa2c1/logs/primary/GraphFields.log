@@ -1,0 +1,17 @@
+PkgEval job log — GraphFields v1.11.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GraphFields...
+   Resolving package versions...
+   Installed GraphFields ─ v1.11.8
+Precompiling packages...
+  162 dependencies successfully precompiled in 37 seconds
+Testing GraphFields
+     Testing Running tests...
+
+signal (11): Segmentation fault
+in expression starting at /home/pkgeval/.julia/packages/GraphFields/aB2cD/test/runtests.jl:31
+jl_apply_generic at /source/src/gf.c:3589

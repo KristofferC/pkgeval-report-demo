@@ -1,0 +1,16 @@
+PkgEval job log — BayesianNets v0.4.4
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BayesianNets...
+   Resolving package versions...
+   Installed BayesianNets ─ v0.4.4
+Precompiling packages...
+  179 dependencies successfully precompiled in 159 seconds
+Testing BayesianNets
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BayesianNets          | 30589  45647  925.1s
+     Testing BayesianNets tests passed

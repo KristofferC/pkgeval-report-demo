@@ -1,0 +1,16 @@
+PkgEval job log — DenseInference v0.1.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DenseInference...
+   Resolving package versions...
+   Installed DenseInference ─ v0.1.9
+Precompiling packages...
+  17 dependencies successfully precompiled in 229 seconds
+Testing DenseInference
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DenseInference          | 19637  74717  1446.1s
+     Testing DenseInference tests passed

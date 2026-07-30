@@ -1,0 +1,16 @@
+PkgEval job log — ParallelAlgebra v0.1.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing ParallelAlgebra...
+   Resolving package versions...
+   Installed ParallelAlgebra ─ v0.1.6
+Precompiling packages...
+  192 dependencies successfully precompiled in 24 seconds
+Testing ParallelAlgebra
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+ParallelAlgebra          | 59475  39543  819.1s
+     Testing ParallelAlgebra tests passed

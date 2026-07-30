@@ -1,0 +1,16 @@
+PkgEval job log — TensorMeshes v0.2.6
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TensorMeshes...
+   Resolving package versions...
+   Installed TensorMeshes ─ v0.2.6
+Precompiling packages...
+  110 dependencies successfully precompiled in 65 seconds
+Testing TensorMeshes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TensorMeshes          | 65593  59119  609.1s
+     Testing TensorMeshes tests passed

@@ -1,0 +1,16 @@
+PkgEval job log — SpectralTables v1.10.7
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralTables...
+   Resolving package versions...
+   Installed SpectralTables ─ v1.10.7
+Precompiling packages...
+  212 dependencies successfully precompiled in 226 seconds
+Testing SpectralTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralTables          | 43482  29231  760.1s
+     Testing SpectralTables tests passed

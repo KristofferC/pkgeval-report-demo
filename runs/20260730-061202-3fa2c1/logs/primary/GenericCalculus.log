@@ -1,0 +1,16 @@
+PkgEval job log — GenericCalculus v1.6.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing GenericCalculus...
+   Resolving package versions...
+   Installed GenericCalculus ─ v1.6.2
+Precompiling packages...
+  28 dependencies successfully precompiled in 231 seconds
+Testing GenericCalculus
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+GenericCalculus          | 86364  17137  460.1s
+     Testing GenericCalculus tests passed

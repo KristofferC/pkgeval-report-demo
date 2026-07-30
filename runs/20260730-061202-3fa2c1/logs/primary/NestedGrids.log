@@ -1,0 +1,16 @@
+PkgEval job log — NestedGrids v1.5.4
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedGrids...
+   Resolving package versions...
+   Installed NestedGrids ─ v1.5.4
+Precompiling packages...
+  71 dependencies successfully precompiled in 67 seconds
+Testing NestedGrids
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedGrids          | 82673  77839  1185.1s
+     Testing NestedGrids tests passed

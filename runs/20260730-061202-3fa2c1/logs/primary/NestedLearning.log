@@ -1,0 +1,16 @@
+PkgEval job log — NestedLearning v2.1.2
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing NestedLearning...
+   Resolving package versions...
+   Installed NestedLearning ─ v2.1.2
+Precompiling packages...
+  64 dependencies successfully precompiled in 41 seconds
+Testing NestedLearning
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+NestedLearning          | 77411  16835  1221.1s
+     Testing NestedLearning tests passed

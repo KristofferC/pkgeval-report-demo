@@ -1,0 +1,16 @@
+PkgEval job log — BlockLayers v1.11.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockLayers...
+   Resolving package versions...
+   Installed BlockLayers ─ v1.11.3
+Precompiling packages...
+  195 dependencies successfully precompiled in 69 seconds
+Testing BlockLayers
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockLayers          | 30641  15607  760.1s
+     Testing BlockLayers tests passed

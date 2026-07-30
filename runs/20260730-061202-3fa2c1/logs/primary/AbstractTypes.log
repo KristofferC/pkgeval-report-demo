@@ -1,0 +1,16 @@
+PkgEval job log — AbstractTypes v0.5.8
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing AbstractTypes...
+   Resolving package versions...
+   Installed AbstractTypes ─ v0.5.8
+Precompiling packages...
+  27 dependencies successfully precompiled in 234 seconds
+Testing AbstractTypes
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+AbstractTypes          | 49365  54066  281.1s
+     Testing AbstractTypes tests passed

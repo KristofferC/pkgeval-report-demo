@@ -1,0 +1,16 @@
+PkgEval job log — SymbolicUtils v0.1.0
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SymbolicUtils...
+   Resolving package versions...
+   Installed SymbolicUtils ─ v0.1.0
+Precompiling packages...
+  119 dependencies successfully precompiled in 37 seconds
+Testing SymbolicUtils
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SymbolicUtils          | 30342  20879  1250.1s
+     Testing SymbolicUtils tests passed

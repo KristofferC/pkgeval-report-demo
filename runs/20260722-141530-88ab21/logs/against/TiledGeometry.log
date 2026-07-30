@@ -1,0 +1,16 @@
+PkgEval job log — TiledGeometry v2.6.3
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TiledGeometry...
+   Resolving package versions...
+   Installed TiledGeometry ─ v2.6.3
+Precompiling packages...
+  136 dependencies successfully precompiled in 70 seconds
+Testing TiledGeometry
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TiledGeometry          | 19888  81342  913.1s
+     Testing TiledGeometry tests passed

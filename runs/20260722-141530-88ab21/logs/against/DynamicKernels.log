@@ -1,0 +1,16 @@
+PkgEval job log — DynamicKernels v0.5.1
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DynamicKernels...
+   Resolving package versions...
+   Installed DynamicKernels ─ v0.5.1
+Precompiling packages...
+  43 dependencies successfully precompiled in 150 seconds
+Testing DynamicKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DynamicKernels          | 7159  60926  344.1s
+     Testing DynamicKernels tests passed

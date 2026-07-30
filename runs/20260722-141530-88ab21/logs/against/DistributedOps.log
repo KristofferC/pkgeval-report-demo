@@ -1,0 +1,16 @@
+PkgEval job log — DistributedOps v1.0.8
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing DistributedOps...
+   Resolving package versions...
+   Installed DistributedOps ─ v1.0.8
+Precompiling packages...
+  32 dependencies successfully precompiled in 213 seconds
+Testing DistributedOps
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+DistributedOps          | 86090  46068  827.1s
+     Testing DistributedOps tests passed

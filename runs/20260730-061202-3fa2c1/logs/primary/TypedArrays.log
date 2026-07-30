@@ -1,0 +1,16 @@
+PkgEval job log — TypedArrays v2.9.9
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing TypedArrays...
+   Resolving package versions...
+   Installed TypedArrays ─ v2.9.9
+Precompiling packages...
+  25 dependencies successfully precompiled in 230 seconds
+Testing TypedArrays
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+TypedArrays          | 5463  38062  1257.1s
+     Testing TypedArrays tests passed

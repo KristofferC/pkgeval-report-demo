@@ -1,0 +1,16 @@
+PkgEval job log — BlockTables v1.13.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing BlockTables...
+   Resolving package versions...
+   Installed BlockTables ─ v1.13.7
+Precompiling packages...
+  198 dependencies successfully precompiled in 90 seconds
+Testing BlockTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+BlockTables          | 28662  35994  100.1s
+     Testing BlockTables tests passed

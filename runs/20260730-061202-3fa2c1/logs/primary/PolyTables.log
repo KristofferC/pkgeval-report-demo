@@ -1,0 +1,16 @@
+PkgEval job log — PolyTables v1.6.1
+Julia Version 1.14.0-DEV.1053
+Commit eb7ffe0e6f (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing PolyTables...
+   Resolving package versions...
+   Installed PolyTables ─ v1.6.1
+Precompiling packages...
+  135 dependencies successfully precompiled in 47 seconds
+Testing PolyTables
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+PolyTables          | 17643  5245  1183.1s
+     Testing PolyTables tests passed

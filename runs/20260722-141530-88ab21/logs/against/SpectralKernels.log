@@ -1,0 +1,16 @@
+PkgEval job log — SpectralKernels v0.7.7
+Julia Version 1.14.0-DEV.1053
+Commit db449a8745 (2026-07-29 18:40 UTC)
+Platform Info:
+  OS: Linux (x86_64-linux-gnu)
+  CPU: 4 × AMD EPYC 9R14
+Installing SpectralKernels...
+   Resolving package versions...
+   Installed SpectralKernels ─ v0.7.7
+Precompiling packages...
+  12 dependencies successfully precompiled in 47 seconds
+Testing SpectralKernels
+     Testing Running tests...
+Test Summary: | Pass  Total   Time
+SpectralKernels          | 81583  1173  788.1s
+     Testing SpectralKernels tests passed
