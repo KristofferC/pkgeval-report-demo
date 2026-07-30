@@ -931,7 +931,9 @@ function main(D) {
     const pre = row.querySelector(".taildrawer pre");
     if (!plog(r)) { pre.textContent = "(no log was recorded for this job)"; return; }
     try {
-      const resp = await fetch(plog(r), { headers: { Range: "bytes=-65536" } });
+      let resp = await fetch(plog(r), { headers: { Range: "bytes=-65536" } });
+      // some hosts (unlike S3) reject suffix ranges past EOF; take the whole log
+      if (resp.status === 416) resp = await fetch(plog(r));
       if (!resp.ok && resp.status !== 206) throw new Error("HTTP " + resp.status);
       const partial = resp.status === 206;
       const { lines, hit } = analyzeTail(await resp.text());
